@@ -22,18 +22,10 @@
       themeColor: '#0496ff',
       search: 'auto', // default
 
-    search : [
-      '/',
-      '#/',            // => /README.md
-      '/guide',       // => /guide.md
-      '/get-started', // => /get-started.md
-      '/zh-cn/',      // => /zh-cn/README.md
-    ],
-
     // complete configuration parameters
     search: {
       maxAge: 86400000, // Expiration time, the default one day
-      paths: [], // or 'auto'
+      paths: 'auto', // or 'auto'
       placeholder: 'Type to search',
 
       // Localization
@@ -57,5 +49,6 @@
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
 </body>
 </html>
