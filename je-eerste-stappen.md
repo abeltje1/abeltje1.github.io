@@ -1,6 +1,6 @@
 # Je eerste stappen
 
-Het is niet lastig om te starten met eitje, maar een klein beetje hulp kan nooit kwaad. Daarom hebben wij hier precies stap voor stap uitgelegd hoe jij zo snel mogelijk met eitje kan beginnen. 
+Het is niet lastig om te starten met eitje, maar een klein beetje hulp kan nooit kwaad. Daarom hebben wij hier stap voor stap uitgelegd hoe jij zo snel mogelijk met eitje kan beginnen. 
 
 Om te beginnen is het belangrijk om te weten dat alles in eitje draait om jouw team, alle teamleden zijn dan ook onderdeel van team **Algemeen**. Met dit team heb jij altijd een communicatie kanaal om iedereen te bereiken. Het is echter niet mogelijk om met team Algemeen te plannen. Hiervoor is het nodig om meerdere teams aan te maken, denk hierbij bijvoorbeeld aan: **Bediening**, **Keuken**, **Shiftleaders**. 
 
@@ -11,7 +11,7 @@ Om te beginnen is het belangrijk om te weten dat alles in eitje draait om jouw t
 
 Het aanmaken van een team kun je doen onder het kopje **teamleden** in de header. Hier beheer je naast alle informatie van je teamleden ook je teams. Aan de rechterkant van het scherm kun je alle teams zien die op dit moment actief zijn. Door op **Start een nieuw team** te klikken kun jij een nieuw team beginnen. Het enige wat je hoeft te doen is een teamnaam in te voeren en aan te geven of jij een chatgroep wilt activeren voor dit team. 
 
-*note: De naam en het activeren/deactiveren van de chatgroep kun je later natuurlijk gewoon nog wijzigen.*
+*De naam en het activeren/deactiveren van de chatgroep kun je later natuurlijk gewoon nog wijzigen.*
 
 Bekijk de video hieronder om te zien hoe jij een nieuw team aanmaakt en dit later weer kan wijzigen/verwijderen.
 <video controls
