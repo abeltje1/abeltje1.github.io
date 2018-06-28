@@ -18,7 +18,7 @@ Eenmaal je hele planning een keer gemaakt wil jij natuurlijk niet de volgende ke
 </video> 
 
 
-
+---
 
 
 ## Template inladen
@@ -49,6 +49,7 @@ Met de tweede knop worden ook de teamleden die al zijn ingepland op het rooster 
 </video> 
 
 
+---
 
 
 
@@ -65,7 +66,7 @@ Je teamleden kunnen hun beschikbaarheid opgeven, maar dat wil natuurlijk niet ze
 </video> 
 
 
-
+---
 
 
 
@@ -81,7 +82,7 @@ Het makkelijke aan plannen met eitje is dat deze nummers continu up-to-date zijn
 > Als een teamlid niets heeft opgegeven zal het nummer voor het aantal beschikbare shifts altijd standaard op twee staan ingesteld.
 
 
-
+---
 
 
 
@@ -95,7 +96,7 @@ Dit bevindt zich allemaal onder **Ruilen** in het menu in de app.
 
 
 
-
+---
 
 
 
@@ -111,7 +112,7 @@ Heb jij al een rooster ingeladen maar wil jij toch liever opnieuw beginnen? Je k
 </video> 
 
 
-
+---
 
 
 
@@ -120,3 +121,5 @@ Heb jij al een rooster ingeladen maar wil jij toch liever opnieuw beginnen? Je k
 Krijgen jouw teamleden standaard een maaltijdvergoeding? Je kunt dit alvast meesturen naar de urenregistratie door dit in de planning aan te geven. Meer weten over het werken met **Maaltijdvergoedingen**: [Klik dan hier](/maaltijdvergoedingen).
 Met het selecteren van een vergoeding in de shift zorgt eitje ervoor dat dit bij de urenregsitratie gelijk goed staat voor je teamleden.
 
+
+---

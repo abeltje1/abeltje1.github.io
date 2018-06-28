@@ -14,6 +14,8 @@ Het aanmaken van een shift gaat erg gemakkelijk en doe jij simpelweg door met je
        height="384">
 </video> 
 
+---
+
 ## Snel plannen
 
 YEAH, je hebt je eerste shift in eitje aangemaakt! Gelukkig hoef jij ze niet één voor één aan te maken en kun jij ook onze **Snel plannen** functie gebruiken om meerdere shifts in één keer aan te maken.
@@ -24,6 +26,9 @@ YEAH, je hebt je eerste shift in eitje aangemaakt! Gelukkig hoef jij ze niet é�
        width="683"
        height="384">
 </video> 
+
+---
+
 
 ## Teamleden inplannen
 
@@ -36,6 +41,8 @@ Nu jij al je shifts hebt aangemaakt is het tijd om te beginnen met het in te pla
        height="384">
 </video> 
 
+---
+
 ## Volgorde van teams instellen
 
 Ondertussen heb jij je eerste teamleden ingepland, maar het kan zo zijn dat jij niet helemaal tevreden bent met de volgorde van de teams zoals weergeven op de planning. Om dit te beheersen kun jij met de functie **Beheer teams** precies aangeven welke teams jij actief wilt gebruiken op de planning en in welke volgorde deze worden weergeven.
@@ -46,6 +53,9 @@ Ondertussen heb jij je eerste teamleden ingepland, maar het kan zo zijn dat jij 
        width="683"
        height="384">
 </video>
+
+---
+
 
 ## Shifts publiceren
 

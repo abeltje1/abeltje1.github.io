@@ -22,6 +22,7 @@ Bekijk de video hieronder om te zien hoe jij een nieuw team aanmaakt en dit late
 </video>
 
 
+---
 
 
 ## Teamleden uitnodigen
@@ -38,6 +39,9 @@ In deze pop-up kun jij alle e-mailadressen plakken die jij wilt toevoegen. Je ku
        width="683"
        height="384">
 </video>
+
+---
+
 
 ## Teamleden toevoegen aan teams
 

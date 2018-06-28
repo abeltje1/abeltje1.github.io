@@ -15,6 +15,8 @@ Als jij voor het eerst het handboek opent zul jij automatisch al een nieuw handb
 </video>
 
 
+---
+
 ## Lettergrote aanpassen
 
 Om het makkelijk leesbaar te maken voor je teamleden is het natuurlijk fijn om de opmaak van de tekst aan te kunnen passen. In de tekst editor kun je kiezen uit verschillende font-sizes en je kunt de tekst natuurlijk **Bold** maken.
@@ -25,6 +27,9 @@ Om het makkelijk leesbaar te maken voor je teamleden is het natuurlijk fijn om d
        width="683"
        height="384">
 </video>
+
+
+---
 
 
 ## Invoegen van foto's
@@ -39,6 +44,8 @@ Natuurlijk kun je ook plaatjes toevoegen aan je handleiding. Hiervoor adviseren 
 </video>
 
 
+---
+
 ## Invoegen van bijlagen
 
 Natuurlijk kun jij ook bijlagen toevoegen zodat je teamleden deze kunnen downloaden. Dit doe je net zoals met het uploaden van een foto, maar dan kies je simpelweg voor het uploaden van een **File**.
@@ -51,6 +58,8 @@ Natuurlijk kun jij ook bijlagen toevoegen zodat je teamleden deze kunnen downloa
 </video>
 
 
+---
+
 ## Lijstjes maken
 
 Ook het maken van een lijstje gaat op dezelfde manier. Je kunt kiezen om een lijst met bullets te maken, of een lijstje geordend op nummer.
@@ -61,6 +70,8 @@ Ook het maken van een lijstje gaat op dezelfde manier. Je kunt kiezen om een lij
        width="683"
        height="384">
 </video>
+
+---
 
 
 ## Items selecteren voor het inwerken
@@ -76,6 +87,9 @@ Nu jij alle informatie voor je teamleden in eitje hebt gezet kun jij dit goed ge
        height="384">
 </video>
 
+---
+
+
 ## Sorteren van handboek artikelen
 
 Het kan zo zijn dat jij het handboek eigenlijk liever op een andere volgorde wilt weergeven aan je teamleden. Hiervoor hebben wij een handige sorteer functie gemaakt. Je gebruikt deze door onder je artikelen aan de linkerkant op **Sorteer items** te klikken. In de pop-up kun je gemakkelijk de ordening bepalen door de verschillende artikelen van plek te verschuiven.
@@ -88,4 +102,5 @@ Het kan zo zijn dat jij het handboek eigenlijk liever op een andere volgorde wil
 </video>
 
 
+---
 
