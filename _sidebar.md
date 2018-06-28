@@ -13,9 +13,9 @@
 
 * Urenregistreren met eitje
 
-	* [Urenregistratie](urenregistratie.md)
+	* [Uren schrijven & accorderen](urenregistratie.md)
 	* [Contracten](contracten.md)
-	* [Loonkosten berekenen](loonkosten.md)
+	* [Arbeidsproductiviteit & Loonkosten](loonkosten.md)
 	* [Exporteren & Analyses](exporteren.md)
 	* [Plus & Min uren](plusmin.md)
 	* [Verlof registratie](verlof.md)
