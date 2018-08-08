@@ -62,6 +62,8 @@ Over het algemeen is eitje niet heel moeilijk, maar zelfs wij vinden het nogal l
 
 Zo kun jij dus precies bepalen voor hoeveel procent de gewerkte uren van een bepaald team worden meegenomen in de berekeningen voor de arbeidsproductiviteit en loonkosten.
 
+Standaard zijn er twee omzetgroepen geactiveerd: Bediening & Keuken. Deze kun jij natuurlijk wel hernoemen mocht jij hier andere benamingen voor gebruiken. Daarnaast kun je ook nog omzetgroepen toevoegen en/of verwijderen. Denk hierbij bijvoorbeeld aan omzet voor Delivery, Tickets etc.
+
 
 ## Streefgetal loonkosten
 

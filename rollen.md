@@ -34,6 +34,14 @@ Soms heb jij teamleden die wel **Uren** mogen schrijven voor je teamleden, maar 
 
 ---
 
+## Contracten
+
+Teamleden die beschikken over dit recht mogen de contracten inzien bij teamleden en deze aanmaken. Teamleden die deze rechten niet hebben zullen het contract dan ook niet kunnen inzien. Een teamlid kan natuurlijk wel altijd zijn eigen contract inzien.
+
+> Met de **Contracten** rol beheer je wie contracten mogen inzien en aanpassen.
+
+---
+
 ## Onroosterbaar
 
 Teamleden die wel in eitje zitten, maar nooit op het rooster staan? Dan is het handig om deze teamleden toe te voegen aan de rol **Onroosterbaar** Zo kunnen deze teamleden niet ingepland worden en worden zij niet meegenomen in ruilverzoeken en uitvragen voor open shifts.

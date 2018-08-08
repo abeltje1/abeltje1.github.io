@@ -17,8 +17,9 @@
 	* [Contracten](contracten.md)
 	* [Arbeidsproductiviteit & Loonkosten](loonkosten.md)
 	* [Exporteren & Analyses](exporteren.md)
-	* [Plus & Min uren](plusmin.md)
-	* [Verlof registratie](verlof.md)
+	* [Plus/Min & Verlof registratie](plusmin.md)
+	* [Verlof accorderen](verlofAccorderen.md)
+
 
 * eitje instellen
 	* [Instellingen beheren](instellingen.md)
