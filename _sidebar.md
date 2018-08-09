@@ -24,3 +24,4 @@
 * eitje instellen
 	* [Instellingen beheren](instellingen.md)
 	* [Rollen instellen](rollen.md)
+	* [Koppelingen](koppelingen.md)
