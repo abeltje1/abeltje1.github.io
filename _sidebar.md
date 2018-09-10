@@ -5,6 +5,7 @@
 	* [Je eerste stappen](je-eerste-stappen.md)
 	* [Starten met plannen](starten-met-plannen.md)
 	* [Handige rooster functies](handige-rooster-functies.md)
+	* [Werken met beschikbaarheid](werken-met-beschikbaarheid.md)
 
 * Je team aansturen
 
@@ -22,6 +23,7 @@
 
 
 * eitje instellen
+
 	* [Instellingen beheren](instellingen.md)
 	* [Rollen instellen](rollen.md)
 	* [Koppelingen](koppelingen.md)
