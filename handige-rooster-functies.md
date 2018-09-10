@@ -69,6 +69,23 @@ Je teamleden kunnen hun beschikbaarheid opgeven, maar dat wil natuurlijk niet ze
 ---
 
 
+## Events aanmaken
+
+Het gebeurd nu eenmaal af en toe dat er iets bijzonders in de agenda staat. Een feestje, verjaardag, training, vergadering of een belangrijke wedstrijd van jullie favoriete club. Dit kun je makkelijk communiceren naar je teamleden met het aanmaken van een **Event**. Deze komen gewoon terug in de planning en springen er gemakkelijk tussenuit zodat teamleden er niet overeen kijken. Daarnaast kunnen je teamleden in de app ook aangeven of ze hierbij zijn, erg gemakkelijk als jij die vergadering wilt inplannen en wilt bekijken welke data het meest mensen kunnen. Bekijk hieronder het filmpje hoe je een Event aanmaakt.
+
+> Let op: In tegenstelling tot shifts hoef je een event niet te publiceren. Dit gebeurd automatisch als jij op OK drukt. 
+
+<video controls
+       muted 
+       src="/assets/eventAanmaken.mov"
+       width="683"
+       height="384">
+</video> 
+
+
+---
+
+
 
 ## Bijhouden van aantal shifts
 
