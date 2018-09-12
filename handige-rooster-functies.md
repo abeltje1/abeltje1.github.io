@@ -8,11 +8,13 @@ Je hebt de basis van plannen met eitje ervaren, maar gelukkig zijn er nog veel m
 
 
 ## Template opslaan
-Eenmaal je hele planning een keer gemaakt wil jij natuurlijk niet de volgende keer weer helemaal opnieuw beginnen. Je kunt daarom een **Template** opslaan via **Acties** zodat jij deze elke week kunt inladen. 
+In eitje kun je gemakkelijk een template maken van je roosters. Zo maak je simpel verschillende templates voor bijvoorbeeld de zomer en winter. In deze handleiding kijken wij eerst hoe je een template opslaat. 
+
+> Het is handig om te weten dat eitje altijd elke shift in de geselecteerde teams opslaat. Denk er dus goed aan welke teams je selecteert bij het opslaan.
 
 <video controls
        muted 
-       src="/assets/templateOpslaan.mov"
+       src="/assets/newTemplate.mov"
        width="683"
        height="384">
 </video> 
@@ -22,28 +24,16 @@ Eenmaal je hele planning een keer gemaakt wil jij natuurlijk niet de volgende ke
 
 
 ## Template inladen
-Bij een nieuwe week heb jij altijd twee knoppen:
-* Template inladen met alleen shifts
-* Template inladen met shifts en teamleden
+Bij het inladen van een template heb je altijd twee mogelijkheden:
+* **Zonder teamleden**: Alle shifts zijn nog open
+* **Met teamleden**: teamleden die in het template zijn opgeslagen zijn alvast ingepland
 
-**Template inladen met alleen shifts**
-Met deze knop zorg jij ervoor dat er alleen **Open shifts** worden ingeladen. 
+> In onderstaand voorbeeld zullen wij een template inladen met teamleden.
+
 
 <video controls
        muted 
        src="/assets/templateInladen.mov"
-       width="683"
-       height="384">
-</video> 
-
-**Template inladen met shifts en teamleden**
-Met de tweede knop worden ook de teamleden die al zijn ingepland op het rooster geplaatst. Zo kun je gemakkelijk teamleden die op vaste dagen werken inplannen.
-
-> Zoals hieronder in het filmpje weergegeven checkt eitje natuurlijk nog wel even of je teamlid op deze specifieke dag beschikbaar is. Met de groene knop plan je het teamlid gewoon in en met de rode knop zal deze van de shift worden verwijderd.  
-
-<video controls
-       muted 
-       src="/assets/templateInladenTeamleden.mov"
        width="683"
        height="384">
 </video> 
@@ -119,7 +109,7 @@ Dit bevindt zich allemaal onder **Ruilen** in het menu in de app.
 
 ## Week leegmaken
 
-Heb jij al een rooster ingeladen maar wil jij toch liever opnieuw beginnen? Je kunt de gehele week met één druk op de knop leegmaken onder **Acties**. 
+Heb jij al een rooster ingeladen maar wil jij toch liever opnieuw beginnen? Je kunt de gehele week van een team met één druk op de knop leegmaken onder **Acties**. 
 
 <video controls
        muted 
