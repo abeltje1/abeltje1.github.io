@@ -31,7 +31,7 @@ Over het algemeen verschillen je weken hopelijk niet teveel van elkaar. Je meest
 
 
 ## Beschikbaarheid dichtzetten
-In sommige gevallen wil je dat teamleden geen beschikbaarheid kunnen doorgeven voor een bepaalde dag. Dit doe je door de beschikbaarheid dicht te zetten door het vinkje onder de datum uit te vinken. Daarnaast sluiten de desbetreffende dagen ook automatisch als het rooster wordt gepubliceerd.
+Je kunt de mogelijkheid voor het doorgeven van beschikbaarheid ook dichtzetten. Onder de datum van vandaag in de planning zie jij een blauw vinkje met de tekst "Beschikbaarheid open". Door het vinkje uit te zetten zal de beschikbaarheid voor deze dag dichtgaan. Daarnaast kun je bij het publiceren van het rooster ook automatisch alle dagen automatisch uitzetten. Als het vinkje is uitgeschakeld zullen teamleden niet meer hun beschikbaarheid kunnen aanpassen, jij kan dit als manager natuurlijk nog wel. 
 
 > Het kan zo zijn dat er geen vinkje meer staat bij een dag. Dit komt omdat deze dag dan automatisch al is dichtgezet door de instellingen. Heb je hier een vraag over [kijk dan even bij deze handleiding](werken-met-beschikbaarheid?id=de-verschillende-instellingen-voor-beschikbaarheid) naar het laatste punt.
 
