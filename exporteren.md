@@ -2,7 +2,7 @@
 Aangezien er veel informatie bekend is in eitje over de gewerkte uren, loonkosten en omzetten kunnen wij een aantal onderdelen erg gemakkelijk voor jou maken. In deze handleiding laten wij precies zien welke analyses en exports je allemaal met eitje kunt uitvoeren.
 
 ## Exporteren van de gewerkte uren
-Als alle uren eenmaal zijn geaccordeerd (oftewel: in het groen of rood worden weergegeven) kun je de uren gemakkelijk uit eitje halen voor de verloning. In het filmpje hieronder laten wij zien hoe jij de uren naar Excel importeert.
+Als alle uren eenmaal zijn geaccordeerd (oftewel: in het groen of rood worden weergegeven) kun je de uren gemakkelijk uit eitje halen voor de verloning. Dit doe je door via Uren naar het Details scherm te navigeren. In het filmpje hieronder laten wij zien hoe jij de uren naar Excel exporteert.
 
 Je kunt de uren op twee verschillende manieren exporteren:
 
