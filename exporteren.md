@@ -4,12 +4,16 @@ Aangezien er veel informatie bekend is in eitje over de gewerkte uren, loonkoste
 ## Exporteren van de gewerkte uren
 Als alle uren eenmaal zijn geaccordeerd (oftewel: in het groen of rood worden weergegeven) kun je de uren gemakkelijk uit eitje halen voor de verloning. In het filmpje hieronder laten wij zien hoe jij de uren naar Excel importeert.
 
-> Het is ook mogelijk om rechtstreeks te koppelen met jouw salarisadministratie pakket. Daarvoor verwijzen wij je graag naar deze pagina.
+Je kunt de uren op twee verschillende manieren exporteren:
 
+* **per gebruiker**: Dit geeft een opsomming van de gewerkte uren/verlof/maaltijden per gebruiker onder elkaar 
+* **per dag**: Dit geeft een opsomming van de gewerkte uren / maaltijden per dag <br>*De export per dag wordt het meest gebruikt voor verwerking in de salarisadministratie*
+
+> Het is ook mogelijk om rechtstreeks te koppelen met jouw salarisadministratie pakket. Daarvoor verwijzen wij je graag naar onze handleiding m.b.t. [koppelingen](/koppelingen).
 
 <video controls
        muted 
-       src="/assets/urenExporteren.mov"
+       src="/assets/exporteren.mov"
        width="683"
        height="384">
 </video>
