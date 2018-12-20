@@ -7,3 +7,4 @@ Mocht je toch niet helemaal uitkomen, schroom dan niet om te mailen naar [Suppor
 
 
 > Begin jij net met eitje? [Klik dan hier](/je-eerste-stappen)
+> Wil jij inklokken met eitje [Klik dan hier](/eitjeopdevloer)
