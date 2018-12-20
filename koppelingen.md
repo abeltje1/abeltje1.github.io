@@ -31,22 +31,58 @@ Om je Nmbrs account aan eitje te koppelen moet jij in eitje twee velden invullen
 </video>
 
 
-Stuur deze waardes in een e-mail naar support@eitje-app.nl dan activeren wij zo snel mogelijk de koppeling.
+Om de koppeling in eitje te activeren hoef je alleen maar de bovenstaande waardes in te vullen. Dit doe je onder de instellingen van de urenregistratie: 
+
+<video controls
+       muted 
+       src="/assets/nmbrsActiveren.mov"
+       width="683"
+       height="384">
+</video>
 
 ---
 
 
 **Teamleden synchroniseren**
 
-Deze informatie volgt z.s.m
+Na het activeren van de koppeling hoef je alleen nog maar op **synchroniseren** te klikken om de informatie van je teamleden te synchroniseren met de informatie uit Nmbrs.
+
+<video controls
+       muted 
+       src="/assets/teamledenNmbrs.mov"
+       width="683"
+       height="384">
+</video>
+
+
+---
+
+**Instellen van verloningsperiode**
+
+Het doorzetten van de uren naar Nmbrs kan alleen als alle contractinstellingen goed staan afgesteld. Het gaat hier om de volgende twee contracttypes:
+
+* Nul uren contract
+* Uren contract
+
+Hiervoor is het van belang dat de periode van de verloning en de startdatum van je verloningsperiode bij beide staan ingesteld. Als deze instellingen niet zijn gedaan kan eitje niet bepalen welke periodes er zijn en dus ook niet de uren aan het eind van de periode doorzetten. 
+
 
 ---
 
 **Uren doorzetten naar Nmbrs**
 
-Deze informatie volgt z.s.m
+Nu de koppeling is geactiveerd en alle instellingen juist staan afgesteld kan je aan het eind van de periode de uren van je teamleden en de bijbehorende maaltijden rechtstreeks inschieten in Nmbrs. Dit doe je als volgt:
+
+<video controls
+       muted 
+       src="/assets/exporterenNmbrs.mov"
+       width="683"
+       height="384">
+</video>
+
 
 ---
+
 
 ## Horecalonen
 
