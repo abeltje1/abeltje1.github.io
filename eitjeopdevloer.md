@@ -6,7 +6,7 @@ Door het gebruik van eitjeopdevloer kun je gemakkelijk je eigen kloksysteem opze
 
 
 ## Download eitjeopdevloer
-Je kunt op een tablet zowel via de <a href="https://play.google.com/store/apps/details?id=com.eitjeopdevloer" target="blank">Google PlayStore</a> als de <a href="https://play.google.com/store/apps/details?id=com.eitjeopdevloer" target="blank">Apple Store</a> eitjeopdevloer downloaden.
+Je kunt op een tablet zowel via de <a href="https://play.google.com/store/apps/details?id=com.eitjeopdevloer" target="blank">Google PlayStore</a> als de <a href="https://itunes.apple.com/nl/app/eitjeopdevloer/id1446451276?mt=8" target="blank">Apple Store</a> eitjeopdevloer downloaden.
 
 ## eitjeopdevloer koppelen aan je eitje omgeving
 Als je de app opstart zal deze vragen om een keyID en een secretID. Deze kun je aanmaken via je eitje omgeving en zal ervoor zorgen dat de geklokte uren van je teamleden in eitje er worden bijgeschreven. Om dit te doen ga je via de webversie van eitje naar Bedrijf en kies je in de linker navigatie op: eitjeopdevloer.
