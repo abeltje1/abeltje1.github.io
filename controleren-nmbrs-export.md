@@ -1,6 +1,6 @@
 # Controleren van je export naar NMBRS
 
-Het is natuurlijk altijd van belang om de uren uit eitje even te controleren met de data die binnenkomt in NMBRS. Zo voorkom je fouten en zorg jij ervoor dat je teamleden netjes en juist uitbetaald worden.
+> Het is natuurlijk altijd van belang om de uren uit eitje even te controleren met de data die binnenkomt in NMBRS. Zo voorkom je fouten en zorg jij ervoor dat je teamleden netjes en juist uitbetaald worden.
 
 
 **Controleer data in eitje**
