@@ -6,6 +6,14 @@ Het correct bijhouden van de plus/min en verlof uren van je teamleden kan een ti
 
 ---
 
+## Wat houden beide principes in
+
+Wat is nu eigenlijk precies het verschil tussen het plus/min en het verlof saldo. 
+
+**Plus/Min**: Het plus/min saldo is alleen van belang voor vaste krachten. Deze hebben een X aantal contracturen in de week die zij moeten maken. Door in eitje de uren te registreren kun je vervolgens precies zien of iemand meer of minder dan haar contract heeft gewerkt. Als er iemand in de ene periode te weinig werkt zal dit dus resulteren in een negatief saldo voor dit teamlid.
+**Verlof**: Het verlof saldo houdt bij of jouw teamleden niet te veel of juist te weinig vrije dagen hebben opgenomen. Dit heeft dus in tegenstelling tot plus/min uren niks te maken met het aantal gewerkte uren, maar met het opgenomen aantal verlof uren. Als een teamlid geen verlof uren meer overheeft, maar wel beschikt over een positief plus/min saldo zou deze medewerker dus theoretisch nog steeds vrij kunnen nemen want er zijn al meer uren gewerkt dan contractueel vastgelegd. 
+ 
+
 ## Huidig saldo
 
 Het huidige saldo van je teamleden wordt altijd weergegeven in de bovenste grafiek. Een rode lijn betekend een negatief saldo en een blauwe lijn weergeeft een positieve waarde. Zoals je hieronder op de foto ziet is het huidige saldo altijd weergeven, zelfs als je de periode aanpast zal dit geen invloed hebben op de data in de grafiek.  
