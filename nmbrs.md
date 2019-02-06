@@ -1,10 +1,3 @@
-# Koppelingen
-
-* [Nmbrs](/koppelingen?id=nmbrs)
-* [Horecalonen](/koppelingen?id=horecalonen)
-* [Connexie](/koppelingen?id=connexie)
-
-
 ## Nmbrs 
 
 Door je eitje account te koppelen aan je Nmbrs account zorg jij ervoor dat het verwerken van je personeelsgegevens en de gewerkte uren nog minder tijd kost en er ook nog eens minder fouten worden gemaakt. De koppeling met Nmbrs zorgt voor twee verschillende voordelen die wij beide hier apart behandelen. 
@@ -82,32 +75,3 @@ Nu de koppeling is geactiveerd en alle instellingen juist staan afgesteld kan je
 
 
 ---
-
-
-## Horecalonen
-
-Maak jij loonstroken via horecalonen/loonstrookgigant? Dan kun je gemakkelijk de uren doorzetten vanuit eitje met onze koppeling. Je activeert deze onder: 
-
-> Bedrijf > Instellingen > Activeer koppeling > Horecalonen > OK
-
-Om uiteindelijk de uren vanuit eitje naar Horecalonen te krijgen voer je de volgende handeling uit in de urenregistratie: 
-
-**Let op: om de koppeling goed te laten werken is het van belang dat van alle teamleden het BSN nummer is ingevuld in eitje.**
-
-<video controls
-       muted 
-       src="/assets/horecalonenKoppeling.mov"
-       width="683"
-       height="384">
-</video>
-
----
-
-
-
-## Connexie
-
-Staan jouw teamleden onder contract bij Connexie en wil jij gebruik maken van onze koppeling om de gewerkte uren gemakkelijk naar Conexxie door te zetten? Het enige wat jij hoeft te doen is onder **Bedrijf** de koppeling met Connexie te activeren. Het enige wat jij hoeft te doen is:
-> Bedrijf > Instellingen > Activeer koppeling > Connexie > OK
-
-Vervolgens zul jij tijdens het exporteren van de uren ook de optie erbij krijgen om te exporteren naar Connexie. 

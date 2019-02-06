@@ -30,8 +30,11 @@
 
 * Koppelingen
 
-	* [Koppelingen](koppelingen.md)
+	* [NMBRS](nmbrs.md)
 	* [NMBRS data controleren](controleren-nmbrs-export.md)
+	* [Horecalonen](horecalonen.md)
+	* [Connexie](Connexie.md)
+	
 	
 
 * eitjeopdevloer
