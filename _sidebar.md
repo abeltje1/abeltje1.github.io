@@ -31,7 +31,6 @@
 * Koppelingen
 
 	* [NMBRS](nmbrs.md)
-	* [NMBRS data controleren](controleren-nmbrs-export.md)
 	* [Horecalonen](horecalonen.md)
 	* [Connexie](Connexie.md)
 	
