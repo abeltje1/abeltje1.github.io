@@ -33,7 +33,7 @@
 
 	* [NMBRS](nmbrs.md)
 	* [Horecalonen](horecalonen.md)
-	* [Connexie](Connexie.md)
+	* [Connexie](connexie.md)
 	* [Kassatellen](kassatellen.md)
 	
 	

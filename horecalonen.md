@@ -1,5 +1,3 @@
-## Horecalonen
-
 Maak jij loonstroken via horecalonen/loonstrookgigant? Dan kun je gemakkelijk de uren doorzetten vanuit eitje met onze koppeling. Je activeert deze onder: 
 
 > Bedrijf > Instellingen > Activeer koppeling > Horecalonen > OK
