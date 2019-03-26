@@ -18,11 +18,17 @@ Teamleden die beschikken over de manager rol kunnen heel veel, maar net wat mind
 
 ---
 
+## Contracten
+
+Teamleden die beschikken over dit recht mogen de contracten inzien bij teamleden en deze aanmaken. Teamleden die deze rechten niet hebben zullen het contract dan ook niet kunnen inzien. Een teamlid kan natuurlijk wel altijd zijn eigen contract inzien.
+
+> Met de **Contracten** rol beheer je wie contracten mogen inzien en aanpassen.
+
 ## Uren Accorderen
 
 Teamleden die de gewerkte uren mogen goedkeuren zijn bij eitje **Accordeerders**. Deze personen kunnen bij het kopje **Uren** ook de gewerkte uren van de andere teamleden zien en mogen deze dus aanpassen naar de status **Verwerkt** (ook wel groen). Daarnaast krijgen deze teamleden zo ook toegang tot de verlof en plus/min registratie.
 
-> Een teamlid met de rol **Uren Accorderen** kan uren aanpassen en goedkeuren in de urenregistratie. Daarnaast krijg deze persoon ook toegang tot de **contracten** van teamleden.
+> Een teamlid met de rol **Uren Accorderen** kan uren aanpassen en goedkeuren in de urenregistratie, daarnaast geeft deze rol ook toegang tot de **Saldo** pagina. 
 
 ---
 
@@ -34,11 +40,12 @@ Soms heb jij teamleden die wel **Uren** mogen schrijven voor je teamleden, maar 
 
 ---
 
-## Contracten
+## Financieel
 
-Teamleden die beschikken over dit recht mogen de contracten inzien bij teamleden en deze aanmaken. Teamleden die deze rechten niet hebben zullen het contract dan ook niet kunnen inzien. Een teamlid kan natuurlijk wel altijd zijn eigen contract inzien.
+Met het toekennen van de rol financieel krijgen teamleden toegang tot de **Details** pagina van de urenregistratie. Hiermee heeft een teamlid alle mogelijkheden van de urenregistratie. Zo kan deze analyses maken op basis van de data, of deze exporteren vanuit eitje. 
 
-> Met de **Contracten** rol beheer je wie contracten mogen inzien en aanpassen.
+> Deze rol geeft toegang tot de **Details** pagina van de urenregistratie.
+
 
 ---
 
