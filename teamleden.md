@@ -50,3 +50,17 @@ Je kunt een contract aanmaken voor een teamlid door het profiel van het desbetre
 
 
 ---
+
+## Informatie van teamlid bewerken
+
+Via het profiel van een teamlid kun je als manager ook de persoonlijke informatie aanpassen. Bekijk hieronder in het filmpje hoe dit te werk gaat.
+
+<video controls
+       muted 
+       src="/assets/teamlidInformatieBewerken.mov"
+       width="683"
+       height="384">
+</video>
+
+
+---
