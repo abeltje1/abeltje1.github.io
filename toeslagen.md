@@ -15,7 +15,7 @@ Je kunt een toeslag aanmaken via de instellingen onder Bedrijf. In het onderstaa
 
 <video controls
        muted 
-       src="/assets/feestdagtoeslag.mov"
+       src="/assets/feestdagToeslag.mov"
        width="683"
        height="384">
 </video>
