@@ -21,6 +21,7 @@
 	* [Exporteren & Analyses](exporteren.md)
 	* [Plus/Min & Verlof registratie](plusmin.md)
 	* [Verlof accorderen](verlofAccorderen.md)
+	* [Toeslagen op shift](toeslagen.md)
 
 
 * eitje instellen
