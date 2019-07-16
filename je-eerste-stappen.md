@@ -51,6 +51,8 @@ Na het toevoegen van je teamleden is iedereen automatisch toegevoegd aan team **
 * Kies de teamleden die je wilt toevoegen.
 * Klik op **Doorvoeren**.
 
+> **In de nieuwe versie van eitje kun je de teamleden toevoegen door op 'Beheer teamleden' te klikken nadat je een team hebt geselecteerd.**
+
 <video controls
        muted 
        src="/assets/toevoegenTeams.mov"
