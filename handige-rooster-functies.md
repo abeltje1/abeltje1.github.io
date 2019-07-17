@@ -14,7 +14,7 @@ In eitje kun je gemakkelijk een template maken van je roosters. Zo maak je simpe
 
 <video controls
        muted 
-       src="/assets/newTemplate.mov"
+       src="/assets/newTemplateV2.mov"
        width="683"
        height="384">
 </video> 
@@ -24,7 +24,7 @@ In eitje kun je gemakkelijk een template maken van je roosters. Zo maak je simpe
 
 
 ## Template inladen
-Bij het inladen van een template heb je altijd twee mogelijkheden:
+Als er nog geen shifts in het desbetreffende team zijn aangemaakt kun je een template inladen. Bij het inladen van een template heb je altijd twee mogelijkheden:
 * **Zonder teamleden**: Alle shifts zijn nog open
 * **Met teamleden**: teamleden die in het template zijn opgeslagen zijn alvast ingepland
 
@@ -33,7 +33,7 @@ Bij het inladen van een template heb je altijd twee mogelijkheden:
 
 <video controls
        muted 
-       src="/assets/templateInladen.mov"
+       src="/assets/templateInladenV2.mov"
        width="683"
        height="384">
 </video> 
@@ -46,11 +46,11 @@ Bij het inladen van een template heb je altijd twee mogelijkheden:
 
 ## Onbeschikbare medewerkers inplannen
 
-Je teamleden kunnen hun beschikbaarheid opgeven, maar dat wil natuurlijk niet zeggen dat ze nu niet meer ingepland kunnen worden. Door op de shift te klikken en bij **Uitgevoerd door** naar beneden te scrollen zie jij vanzelf alle mensen die onbeschikbaar zijn. Deze kun jij gewoon selecteren en inplannen.
+Je teamleden kunnen hun beschikbaarheid opgeven, maar dat wil natuurlijk niet zeggen dat ze nu niet meer ingepland kunnen worden. Door op de shift te klikken en bij **Uitgevoerd door** naar beneden te scrollen zie jij vanzelf alle mensen die onbeschikbaar zijn. Deze kun jij gewoon selecteren en inplannen. Als er sprake is van een conflict tussen de beschikbaarheid en de shift van een teamlid zal dit kaartje automatisch rood oplichten. 
 
 <video controls
        muted 
-       src="/assets/onbeschikbaarInplannen.mov"
+       src="/assets/onbeschikbaarInplannenV2.mov"
        width="683"
        height="384">
 </video> 
@@ -67,7 +67,7 @@ Het gebeurd nu eenmaal af en toe dat er iets bijzonders in de agenda staat. Een 
 
 <video controls
        muted 
-       src="/assets/eventAanmaken.mov"
+       src="/assets/eventAanmakenV2.mov"
        width="683"
        height="384">
 </video> 
@@ -113,7 +113,7 @@ Heb jij al een rooster ingeladen maar wil jij toch liever opnieuw beginnen? Je k
 
 <video controls
        muted 
-       src="/assets/weekLeegmaken.mov"
+       src="/assets/weekLeegmakenV2.mov"
        width="683"
        height="384">
 </video> 
