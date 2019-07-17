@@ -15,10 +15,11 @@ De urenregistratie heeft verschillende stappen voor het schrijven en goedkeuren 
 * **Blauw - Nog in te vullen:** Dit betekend dat er nog geen uren zijn geschreven voor deze shift, maar dat deze wel ingevuld kunnen worden. Deze urenregel zal automatisch worden aangemaakt voor het teamlid als de shift is begonnen. *Zolang de urenregel nog blauw is kun je de shift ook nog aanpassen in de planning.*
 * **Oranje - Nog te accorderen:** Na het schrijven van de uren zal de urenregel oranje kleuren. Dit houdt in dat de uren zijn geschreven, maar de uren nog goedgekeurd moeten worden door iemand met de rol **Uren Accorderen**. Ook kun je nu deze persoon niet meer van de planning afhalen. *Zolang de uren nog niet zijn verwerkt zullen deze ook nooit worden meegenomen met het exporteren.*
 * **Groen - Verwerkt:** Als de uren zijn goedgekeurd door een teamlid met de rol **Uren Accorderen** zal de urenregel groen worden. Dit betekend dat de uren zijn goedgekeurd en deze mee mogen met de export naar de salarisadministratie. Mocht er een fout zijn gemaakt kun jij natuurlijk wel de uren nog aanpassen.
+* **Paars - Verlof:** Als er verlof wordt opgenomen kan er afhankelijk van het contracttype ook verlof worden geschreven voor een teamlid. Deze uren zullen in het paars worden weergegeven en zullen dan ook van het verlofsaldo worden ingehouden.
 
 Daarnaast zijn er nog twee kleuren om een bijzondere actie aan te geven:
 
-* **Rood - Improductief:** Urenregels die worden geboekt onder improductief zijn **Verlof, Ziek & Bijzonder verlof**. *Deze hoef jij alleen te gebruiken als je ook gebruikt maakt van de verlof en/of plus/min uren functionaliteit. Zo zorg jij ervoor dat deze registratie kloppend is.*
+* **Rood - Improductief:** Urenregels die worden geboekt onder improductief zijn **Ziek & Bijzonder verlof**. *Deze hoef jij alleen te gebruiken als je ook gebruikt maakt van de verlof en/of plus/min uren functionaliteit. Zo zorg jij ervoor dat deze registratie kloppend is.*
 * **Wit - Geëxporteerd:** Als de uren zijn geëxporteerd naar één van onze partners zullen de urenregels wit gekleurd worden. Dit gebeurd **alleen** bij het kiezen van een koppeling.
 
 
@@ -38,11 +39,24 @@ Als de uren vanuit een shift worden aangemaakt zal deze altijd de start- en eind
 
 ## Uren accorderen
 
-Het accorderen van de gewerkte uren kan alleen gedaan worden door teamleden met de rol **Uren Accorderen**. Teamleden die deze rol bezitten hoeven simpelweg de uren te schrijven om deze goed te keuren. Dit kunnen zij zowel via de app als via het webplatform.  
+Het accorderen van de gewerkte uren kan alleen gedaan worden door teamleden met de rol **Uren Accorderen**. Teamleden die deze rol bezitten hoeven simpelweg de uren te controleren en deze goed te keuren. Dit kunnen zij zowel via de app als via het webplatform. In dit filmpje kijken wij naar de mogelijkheid om meerdere uren met één druk op de knop goed te keuren. 
 
 <video controls
        muted 
-       src="/assets/urenSchrijven.mov"
+       src="/assets/snelAccorderenV2.mov"
+       width="683"
+       height="384">
+</video>
+
+---
+
+## Week overzicht
+
+Ook in het week overzicht kun je uren accorderen. Dit doe je door op een shift te klikken en vervolgens op goedkeuren te klikken. Ook zie je hier precies wie wat heeft veranderd aan de uren. 
+
+<video controls
+       muted 
+       src="/assets/weekOverzichtV2.mov"
        width="683"
        height="384">
 </video>
