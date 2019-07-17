@@ -9,7 +9,7 @@ Nu jij je teams en teamleden hebt aangemaakt ben jij er klaar voor om te gaan pl
 Het aanmaken van een shift gaat erg gemakkelijk en doe jij simpelweg door met je muis over een bepaalde **dag** heen te gaan. Als jij op de juiste plek staat komt er vanzelf een **Toevoegen** knop. Klik hierop om de pop-up te openen waarmee jij de shift details kunt invullen.
 <video controls
        muted 
-       src="/assets/aanmakenShift.mov"
+       src="/assets/aanmakenShiftV2.mov"
        width="683"
        height="384">
 </video> 
@@ -22,7 +22,7 @@ YEAH, je hebt je eerste shift in eitje aangemaakt! Gelukkig hoef jij ze niet Ã©Ã
 
 <video controls
        muted 
-       src="/assets/snelPlannen.mov"
+       src="/assets/snelPlannenV2.mov"
        width="683"
        height="384">
 </video> 
@@ -36,7 +36,7 @@ Nu jij al je shifts hebt aangemaakt is het tijd om te beginnen met het in te pla
 
 <video controls
        muted 
-       src="/assets/teamledenPlannen.mov"
+       src="/assets/teamledenPlannenV2.mov"
        width="683"
        height="384">
 </video> 
@@ -45,11 +45,11 @@ Nu jij al je shifts hebt aangemaakt is het tijd om te beginnen met het in te pla
 
 ## Volgorde van teams instellen
 
-Ondertussen heb jij je eerste teamleden ingepland, maar het kan zo zijn dat jij niet helemaal tevreden bent met de volgorde van de teams zoals weergeven op de planning. Om dit te beheersen kun jij met de functie **Beheer teams** precies aangeven welke teams jij actief wilt gebruiken op de planning en in welke volgorde deze worden weergeven.
+Ondertussen heb jij je eerste teamleden ingepland, maar kan het zo zijn dat jij behoefte hebt aan meer teams. Om dit te beheersen kun jij met de functie **Beheer teams** precies aangeven welke teams jij actief wilt gebruiken op de planning en in welke volgorde deze worden weergeven.
 
 <video controls
        muted 
-       src="/assets/teamsPlanningInstellen.mov"
+       src="/assets/teamsPlanningInstellenV2.mov"
        width="683"
        height="384">
 </video>
@@ -65,7 +65,7 @@ Nu je shifts zijn aangemaakt en iedereen is ingepland wordt het tijd om het roos
 
 <video controls
        muted 
-       src="/assets/shiftsPubliceren.mov"
+       src="/assets/shiftsPublicerenV2.mov"
        width="683"
        height="384">
 </video>

@@ -16,7 +16,7 @@ Het aanmaken van een team kun je doen onder het kopje **teamleden** in de header
 Bekijk de video hieronder om te zien hoe jij een nieuw team aanmaakt en dit later weer kan wijzigen/verwijderen.
 <video controls
        muted 
-       src="/assets/teamAanmaken.mov"
+       src="/assets/teamAanmakenV2.mov"
        width="683"
        height="384">
 </video>
@@ -27,15 +27,13 @@ Bekijk de video hieronder om te zien hoe jij een nieuw team aanmaakt en dit late
 
 ## Teamleden uitnodigen
 
-Nu jij de teamstructuur in eitje hebt aangemaakt is het tijd om je teamleden uit te nodigen. Het enige wat jij hiervoor nodig hebt is een lijst met alle e-mailadressen. Klik op de teamleden pagina rechtsboven op **Uitnodigen** om het scherm te openen.
+Nu jij de teamstructuur in eitje hebt aangemaakt is het tijd om je teamleden uit te nodigen. Het enige wat jij hiervoor nodig hebt is een lijst met alle e-mailadressen. Klik op de teamleden pagina rechtsboven op **Uitnodigen** om het scherm te openen. Hier kun je ook direct de teamleden al toevoegen aan de juiste teams.
 
-In deze pop-up kun jij alle e-mailadressen plakken die jij wilt toevoegen. Je kunt ook gewoon de e-mailadressen zelf typen. 
-
-> De e-mailadressen worden na het bevestigen onder de invoerbalk geplaatst. Je kunt alleen op uitnodigen klikken als alle ingevoerde e-mailadressen **groen** zijn.
+> De e-mailadressen worden na het bevestigen onder de invoerbalk geplaatst. Je kunt alleen op uitnodigen klikken als alle ingevoerde e-mailadressen **correct** zijn.
 
 <video controls
        muted 
-       src="/assets/teamledenToevoegen.mov"
+       src="/assets/teamledenToevoegenV2.mov"
        width="683"
        height="384">
 </video>
@@ -45,17 +43,12 @@ In deze pop-up kun jij alle e-mailadressen plakken die jij wilt toevoegen. Je ku
 
 ## Teamleden toevoegen aan teams
 
-Na het toevoegen van je teamleden is iedereen automatisch toegevoegd aan team **Algemeen**. Je hoeft nu alleen nog maar je teamleden over de andere teams te verdelen. 
-* Selecteer het team waar je teamleden aan wilt toevoegen.
-* Klik op **Teamleden toevoegen**. 
-* Kies de teamleden die je wilt toevoegen.
-* Klik op **Doorvoeren**.
+Na het uitnodigen kun je nog steeds beheren welk teamleden allemaal tot het team behoren. Dit doe je door het team te selecteren en te klikken op **Beheer teamleden**. 
 
-> **In de nieuwe versie van eitje kun je de teamleden toevoegen door op 'Beheer teamleden' te klikken nadat je een team hebt geselecteerd.**
 
 <video controls
        muted 
-       src="/assets/toevoegenTeams.mov"
+       src="/assets/toevoegenTeamsV2.mov"
        width="683"
        height="384">
 </video>
