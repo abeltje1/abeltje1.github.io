@@ -59,15 +59,13 @@ Je teamleden kunnen hun beschikbaarheid opgeven, maar dat wil natuurlijk niet ze
 ---
 
 
-## Events aanmaken
+## Meer bedrijven in één overzicht
 
-Het gebeurd nu eenmaal af en toe dat er iets bijzonders in de agenda staat. Een feestje, verjaardag, training, vergadering of een belangrijke wedstrijd van jullie favoriete club. Dit kun je makkelijk communiceren naar je teamleden met het aanmaken van een **Event**. Deze komen gewoon terug in de planning en springen er gemakkelijk tussenuit zodat teamleden er niet overeen kijken. Daarnaast kunnen je teamleden in de app ook aangeven of ze hierbij zijn, erg gemakkelijk als jij die vergadering wilt inplannen en wilt bekijken welke data het meest mensen kunnen. Bekijk hieronder het filmpje hoe je een Event aanmaakt.
-
-> Let op: In tegenstelling tot shifts hoef je een event niet te publiceren. Dit gebeurd automatisch als jij op OK drukt. 
+Ben jij onderdeel van meerdere bedrijven in een organisatie. Dan kun jij alle roosters ook weergeven in één overzicht. Dit doe je door alle gewenste vestigingen te selecteren in de planning. 
 
 <video controls
        muted 
-       src="/assets/eventAanmakenV2.mov"
+       src="/assets/multipleEnv.mov"
        width="683"
        height="384">
 </video> 
@@ -77,12 +75,15 @@ Het gebeurd nu eenmaal af en toe dat er iets bijzonders in de agenda staat. Een 
 
 
 
+
 ## Bijhouden van aantal shifts
 
-Bij het plannen worden er overal nummers weergeven bij je teamleden. 
+Bij het plannen worden er overal nummers weergeven bij je teamleden. Hierin kun je twee verschillende getallen zien:
 
 * Het nummer bij een ingeplande shift weergeeft het aantal keer dat dit teamlid is ingepland in de huidige week. 
 * Het nummer (tussenhaakjes) in het beschikbaarheids kaartje weergeeft het aantal shifts dat dit teamlid nog wilt werken in deze week. 
+
+> Het kan ook zijn dat je hier het aantal contract uren van een teamlid ziet. Dit krijg je door een contract voor het teamlid aan te maken onder teamleden. Zo zal het aantal shifts veranderen in het aantal uren volgens het contract.
 
 Het makkelijke aan plannen met eitje is dat deze nummers continu up-to-date zijn. Hierdoor weet jij precies hoe vaak jij een teamlid nog kunt inplannen in de huidige week. Natuurlijk kun jij een teamlid ook vaker inplannen dan deze heeft aangegeven te kunnen werken. Het nummer zal dan in de min gaan.
 
@@ -121,6 +122,40 @@ Heb jij al een rooster ingeladen maar wil jij toch liever opnieuw beginnen? Je k
 
 ---
 
+
+## Werken met het teampanel
+
+In het teampanel heb je twee functionaliteiten:
+
+* 1: **Contract uren** - Weergeeft hoeveel uur iedereen is ingepland in de huidige week. Hierin kun je nog filteren op verschillende contract types, of gewoon iedereen weergeven.
+* 2: **Ziek** - Meldt je teamleden ziek. Dit zorgt ervoor dat je teamleden in het rooster worden weergeven met een ziek emoticon. Zo weet jij altijd dat er iemand ziek is.
+
+<video controls
+       muted 
+       src="/assets/werkenTeampanel.mov"
+       width="683"
+       height="384">
+</video> 
+
+
+---
+
+
+## Events aanmaken
+
+Het gebeurd nu eenmaal af en toe dat er iets bijzonders in de agenda staat. Een feestje, verjaardag, training, vergadering of een belangrijke wedstrijd van jullie favoriete club. Dit kun je makkelijk communiceren naar je teamleden met het aanmaken van een **Event**. Deze komen gewoon terug in de planning en springen er gemakkelijk tussenuit zodat teamleden er niet overeen kijken. Daarnaast kunnen je teamleden in de app ook aangeven of ze hierbij zijn, erg gemakkelijk als jij die vergadering wilt inplannen en wilt bekijken welke data het meest mensen kunnen. Bekijk hieronder het filmpje hoe je een Event aanmaakt.
+
+> Let op: In tegenstelling tot shifts hoef je een event niet te publiceren. Dit gebeurd automatisch als jij op OK drukt. 
+
+<video controls
+       muted 
+       src="/assets/eventAanmakenV2.mov"
+       width="683"
+       height="384">
+</video> 
+
+
+---
 
 
 ## Maaltijdvergoeding

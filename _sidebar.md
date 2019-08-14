@@ -11,6 +11,7 @@
 
 	* [Communicatie](communicatie.md)
 	* [Handboek](handboek.md)
+	* [Vaardigheden](vaardigheden.md)
 	* [Teamleden](teamleden.md)
 
 * Urenregistreren met eitje

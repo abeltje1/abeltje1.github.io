@@ -18,7 +18,7 @@ Het aanmaken van een shift gaat erg gemakkelijk en doe jij simpelweg door met je
 
 ## Snel plannen
 
-YEAH, je hebt je eerste shift in eitje aangemaakt! Gelukkig hoef jij ze niet één voor één aan te maken en kun jij ook onze **Snel plannen** functie gebruiken om meerdere shifts in één keer aan te maken.
+YEAH, je hebt je eerste shift in eitje aangemaakt! Gelukkig hoef jij ze niet één voor één aan te maken en kun jij ook meer shifts in één keer aan te maken.
 
 <video controls
        muted 
@@ -30,7 +30,7 @@ YEAH, je hebt je eerste shift in eitje aangemaakt! Gelukkig hoef jij ze niet é�
 ---
 
 
-## Teamleden inplannen
+## Teamleden inplannen d.m.v Drag & Drop
 
 Nu jij al je shifts hebt aangemaakt is het tijd om te beginnen met het in te plannen van je teamleden. Je kunt dit erg snel doen door de beschikbare teamleden die eronder staan te **Drag & Droppen** op de **Open shift**. Mocht je liever rustig met je muis willen klikken kun je dit natuurlijk ook doen door op de open shift te klikken en onder **Uitgevoerd door** het juiste teamlid selecteren.
 
@@ -42,6 +42,19 @@ Nu jij al je shifts hebt aangemaakt is het tijd om te beginnen met het in te pla
 </video> 
 
 ---
+
+## Teamleden inplannen via beschikbaarheid
+
+Ook kun je teamleden inplannen door rechtstreeks te klikken op het beschikbaarheidskaartje. Dit opent een nieuw scherm waarmee je direct het teamlid op een bestaande shift kunt plaatsen. Ook kun je direct een nieuwe shift voor deze persoon aanmaken. 
+<video controls
+       muted 
+       src="/assets/plannenViaBeschikbaarheid.mov"
+       width="683"
+       height="384">
+</video> 
+
+---
+
 
 ## Volgorde van teams instellen
 
