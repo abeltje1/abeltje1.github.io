@@ -6,13 +6,12 @@ Om je teamleden zo gemakkelijk mogelijk aan te sturen hebben wij vele handige fu
 
 Het enige wat jij nodig hebt om een teamlid toe te voegen is een e-mailadres. Klik bij de teamleden pagina rechtsboven op **Uitnodigen** om het scherm te openen.
 
-In deze pop-up kun jij alle e-mailadressen plakken die jij wilt toevoegen. Je kunt ook gewoon de e-mailadressen zelf typen. 
+In deze pop-up kun jij alle e-mailadressen plakken die jij wilt toevoegen. Je kunt ook gewoon de e-mailadressen zelf typen. Hier kun jij ook direct de teamleden toevoegen aan de juiste teams.
 
-> De e-mailadressen worden na het bevestigen onder de invoerbalk geplaatst. Je kunt alleen op uitnodigen klikken als alle ingevoerde e-mailadressen **groen** zijn.
 
 <video controls
        muted 
-       src="/assets/teamledenToevoegen.mov"
+       src="/assets/teamledenToevoegenV2.mov"
        width="683"
        height="384">
 </video>
@@ -23,13 +22,13 @@ In deze pop-up kun jij alle e-mailadressen plakken die jij wilt toevoegen. Je ku
 
 Na het toevoegen van je teamleden is iedereen automatisch toegevoegd aan team **Algemeen**. Je hoeft nu alleen nog maar je teamleden over de andere teams te verdelen. 
 * Selecteer het team waar je teamleden aan wilt toevoegen.
-* Klik op **Teamleden toevoegen**. 
+* Klik op **Beheer teamleden**. 
 * Kies de teamleden die je wilt toevoegen.
 * Klik op **Doorvoeren**.
 
 <video controls
        muted 
-       src="/assets/toevoegenTeams.mov"
+       src="/assets/toevoegenTeamsV2.mov"
        width="683"
        height="384">
 </video>
