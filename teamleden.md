@@ -38,7 +38,7 @@ Na het toevoegen van je teamleden is iedereen automatisch toegevoegd aan team **
 
 ## Contract aanmaken voor teamlid
 
-Je kunt een contract aanmaken voor een teamlid door het profiel van het desbetreffende teamlid te openen. Vervolgens volg je stap voor stap de keuze velden aan de rechterkant van het scherm.
+Je kunt een contract aanmaken voor een teamlid door het profiel van het desbetreffende teamlid te openen. Vervolgens volg je stap voor stap de keuze velden in het scherm.
 
 <video controls
        muted 
