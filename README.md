@@ -6,6 +6,9 @@ Mocht je toch niet helemaal uitkomen, schroom dan niet om te mailen naar [Suppor
 
 
 
-> Begin jij net met eitje? [Klik dan hier](/je-eerste-stappen)
+> Je eerste stappen in eitje? [Klik dan hier](/je-eerste-stappen)
 
 > Wil jij inklokken met eitje? [Klik dan hier](/eitjeopdevloer)
+
+> Een handleiding voor je teamleden? [Klik dan hier](/ikbeginmeteitje)
+

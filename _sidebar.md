@@ -43,3 +43,6 @@
 * eitjeopdevloer
 
 	* [Kloksysteem activeren](eitjeopdevloer.md)
+
+* eitje voor je teamleden
+	* [Ik begin met eitje](ikbeginmeteitje.md)	
