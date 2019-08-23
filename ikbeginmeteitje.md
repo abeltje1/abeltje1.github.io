@@ -1,6 +1,6 @@
 # Welkom bij eitje
 
-Mocht je net met eitje beginnen dan kun je natuurlijk een aantal vragen hebben. In deze handleiding nemen wij je mee op een korte introductie door de meest gebruikte functionaliteiten van eitje.
+Mocht je net met eitje beginnen dan heb je natuurlijk een aantal vragen . In deze handleiding nemen wij je mee op een korte introductie door de meest gebruikte functionaliteiten van eitje.
 
 Lees hieronder alle informatie over de functionaliteiten van eitje in onze app. Of spring gelijk door naar een van de volgende onderdelen:
 
@@ -13,11 +13,11 @@ Lees hieronder alle informatie over de functionaliteiten van eitje in onze app. 
 
 
 ## Hoe werkt eitje
-Als je eitje opent heb je onderaan het scherm altijd vier knoppen. Met deze knoppen heb jij altijd de meest voorkomende handelingen dicht bij elkaar:
+Als je eitje opent heb je onderaan het scherm altijd vier knoppen. Met deze knoppen heb jij de meest voorkomende handelingen dicht bij elkaar:
 
 * **Nieuws**: Het laatste en belangrijkste nieuws van jouw bedrijf. Je kunt reageren, cheersen en natuurlijk ook zelf een nieuwtje delen. 
 * **Chat**: Speciale chatgroepen voor jou en je teamleden. Zo is iedereen altijd snel op de hoogte van de laatste berichten.
-* **Handboek**: Belangrijke informatie over je bedrijf vindt je in het handboek. Open de onderwerpen en lees ze gerust eens door.
+* **Handboek**: Belangrijke informatie over het bedrijf lees je in het handboek. Open de onderwerpen en lees ze rustig eens door.
 * **Rooster**: Last, but not least; het rooster. Kijk hieronder voor meer informatie over de vele mogelijkheden van het rooster.
 
 
@@ -62,7 +62,7 @@ Deze optie zie je alleen wanneer jullie bedrijf ook daadwerkelijk gebruik maakt 
 
 ## Vrij vragen in eitje
 
-Om ervoor te zorgen dat jij daadwerkelijk wordt ingepland op de dagen dat jij ook echt kunt werken is het handig om je beschikbaarheid aan te geven. Je kunt deze functionaliteit vinden in het Menu. Hier kom je door linksboven op het icoon te klikken met drie blauwe balkjes, of door van links naar rechts in het scherm te swipen. Je komt nu in de beschikbaarheid en ook hier heb je net zoals bij het rooster een aantal mogelijkheden:
+Om ervoor te zorgen dat jij daadwerkelijk wordt ingeplant op de dagen dat jij ook echt kunt werken is het handig om je beschikbaarheid aan te geven. Je kunt deze functionaliteit vinden in het Menu. Hier kom je door linksboven op het icoon te klikken met drie blauwe balkjes, of door van links naar rechts in het scherm te swipen. Je komt nu in de beschikbaarheid en ook hier heb je net zoals bij het rooster een aantal mogelijkheden:
 
 * Beschikbaarheid
 * Vaste dagen
