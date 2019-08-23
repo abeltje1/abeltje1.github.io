@@ -10,6 +10,7 @@ Lees hieronder alle informatie over de functionaliteiten van eitje in onze app. 
 * [Vrij vragen in eitje](ikbeginmeteitje.md?id=vrij-vragen-in-eitje)	
 * [Shifts ruilen](ikbeginmeteitje.md?id=shifts-ruilen)	
 * [Synchroniseren met agenda](ikbeginmeteitje.md?id=synchroniseren-met-agenda)	
+* [Inklokken bij eitjeopdevloer](ikbeginmeteitje.md?id=inklokken-bij-eitjeopdevloer)	
 
 
 ## Hoe werkt eitje
@@ -130,6 +131,16 @@ Klik op stap 2 en vul de zojuist gekopieerde code in bij je Google Calendar.
 **Synchroniseren via de computer**
 
 Je kunt eitje ook vanaf onze web-versie synchroniseren. [Klik hier](https://new.eitjeapp.nl/bedrijf) (of log zelf even in bij eitje en klik in de navigatie op instellingen) en scroll naar beneden. Klik vervolgens simpelweg op Synchroniseren en voila!
+
+---
+
+
+## Inklokken bij eitjeopdevloer
+
+Het kan zijn dat jouw bedrijf werkt met eitjeopdevloer. Dit is ons eigen kloksysteem en hiervoor heb jij een eigen unieke code. Deze kun je op twee plekken vinden:
+
+* **App:** Open het menu. Hier zie jij onder het kopje Profiel je eigen unieke **VloerID**.
+* **Web:** Log in via onze website en ga naar teamleden. Open je eigen profiel en zie daar je **VloerID**.
 
 ---
 
