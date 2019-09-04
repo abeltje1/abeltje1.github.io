@@ -21,7 +21,8 @@
 	* [Arbeidsproductiviteit & Loonkosten](loonkosten.md)
 	* [Exporteren & Analyses](exporteren.md)
 	* [Plus/Min & Verlof registratie](plusmin.md)
-	* [Verlof accorderen](verlofAccorderen.md)
+	* [Startsaldo instellen](startSaldo.md)
+	* [Verlof verzoeken](verlof.md)
 	* [Toeslagen op shift](toeslagen.md)
 
 

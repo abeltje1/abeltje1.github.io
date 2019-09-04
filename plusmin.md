@@ -61,6 +61,6 @@ Vervolgens is er natuurlijk ook het Verlof saldo scherm. Deze werkt bijna het ze
 
 ## Correcties toepassen
 
-Om een start-saldo in te voeren of om een correctie aan te brengen op het saldo van je teamleden kun je gebruik maken van **Correcties**. Je opent dit scherm door je muis te plaatsen op de kolom van correcties bij het desbetreffende teamlid. Vervolgens kun je een datum selecteren, het aantal uur positief of te wel negatief beinvloeden en een opmerking erbij plaatsen. Door het plaatsen van een opmerking zul jij in de toekomst nog makkelijk kunnen inzien waarvoor dit ook alweer was. Eenmaal opgeslagen zal deze aanpassingen altijd in te zien zijn door het correctie scherm nogmaals te openen.
+Om een correctie aan te brengen op het saldo van je teamleden kun je gebruik maken van **Correcties**. Je opent dit scherm door je muis te plaatsen op de kolom van correcties bij het desbetreffende teamlid. Vervolgens kun je een datum selecteren, het aantal uur positief of te wel negatief beinvloeden en een opmerking erbij plaatsen. Door het plaatsen van een opmerking zul jij in de toekomst nog makkelijk kunnen inzien waarvoor dit ook alweer was. Eenmaal opgeslagen zal deze aanpassingen altijd in te zien zijn door het correctie scherm nogmaals te openen.
 
 <img src="/assets/correctie.png" onmouseover="this.src='/assets/correctieZoom.png'" onmouseout="this.src='/assets/correctie.png'" />
