@@ -17,6 +17,7 @@
 * Urenregistreren met eitje
 
 	* [Uren schrijven & accorderen](urenregistratie.md)
+	* [NOW-Tool voor de corona-crisis](nowtool.md)
 	* [Contracten](contracten.md)
 	* [Arbeidsproductiviteit & Loonkosten](loonkosten.md)
 	* [Exporteren & Analyses](exporteren.md)
