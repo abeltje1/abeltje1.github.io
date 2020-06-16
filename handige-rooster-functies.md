@@ -110,7 +110,7 @@ Dit bevindt zich allemaal onder **Ruilen** in het menu in de app.
 
 ## Week leegmaken
 
-Heb jij al een rooster ingeladen maar wil jij toch liever opnieuw beginnen? Je kunt de gehele week van een team met één druk op de knop leegmaken onder **Acties**. 
+Heb jij al een rooster ingeladen maar wil jij toch liever opnieuw beginnen? Je kunt de gehele week van een team met één druk op de knop leegmaken onder **Tools**. 
 
 <video controls
        muted 
@@ -157,11 +157,3 @@ Het gebeurd nu eenmaal af en toe dat er iets bijzonders in de agenda staat. Een 
 
 ---
 
-
-## Maaltijdvergoeding
-
-Krijgen jouw teamleden standaard een maaltijdvergoeding? Je kunt dit alvast meesturen naar de urenregistratie door dit in de planning aan te geven. Meer weten over het werken met **Maaltijdvergoedingen**: [Klik dan hier](/maaltijdvergoedingen).
-Met het selecteren van een vergoeding in de shift zorgt eitje ervoor dat dit bij de urenregsitratie gelijk goed staat voor je teamleden.
-
-
----

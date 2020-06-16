@@ -1,4 +1,4 @@
-* [Hulp met eitje](/)
+* [**Switch to English** 🇺🇸 ](/en/)
 
 * Beginnen met eitje
 
@@ -17,7 +17,6 @@
 * Urenregistreren met eitje
 
 	* [Uren schrijven & accorderen](urenregistratie.md)
-	* [NOW-Tool voor de corona-crisis](nowtool.md)
 	* [Contracten](contracten.md)
 	* [Exporteren & Analyses](exporteren.md)
 	* [Plus/Min & Verlof registratie](plusmin.md)
@@ -49,11 +48,11 @@
 	* [Kassatellen](kassatellen.md)
 	
 	
-	
 
 * eitjeopdevloer
 
 	* [Kloksysteem activeren](eitjeopdevloer.md)
 
 * eitje voor je teamleden
+
 	* [Ik begin met eitje](ikbeginmeteitje.md)	

@@ -11,9 +11,8 @@ Om te beginnen is het belangrijk om te weten dat alles in eitje draait om jouw t
 
 Het aanmaken van een team kun je doen onder het kopje **teamleden** in de header. Hier beheer je naast alle informatie van je teamleden ook je teams. Aan de rechterkant van het scherm kun je alle teams zien die op dit moment actief zijn. Door op **Start een nieuw team** te klikken kun jij een nieuw team beginnen. Het enige wat je hoeft te doen is een teamnaam in te voeren en aan te geven of jij een chatgroep wilt activeren voor dit team. 
 
-*De naam en het activeren/deactiveren van de chatgroep kun je later natuurlijk gewoon nog wijzigen.*
-
 Bekijk de video hieronder om te zien hoe jij een nieuw team aanmaakt en dit later weer kan wijzigen/verwijderen.
+
 <video controls
        muted 
        src="/assets/teamAanmakenV2.mov"
