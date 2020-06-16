@@ -1,4 +1,6 @@
-Rechtstreeks de omzet in eitje binnenhalen vanuit je kassa zonder extra handelingen. Dat kan gemakkelijk door onze koppeling met Kassatellen. Je kunt deze koppeling activeren in je Kassatellen account. Hiervoor ga je in Kassatellen naar: 
+# Kassatellen integratie
+
+Rechtstreeks elke avond de omzet in eitje binnenhalen vanuit je kassa zonder extra handelingen. Dat kan gemakkelijk door onze koppeling met Kassatellen. Je kunt deze koppeling activeren in je Kassatellen account. Hiervoor ga je in Kassatellen naar: 
 
 > Instellingen > Koppelingen > eitje
 

@@ -19,12 +19,18 @@
 	* [Uren schrijven & accorderen](urenregistratie.md)
 	* [NOW-Tool voor de corona-crisis](nowtool.md)
 	* [Contracten](contracten.md)
-	* [Arbeidsproductiviteit & Loonkosten](loonkosten.md)
 	* [Exporteren & Analyses](exporteren.md)
 	* [Plus/Min & Verlof registratie](plusmin.md)
 	* [Startsaldo instellen](startSaldo.md)
 	* [Verlof verzoeken](verlof.md)
 	* [Toeslagen op shift](toeslagen.md)
+
+* Omzetregistratie in eitje
+	* [Financiële analyse](loonkosten.md)
+	* [Uitleg van berekeningen](opbouw-loonkosten.md)
+	* [Benodigde instellingen](omzet-instellingen.md)
+	* [Tips voor omzet registratie](tips-omzet.md)
+
 
 
 * eitje instellen
@@ -38,8 +44,10 @@
 	* [NMBRS](nmbrs.md)
 	* [Horecalonen](horecalonen.md)
 	* [Connexie](connexie.md)
-	* [Kassatellen](kassatellen.md)
 	* [Lightspeed](lightspeed.md)
+	* [MplusKassa](mplus.md)
+	* [Kassatellen](kassatellen.md)
+	
 	
 	
 

@@ -18,11 +18,22 @@ Teamleden die beschikken over de manager rol kunnen heel veel, maar net wat mind
 
 ---
 
+## Verlof accorderen
+
+Teamleden met deze rol mogen verlofverzoeken goedkeuren. Deze zijn daarmee dan dus ook direct gerechtigd om uren op te nemen van het verlofsaldo. Denk eraan dat je ook de rol **Uren accorderen** toekent aan dit teamlid om optimaal gebruik te maken van deze rol.
+
+> Gebruik deze rol om de verlof verzoeken te laten managen.
+
+---
+
 ## Contracten
 
 Teamleden die beschikken over dit recht mogen de contracten inzien bij teamleden en deze aanmaken. Teamleden die deze rechten niet hebben zullen het contract dan ook niet kunnen inzien. Een teamlid kan natuurlijk wel altijd zijn eigen contract inzien.
 
 > Met de **Contracten** rol beheer je wie contracten mogen inzien en aanpassen.
+
+
+---
 
 ## Uren Accorderen
 
