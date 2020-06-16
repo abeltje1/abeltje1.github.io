@@ -30,6 +30,7 @@ Hieronder de uitleg wat de toeslagfactor inhoudt:
 ## Arbeidsproductiviteit **
 * Omzet / Aantal uren 
 
+
 ---
 
 ## Loonkosten in procenten **

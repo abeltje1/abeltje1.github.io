@@ -2,135 +2,150 @@
 
 Mocht je net met eitje beginnen dan heb je natuurlijk een aantal vragen . In deze handleiding nemen wij je mee op een korte introductie door de meest gebruikte functionaliteiten van eitje.
 
-Lees hieronder alle informatie over de functionaliteiten van eitje in onze app. Of spring gelijk door naar een van de volgende onderdelen:
-
-
-* [Hoe werkt eitje](ikbeginmeteitje.md?id=hoe-werkt-eitje)	
-* [Het rooster](ikbeginmeteitje.md?id=het-rooster)	
-* [Vrij vragen in eitje](ikbeginmeteitje.md?id=vrij-vragen-in-eitje)	
-* [Shifts ruilen](ikbeginmeteitje.md?id=shifts-ruilen)	
-* [Synchroniseren met agenda](ikbeginmeteitje.md?id=synchroniseren-met-agenda)	
+* [Je eigen shifts bekijken](ikbeginmeteitje?id=je-eigen-shifts-bekijken)	
+* [Het hele rooster bekijken](ikbeginmeteitje?id=het-hele-rooster-bekijken)	
+* [Een shift ruilen](ikbeginmeteitje?id=een-shift-ruilen)	
+* [Je uren schrijven](ikbeginmeteitje?id=je-uren-doorgeven)	
+* [Beschikbaarheid doorgeven](ikbeginmeteitje?id=beschikbaarheid-doorgeven)	
+* [Verlof verzoek indienen](ikbeginmeteitje?id=verlof-verzoek-indienen)	
+* [Accepteren van ruilverzoek](ikbeginmeteitje?id=accepteren-van-een-inkomend-ruilverzoek)	
+* [Synchroniseren met Apple Calendar](ikbeginmeteitje?id=synchroniseren-met-apple-calendar)	
+* [Synchroniseren met Google Calendar](ikbeginmeteitje?id=synchroniseren-met-google-calendar)	
 * [Inklokken bij eitjeopdevloer](ikbeginmeteitje.md?id=inklokken-bij-eitjeopdevloer)	
 
 
-## Hoe werkt eitje
-Als je eitje opent heb je onderaan het scherm altijd vier knoppen. Met deze knoppen heb jij de meest voorkomende handelingen dicht bij elkaar:
+## Je eigen shifts bekijken
 
-* **Nieuws**: Het laatste en belangrijkste nieuws van jouw bedrijf. Je kunt reageren, cheersen en natuurlijk ook zelf een nieuwtje delen. 
-* **Chat**: Speciale chatgroepen voor jou en je teamleden. Zo is iedereen altijd snel op de hoogte van de laatste berichten.
-* **Handboek**: Belangrijke informatie over het bedrijf lees je in het handboek. Open de onderwerpen en lees ze rustig eens door.
-* **Rooster**: Last, but not least; het rooster. Kijk hieronder voor meer informatie over de vele mogelijkheden van het rooster.
+Wanneer jij moet werken is natuurlijk één van de belangrijkste functies van eitje. Je kunt je eigen shifts daarom heel gemakkelijk vinden.
 
-
-> Wij hopen dat je een leuke eitje ervaring hebt, mocht je ergens tegen aan lopen of een goed idee hebben dan mag je ons altijd even storen. Dit kan via de chat functie op onze website of door een mail te sturen naar joris@eitje-app.nl.
-
----
-
-## Het rooster
-De meest rechter knop in je tab bar is voor het rooster. De planning bestaat standaard uit drie functionaliteiten. Je kunt bovenin je scherm navigeren tussen de volgende drie functies:
-
-* Rooster
-* Mijn shifts
-* Uren (deze functie is optioneel)
-
-> **Rooster**
-
-Je begint altijd in het midden van deze navigatie met het rooster. Hier zie jij alle shifts van alle teams van de huidige dag. Je kunt natuurlijk doorscrollen door naar beneden of boven te scrollen. Ook kun je op een dag klikken van maandag tot zondag. 
-
-**Handige tip**: De datumbalk is ook te gebruiken als volledige kalender. Swipe het blauwe balkje naar beneden en kies gemakkelijk een andere dag. Alle dagen waar jij een bolletje hebt staan ben je op ingepland.
-
----
-
-> **Mijn shifts**
-
-In dit overzicht zie je altijd alle shifts waar jij zelf op bent ingepland. Zo hoef je niet te zoeken tussen alle dagen wanneer je precies moet werken. 
-
-**Handige tip:** Je kunt ook shifts ruilen met je teamleden. Klik op het blauwe ronde pijltje aan de rechterkant om een shift aan te bieden aan je teamleden.
-
----
-
-> **Uren**
-
-Deze optie zie je alleen wanneer jullie bedrijf ook daadwerkelijk gebruik maakt van onze urenregistratie. Bij het selecteren van deze pagina zie je dat de uren zijn verdeeld in 3 opties: 
-
-* Nog in te vullen **(blauw)**: Dit zijn uren die jij gewerkt hebt en waarvan jij nog de uren moet schrijven. Dit doe je door op de shift te klikken.
-* In afwachting van goedkeuring **(oranje)**: Je hebt gewerkt en je uren al geschreven. Je manager moet deze alleen nog even goedkeuren.
-* Verwerkte uren **(groen)**: Je uren zijn goed verwerkt en je zult aan het einde van je loonperiode deze ook uitbetaald krijgen.
-
+<video controls
+       muted 
+       src="/assets/shiftsBekijken.mov"
+       width="305"
+       height="570">
+</video>
 
 ---
 
 
-## Vrij vragen in eitje
+## Het hele rooster bekijken
 
-Om ervoor te zorgen dat jij daadwerkelijk wordt ingeplant op de dagen dat jij ook echt kunt werken is het handig om je beschikbaarheid aan te geven. Je kunt deze functionaliteit vinden in het Menu. Hier kom je door linksboven op het icoon te klikken met drie blauwe balkjes, of door van links naar rechts in het scherm te swipen. Je komt nu in de beschikbaarheid en ook hier heb je net zoals bij het rooster een aantal mogelijkheden:
+Ook handig om te weten wie er allemaal met jou op het rooster staan. Daarom kun je makkelijk wisselen tussen je eigen shifts en het complete rooster.
 
-* Beschikbaarheid
-* Vaste dagen
-* Verlof
-
-> **Beschikbaarheid**
-
-Onder beschikbaarheid kun jij aangeven wanneer jij beschikbaar bent. Je bent standaard altijd beschikbaar, tenzij jij anders aangeeft. Dit doe jij door op een dag te klikken en aan te geven of je de hele dag onbeschikbaar bent, of alleen op een bepaald tijdstip. 
-
-Verder kun je ook een gewenst aantal shifts per week invullen. Zo weet de planner gemakkelijk hoe vaak hij jou kan inplannen. 
-
-**Belangrijk:** De beschikbaarheid is altijd een wens, dit betekend dus dat de planner jou nog steeds zou kunnen inplannen. Mocht jij echt niet kunnen werken dan kan je beter een verlofverzoek aanmaken.
+<video controls
+       muted 
+       src="/assets/heleRoosterApp.mov"
+       width="305"
+       height="570">
+</video>
 
 ---
 
-> **Vaste dagen**
+## Een shift ruilen
 
-Heb jij elke week vaste dagen waarop je niet kunt werken? Geen nood, je hoeft dit niet elke keer handmatig in te vullen. Je kunt door op vaste dagen te klikken een template maken voor je bechikbaarheid. Deze kopiëren wij weer in je beschikbaarheid per week. Als jij dus altijd op maandag verhinderd bent, kun je dit het beste in de vaste dagen tab invullen. 
+Ben jij ingeroosterd maar kun je toch niet werken? Geen nood, met eitje kun je gemakkelijk ruilen. Hiervoor zijn twee opties:
 
-Ook hier kun je het aantal shifts per week invullen. Dit zal ook voor alle weken in de toekomst gelden. 
+* **Een vervanger zoeken:** Als jij wilt dat iemand jouw shift overneemt, kun je direct aan je teamleden vragen of zij jouw shift willen overnemen.
+* **Een shift ruilen:** Wil jij jouw shift met een andere shift van een teamlid ruilen? Selecteer dan de desbetreffende shift uit het rooster.
 
----
 
-> **Verlof**
+> Let op: Als jij en je collega beide het ruilverzoek hebben geaccepteerd, moet je manager nog wel goedkeuring geven. 
 
-Als jij echt niet kunt werken omdat je bijv. op vakantie gaat kun je het best een verlof verzoek indienen. Dit verzoek moet altijd goed gekeurd worden door je manager, het betekend dus niet dat als jij deze hebt aangemaakt dat je ook daadwerkelijk vrij bent. Doe dit dan ook ruim van te voren zodat je meer kans hebt om ook echt vrij te krijgen.
-
-**Belangrijk:** Afhankelijk van je contract met je opdrachtgever zal deze functie ook verlof uren van je inhouden bij het opnemen van verlof. 
-
----
-
-## Shifts ruilen
-
-Kun jij een keer niet werken terwijl je wel bent ingeplant? Geen nood, je kunt eenvoudig je shift aanbieden aan je teamleden. Ga naar het rooster en bij al je eigen shifts in de toekomst zie je een blauw icoontje aan de rechterkant van het scherm. Ook kun je op de shift klikken en dan zul je het zelfde blauwe icoon helemaal onderaan je scherm vinden. Als je hierop klikt kun je teamleden selecteren om je shift over te nemen. 
-
-Als je de shift hebt verzonden en een teamlid accepteert het verzoek, zal een manager deze eerst nog moeten accepteren voordat deze ook daadwerkelijk in het rooster wordt aangepast. 
-
-De status van al je ruilverzoeken vindt je in het menu onder **Ruilen**.
-
-**Handige tip:** Schrijf een leuk berichtje voor je teamleden bij het verzoek, zo zullen ze eerder het verzoek accepteren.
+<video controls
+       muted 
+       src="/assets/shiftRuilenApp.mov"
+       width="305"
+       height="570">
+</video>
 
 ---
 
 
-## Synchroniseren met agenda
+## Je uren doorgeven
 
-Wel zo makkelijk als al je eigen shifts ook automatisch in je agenda erbij komen. Je kunt je agenda synchroniseren via het **Menu > Instellingen > Synchroniseer met agenda**. Als je hier op klikt krijg je een kleine pop-up. Druk eerst op de eitje sync URL. Hiermee kopieer jij je eigen URL die je kunt gebruiken om je synchronisatie te starten, het verschilt per device wat de volgende stap is:
+Aan het einde van je dienst je werktijden doorgeven doe je via de **Uren** tab. Hier kun je alle uren regels van jezelf vinden. Klik op de blauwe shift om je uren aan te passen. 
 
-> **iOS**
+**Wat betekenen de verschillende kleuren?**
+* **Blauw:** Je hebt je uren nog niet doorgegeven.
+* **Oranje:** Je hebt je uren doorgegeven, maar zijn nog niet goedgekeurd.
+* **Groen:**  Je uren zijn goedgekeurd en zullen worden uitbetaald.
+* **Paars:** Je hebt verlof opgenomen.
+* **Rood:**  Je bent ziek geweest of hebt bijzonder verlof gekregen.
 
-Ga naar Safari op je telefoon door op Stap 2 te klikken en plak de zojuist gekopieerde link in je browser. Je synchronisatie zal dan automatisch starten. 
+<video controls
+       muted 
+       src="/assets/urenSchrijvenApp.mov"
+       width="305"
+       height="570">
+</video>
 
-**Problemen** met het starten van de synchronisatie, stuur de link naar jezelf en probeer het zelfde op je computer. 
+---
+
+## Beschikbaarheid doorgeven
+
+Je kunt in eitje ook je beschikbaarheid doorgeven. Hiermee kun je een voorkeur uitspreken voor de dagen dat je niet kunt werken.
+
+
+<video controls
+       muted 
+       src="/assets/beschikbaarheidDoorgevenApp.mov"
+       width="305"
+       height="570">
+</video>
+
+---
+
+## Verlof verzoek indienen
+
+Mocht je nu echt een dag/periode niet kunnen werken, is het slimmer om verlof aan te vragen. Zo weet je zeker dat als de manager dit accepteert jij ook echt vrij bent.
+
+
+<video controls
+       muted 
+       src="/assets/verlofAanmakenApp.mov"
+       width="305"
+       height="570">
+</video>
+
+---
+
+## Accepteren van een inkomend ruilverzoek
+
+Je kunt natuurlijk ook gevraagd worden om te ruilen. Alle verzoeken kun je terug vinden in je **Inbox** onder Menu > Verzoeken > Ruil overzicht. 
+
+<video controls
+       muted 
+       src="/assets/ruilAccepterenApp.mov"
+       width="305"
+       height="570">
+</video>
+
+---
+
+## Synchroniseren met Apple Calendar
+
+Wel zo makkelijk als je diensten ook direct in je agenda er bij worden geschreven. Je kunt je agenda synchroniseren via het **Menu > Instellingen > Synchroniseer met agenda**. Als je hier op klikt krijg je een kleine pop-up. Druk eerst op de eitje sync URL. Hiermee kopieer jij je eigen URL die je kunt gebruiken om je synchronisatie te starten. Vervolgens klik je op stap 2 om je browser te openen. Het enige wat je nu nog hoeft te doen is je zojuist gekopieerde URL in de browser balk te plakken. De browser zal vervolgens zelf vragen of je jouw Apple Calendar app wilt openen.
+
+> Problemen met het starten van de synchronisatie, stuur de link naar jezelf en probeer het zelfde op je computer. 
+
+<video controls
+       muted 
+       src="/assets/agendaSyncApp.mov"
+       width="305"
+       height="570">
+</video>
+
 
 
 ---
 
-> **Android**
+## Synchroniseren met Google Calendar
+Wel zo makkelijk als je diensten ook direct in je agenda er bij worden geschreven. Je kunt je agenda synchroniseren via het **Menu > Instellingen > Synchroniseer met agenda**. Als je hier op klikt krijg je een kleine pop-up. Druk eerst op de eitje sync URL. Hiermee kopieer jij je eigen URL die je kunt gebruiken om je synchronisatie te starten. Vervolgens klik je op stap 2 om je browser te openen. Het enige wat je nu nog hoeft te doen is je zojuist gekopieerde URL in te vullen in je Google Calendar.
 
-Klik op stap 2 en vul de zojuist gekopieerde code in bij je Google Calendar.
+> Een iPhone koppelen aan Google Calendar? Selecteer je eitje sync URL en vul deze in op de [volgende link](https://calendar.google.com/calendar/r/settings/addbyurl ).
 
 
----
 
-**Synchroniseren via de computer**
-
-Je kunt eitje ook vanaf onze web-versie synchroniseren. [Klik hier](https://new.eitjeapp.nl/bedrijf) (of log zelf even in bij eitje en klik in de navigatie op instellingen) en scroll naar beneden. Klik vervolgens simpelweg op Synchroniseren en voila!
 
 ---
 
@@ -139,10 +154,10 @@ Je kunt eitje ook vanaf onze web-versie synchroniseren. [Klik hier](https://new.
 
 Het kan zijn dat jouw bedrijf werkt met eitjeopdevloer. Dit is ons eigen kloksysteem en hiervoor heb jij een eigen unieke code. Deze kun je op twee plekken vinden:
 
-* **App:** Open het menu. Hier zie jij onder het kopje Profiel je eigen unieke **VloerID**.
+* **App:** Open het menu. Hier zie jij helemaal onderaan je eigen unieke **VloerID**.
 * **Web:** Log in via onze website en ga naar teamleden. Open je eigen profiel en zie daar je **VloerID**.
 
 ---
 
 
-Kom je toch ergens niet uit en wat meer hulp nodig? Stuur dan even een berichtje op ons support kanaal of mail naar support@eitje-app.nl
+Kom je toch ergens niet uit en wat meer hulp nodig? Stuur dan even een berichtje via onze chat of mail naar support@eitje-app.nl
