@@ -1,4 +1,4 @@
-# Communication
+# Communicatie
 
 Om je teamleden zo gemakkelijk mogelijk aan te sturen hebben wij vele handige functies in eitje gestopt. Zo kun jij iedereen altijd up-to-date houden door middel van onze communcatieve functies. Hieronder leer jij meer over de verschillende mogelijkheden en hoe jij deze het best kunt inzetten voor je teamleden.
 

@@ -14,7 +14,7 @@ You have experienced the basics of scheduling with eitje, but luckily there are 
 * [Working with the team panel](en/handige-rooster-functies?id=working-with-the-team-panel)
 * [Creating events](en/handige-rooster-functies?id=creating-events)
 
-
+---
 
 ## Saving a template
 You can easily create a template from your schedule. In this manual we first look at how to save a template, after that you can easily create multiple templates. 

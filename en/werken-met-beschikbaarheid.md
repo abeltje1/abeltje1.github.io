@@ -2,6 +2,15 @@
 
 Your teammembers can indicate their preference using the availability feature. By managing the availability inside eitje, you will be able to create the schedule much faster.
 
+**Jump to**
+* [Insert availability](en/werken-met-beschikbaarheid?id=insert-availability)
+* [Automate your availability](en/werken-met-beschikbaarheid?id=automate-your-availability)
+* [Closing the availability](en/werken-met-beschikbaarheid?id=closing-the-availability)
+* [Automatic lock availability when treshold is reached](en/werken-met-beschikbaarheid?id=automatic-lock-availability-when-treshold-is-reached)
+* [A deeper look into the availability settings](en/werken-met-beschikbaarheid?id=a-deeper-look-into-the-availability-settings)
+
+
+---
 
 ## Insert availability
 Team members can report their availability through the app and our website. They can indicate how many shifts they can work in a week and indicate their preference per day. In addition, they can also give a reason why they are unavailable on this day.

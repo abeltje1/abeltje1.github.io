@@ -1,8 +1,13 @@
 # Communication
 
-
 To make it as easy as possible to manage your teammembers, we have created many useful functions inside eitje. This way you can always keep everyone up-to-date through our communication functions. Below you will learn more about the different options and how you can best use them for your team members.
 
+**Jump to**
+* [Teamchat](en/communicatie?id=teamchat)
+* [News updates](en/communicatie?id=news-updates)
+* [Extra features inside our app](en/communicatie?id=extra-features-inside-our-app)
+
+---
 
 ## Teamchat
 
@@ -26,7 +31,7 @@ Often enough things happen that are very important for your team members. Unfort
 
 ---
 
-## Extra functionaliteiten in de app
+## Extra features inside our app
 
 Since you will probably open the app a lot more often than the web platform, we have put some nice extras in the app for the managers.
 

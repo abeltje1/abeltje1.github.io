@@ -7,7 +7,7 @@ In Dutch besides eitje being a delicious egg, it's a way to say that something i
 * [Invite teammembers](/en/je-eerste-stappen?id=invite-teammembers)
 * [Add teammembers to a team](/en/je-eerste-stappen?id=add-teammembers-to-a-team)
 
-
+---
 
 ## Creating teams
 For starters; it's necessary to understand that eitje is all about your team. All your teammembers are automatically added to the **General** Team, but you can easily create more teams. In the following tutorial we will show you how to create a new team. 

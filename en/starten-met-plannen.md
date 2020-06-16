@@ -10,6 +10,8 @@ After creating your teams and adding your teammembers, it is time to start your 
 * [Order your teams](/en/starten-met-plannen?id=volgorde-van-teams-instellen)
 * [Publish your first schedule](/en/starten-met-plannen?id=shifts-publiceren)
 
+---
+
 ## Create a shift
 
 Creating a shift is very easy. Just hover over a day and team and click the button that appears. A modal will appear where you can enter the shift details.
