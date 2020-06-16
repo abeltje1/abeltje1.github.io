@@ -1,27 +1,26 @@
-# Werken met beschikbaarheid
+# Working with availability
 
-Om het plannen zo snel en gemakkelijk mogelijk te maken kunnen je teamleden hun voorkeur doorgeven door middel van de beschikbaarheidsfuncties. In deze handleidingen kijken wij naar alle mogelijkheden. 
-
-*Voor verlof verzoeken verwijzen wij je graag naar de volgende handleiding: [Verlof verzoeken](/verlofAccorderen).*
+Your teammembers can indicate their preference using the availability feature. By managing the availability inside eitje, you will be able to create the schedule much faster.
 
 
-## Beschikbaarheid doorgeven
-Teamleden kunnen zowel via de app als via de website hun beschikbaarheid doorgeven. Hierbij kunnen zij aangeven hoeveel shifts zij in een week kunnen werken en per dag aangeven wat hun voorkeur is. Daarnaast kunnen zij ook nog een reden opgeven waarom zij onbeschikbaar zijn op deze dag. 
+## Insert availability
+Team members can report their availability through the app and our website. They can indicate how many shifts they can work in a week and indicate their preference per day. In addition, they can also give a reason why they are unavailable on this day.
 
-Voor het opgeven van hun voorkeur op een specifieke dag hebben zij drie opties:
-* Hele dag beschikbaar
-* Hele dag onbeschikbaar
-* Onbeschikbaar van/tot
+To specify their preference on a specific day, they have three options:
+* Available for the whole day
+* Unavailable for the whole day
+* Unavailable in a specific timeslot
 
-In het voorbeeld hieronder zie je het scherm dat naar bovenkomt als jij een dag wilt aanpassen. Teamleden kunnen dit natuurlijk alleen voor zichzelf doorgeven, maar als jij beschikt over de rechten **Manager** of **Admin** kun jij dit ook voor andere aanpassen.
+In the example below you see the screen that pops up if you want to adjust a day. Teammembers can of course only insert this for themselves, but if you have the role for **Manager** or **Admin** you can also adjust this for others. Simply just click on the day in the row of the teammember you would like to adjust.
 
 <img src="/assets/beschikbaarheidDoorgeven.png" onmouseover="this.src='/assets/beschikbaarheidDoorgeven1.png'" onmouseout="this.src='/assets/beschikbaarheidDoorgeven.png'" />
 
 ---
 
 
-## Werken met vaste dagen
-Over het algemeen verschillen je weken hopelijk niet teveel van elkaar. Je meeste teamleden hebben een vast rooster voor hun activiteiten. Daarom kun je met eitje gemakkelijk vaste dagen aanmaken om dit door te geven. Zo hoef je niet wekelijks hetzelfde in te vullen bij de beschikbaarheid, maar hoef je dit maar 1x te doen. De vaste dagen van de teamleden zie je aan de rechterkant in het beschikbaarheidsscherm. Ook deze kun jij openen, bekijken en aanpassen als manager, dus het is niet zo dat iedereen zich zo maar onbeperkt onbeschikbaar kan melden.
+## Automate your availability
+
+Your teammembers can automate their availability by creating a template. This way they don't need to insert their school and other returning activities every other week. They upload their schedule to the availability template and we paste this in every other week. Just as above: the role for **Manager** or **Admin** can also adjust this for others. Simply click on the 7 dots on the right side of the row.
 
 <img src="/assets/beschikbaarheidDoorgeven.png" onmouseover="this.src='/assets/vaste-dagen.png'" onmouseout="this.src='/assets/beschikbaarheidDoorgeven.png'" />
 
@@ -30,18 +29,21 @@ Over het algemeen verschillen je weken hopelijk niet teveel van elkaar. Je meest
 ---
 
 
-## Beschikbaarheid dichtzetten
-Je kunt de mogelijkheid voor het doorgeven van beschikbaarheid ook dichtzetten. Onder de datum van vandaag in de planning zie jij een blauw vinkje met de tekst "Beschikbaarheid open". Door het vinkje uit te zetten zal de beschikbaarheid voor deze dag dichtgaan. Daarnaast kun je bij het publiceren van het rooster ook automatisch alle dagen automatisch uitzetten. Als het vinkje is uitgeschakeld zullen teamleden niet meer hun beschikbaarheid kunnen aanpassen, jij kan dit als manager natuurlijk nog wel. 
+## Closing the availability
 
-> Het kan zo zijn dat er geen vinkje meer staat bij een dag. Dit komt omdat deze dag dan automatisch al is dichtgezet door de instellingen. Heb je hier een vraag over [kijk dan even bij deze handleiding](werken-met-beschikbaarheid?id=de-verschillende-instellingen-voor-beschikbaarheid) naar het laatste punt.
+You can also close the option to insert availability for a specific day. Below today's date in the schedule, you will see a blue check mark with the text "Availability open". By unchecking the box the availability for this day will close. In addition, you can also automatically turn off all days when the timetable is published. If the tick is unchecked, teammembers will no longer be able to adjust their availability, as a manager you can of course still do this.
+
+> If there is no checkbox below today's date you have closed this automatically by the settings. For more information read about [the availability settings in eitje](/en/werken-met-beschikbaarheid?id=a-deeper-look-into-the-availability-settings)
 
 
 
 ---
 
 
-## Automatisch slot op beschikbaarheid
-Om ervoor te zorgen dat je altijd genoeg beschikbare teamleden tot je beschikking hebt kun je ook een automatisch slot op de beschikbaarheid zetten. Zo zal eitje een dag automatisch dichtzetten voor een bepaald team als het limiet van het aantal onbeschikbare teamleden is bereikt. Dit kun je het meest gemakkelijk instellen door gebruik te maken van de standaard waarde voor het automatisch slot. Zo zul je zien dat deze waarden elke week worden ingezet. Mocht er echter een bijzondere dag zijn, kun je natuurlijk ook altijd dit op de specifieke datum aanpassen, zo zal dit niet gaan conflicteren met de standaard waarde en maak je gemakkelijk een uitzondering. 
+## Automatic lock availability when treshold is reached
+
+To ensure that you always have enough available teammembers at your disposal, you can put an automatic lock on availability. For example, eitje will automatically close a day for a particular team when the limit of the number of unavailable team members is reached. This is most easily set by using the default value for the automatic lock. You will see that these values ​​are used every week. However, if there is a special day, you can always change this on the specific date, so this will not conflict with the default value.
+
 
 <video controls
        muted 
@@ -54,12 +56,12 @@ Om ervoor te zorgen dat je altijd genoeg beschikbare teamleden tot je beschikkin
 ---
 
 
-## De verschillende instellingen voor beschikbaarheid
+## A deeper look into the availability settings
 
-> Beschik jij over de rechten **Admin** dan kun jij ook de instellingen voor het doorgeven van beschikbaarheid aanpassen. Hieronder bekijken wij de werking per instelling:
-* **Reden verplicht**: Deze instelling activeren zorgt ervoor dat teamleden verplicht een reden moeten opgeven als zij zichzelf onbeschikbaar melden. 
-* **Beschikbaarheid altijd dicht**: Mocht jij niet willen dat teamleden zichzelf zo maar onbeschikbaar kunnen melden en dit in eigen beheer houden hoef jij alleen maar deze instelling te activeren. Zodoende verdwijnen de opties voor teamleden om zich af te melden.
-* **Dagen voor sluiten beschikbaarheid**: Hiermee bepaal jij het aantal dagen dat de beschikbaarheid van te voren dichtgaat. Zodoende kunnen medewerkers niet op het laatste moment nog hun beschikbaarheid aanpassen. Als deze datum op bijvoorbeeld 7 dagen staat zal de beschikbaarheid dus niet meer aan te passen zijn voor de komende 7 dagen. Dit zorgt er ook voor dat het vinkje verdwijnt in de planning en pas weer op dag 8 vanaf nu zichtbaar is. 
+If you have the role: **Admin**, you can adjust the settings in eitje. Below we look at all the different settings for the availability
 
+* **Mandatory reason**: Activating this setting forces team members to provide a reason if they report themselves unavailable.
+* **Close availability**: If you do wish for teammembers to report themselves unavailable and keep this in-house, you only need to activate this setting. This will disable all availability features in eitje.
+* **Close availability in future**: You determine the number of days that availability closes in advance. This means that employees cannot adjust their availability at the last minute. If this date is for example 7 days, the availability will no longer be adjustable for the next 7 days. This also ensures that the check mark disappears in the planning and is only visible again on day 8 from now on.
 
 ---

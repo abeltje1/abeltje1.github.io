@@ -1,20 +1,21 @@
-# Communicatie
+# Communication
 
-Om je teamleden zo gemakkelijk mogelijk aan te sturen hebben wij vele handige functies in eitje gestopt. Zo kun jij iedereen altijd up-to-date houden door middel van onze communcatieve functies. Hieronder leer jij meer over de verschillende mogelijkheden en hoe jij deze het best kunt inzetten voor je teamleden.
+
+To make it as easy as possible to manage your teammembers, we have created many useful functions inside eitje. This way you can always keep everyone up-to-date through our communication functions. Below you will learn more about the different options and how you can best use them for your team members.
+
 
 ## Teamchat
 
-Met eitje kun jij gemakkelijk chatten met alle teamleden van het desbetreffende team. Dit wordt veelvuldig gebruikt voor het doorgeven van korte updates voor de overdracht van de shifts, het melden van bepaalde zaken en korte vragen. 
+eitje offers teamchat directly inside our app. This is often used for passing on short updates for the transfer of shifts, reporting certain issues and short questions.
 
-> Helaas is het op het moment nog niet mogelijk om via het web platform te chatten en is dit alleen via onze app te gebruiken. Deze verwachten wij in het vierde kwartaal van 2018 te lanceren op het web platform.
 
 ---
 
 
+## News updates
 
-## Nieuws update plaatsen
+Often enough things happen that are very important for your team members. Unfortunately, it's a pain in the ass to scroll back inside chatgroups. That is why you have your own timeline inside eitje full of important news updates. Creating a news item is very easy and fast. Once posted, all team members of the specific team will receive a push notification. 
 
-Er gebeuren vaak genoeg dingen die erg belangrijk zijn voor je teamleden om te weten. Helaas zullen deze in de chatgroep snel niet meer zijn terug te vinden. Daarom heb jij met eitje je eigen **Huiskamer** waar je alle belangrijke updates kunt plaatsen. Het aanmaken van een nieuwsbericht gaat erg gemakkelijk en snel. Eenmaal geplaatst krijgen alle teamleden van het specifieke team een push-bericht. 
 
 <video controls
        muted 
@@ -27,10 +28,10 @@ Er gebeuren vaak genoeg dingen die erg belangrijk zijn voor je teamleden om te w
 
 ## Extra functionaliteiten in de app
 
-Aangezien jij de app een stuk vaker zal openen dan het web-platform hebben wij nog een aantal leuke extra's in de app gestopt voor de managers. 
+Since you will probably open the app a lot more often than the web platform, we have put some nice extras in the app for the managers.
 
-* Bekijken van statistieken: *Je kunt in de app precies zien wie een nieuwsbericht heeft gelezen door het bericht te openen en op de blauwe ronde knop te klikken. Deze button brengt jou naar de statistieken pagina.*
+* **Read receipts:** You can see exactly who has read a news item in the app by opening the message and clicking the blue round buttons. This button allows you to open the message statistics.
 
-* Versturen van leesherinneringen *Eenmaal aangekomen bij de statistieken zie jij precies wie en wanneer iemand het bericht heeft gelezen. Mocht deze nog niet zijn gelezen kun je via deze pagina ook lees herinneringen sturen naar je teamleden.*
+* **Send reminders:** Once you have arrived at the statistics, you can see exactly who and when someone has read the message. If the message has not been read, you can send a quick reminder.
 
 ---
