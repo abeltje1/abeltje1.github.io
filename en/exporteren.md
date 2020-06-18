@@ -1,15 +1,21 @@
-# Exporteren & Analyses
-Aangezien er veel informatie bekend is in eitje over de gewerkte uren, loonkosten en omzetten kunnen wij een aantal onderdelen erg gemakkelijk voor jou maken. In deze handleiding laten wij precies zien welke analyses en exports je allemaal met eitje kunt uitvoeren.
+# Export your data
+We thrive to show your data in the most comprehensive form inside the browser, though but we understand the need to export your data out of our system. 
 
-## Exporteren van de gewerkte uren
-Als alle uren eenmaal zijn geaccordeerd (oftewel: in het groen of rood worden weergegeven) kun je de uren gemakkelijk uit eitje halen voor de verloning. Dit doe je door via Uren naar het Details scherm te navigeren. In het filmpje hieronder laten wij zien hoe jij de uren naar Excel exporteert.
+**Jump to**
+* [Export your timecards](/en/exporteren?id=export-your-timecards)
+* [Export laborcosts](/en/exporteren?id=export-laborcosts)
+* [Export your teammembers](/en/exporteren?id=export-your-teammembers)
 
-Je kunt de uren op twee verschillende manieren exporteren:
+## Export your timecards
 
-* **per gebruiker**: Dit geeft een opsomming van de gewerkte uren/verlof/maaltijden per gebruiker onder elkaar 
-* **per dag**: Dit geeft een opsomming van de gewerkte uren / maaltijden per dag <br>*De export per dag wordt het meest gebruikt voor verwerking in de salarisadministratie*
+Once you have approved your timecards, you can easily export the data out of eitje. You do this by navigating to the **Hours > Details**. There are various options to choose from:
 
-> Het is ook mogelijk om rechtstreeks te koppelen met jouw salarisadministratie pakket. Daarvoor verwijzen wij je graag naar onze handleiding m.b.t. [koppelingen](/koppelingen).
+* **per teammember:** A comprehensive overview of all the timecards of your teammembers.
+* **per day:** A simple overview of all timecards per day per teammember.
+* **per team:** A overview of all timecards per team per day.
+* **quick entry:** A easy way to export your data to insert manually in your payroll software.
+
+> It is also possible to integrate eitje directly to your payroll software. For this we would like to refer you to our manuals with regard to Integrations.
 
 <video controls
        muted 
@@ -21,14 +27,14 @@ Je kunt de uren op twee verschillende manieren exporteren:
 
 ---
 
-
-## Exporteren van de loonkosten
-In het urenoverzicht zie jij altijd de gegevens van de geselecteerde week. Maar het kan natuurlijk zijn dat jij dit liever over de hele maand wilt berekenen. Hiervoor kun je gebruik maken van onze loonkosten export. De handeling hiervoor is precies hetzelfde als het filpmje hierboven. Je selecteert uiteindelijk alleen de optie: **Loonkosten** in plaats van uren. 
-
-Het fijne aan de loonkosten export is dat er ook nog onderscheid wordt gemaakt tussen vaste loonkosten en variabele kosten, waardoor jij met enkele klikken rechtstreeks beschikt over alle informatie die jij nodig hebt om succesvol je horecateam te sturen.
-
-> Het exporteren van loonkosten gaat hetzelfde als het exporteren van de uren hierboven. Het enige verschil is dat je de optie **Loonkosten** selecteert.
+## Export laborcosts
+Exporting labor costs is the same as exporting the timecards from the example above. The only difference is that you select the button that says **Export laborcosts**. After that you need to select a period over which you would like to export the data.
 
 
 ---
 
+
+## Export your teammembers
+Just want to get a quick look about all the information in eitje on your teammembers, go to **Settings > Company settings** and scroll all the way down. On the bottom you can download your file.
+
+---
