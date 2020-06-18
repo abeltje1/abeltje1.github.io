@@ -1,22 +1,24 @@
 # Welcome to eitje
 
-Mocht je net met eitje beginnen dan heb je natuurlijk een aantal vragen . In deze handleiding nemen wij je mee op een korte introductie door de meest gebruikte functionaliteiten van eitje.
+[**Switch to Dutch** 🇱🇺](/ikbeginmeteitje)
 
-* [Je eigen shifts bekijken](ikbeginmeteitje?id=je-eigen-shifts-bekijken)	
-* [Het hele rooster bekijken](ikbeginmeteitje?id=het-hele-rooster-bekijken)	
-* [Een shift ruilen](ikbeginmeteitje?id=een-shift-ruilen)	
-* [Je uren schrijven](ikbeginmeteitje?id=je-uren-doorgeven)	
-* [Beschikbaarheid doorgeven](ikbeginmeteitje?id=beschikbaarheid-doorgeven)	
-* [Verlof verzoek indienen](ikbeginmeteitje?id=verlof-verzoek-indienen)	
-* [Accepteren van ruilverzoek](ikbeginmeteitje?id=accepteren-van-een-inkomend-ruilverzoek)	
-* [Synchroniseren met Apple Calendar](ikbeginmeteitje?id=synchroniseren-met-apple-calendar)	
-* [Synchroniseren met Google Calendar](ikbeginmeteitje?id=synchroniseren-met-google-calendar)	
-* [Inklokken bij eitjeopdevloer](ikbeginmeteitje.md?id=inklokken-bij-eitjeopdevloer)	
+If you are just starting out with eitje, you naturally have a number of questions. In this manual we will take you on a short introduction through the most common features.
+
+* [See your own shifts](/en/ikbeginmeteitje?id=see-your-own-shifts)	
+* [See the whole schedule](/en/ikbeginmeteitje?id=see-the-whole-schedule)	
+* [Trade a shift](/en/ikbeginmeteitje?id=trade-a-shift)	
+* [Update your timecard](/en/ikbeginmeteitje?id=update-your-timecard)	
+* [Insert availability](/en/ikbeginmeteitje?id=insert-availability)	
+* [Create a leave request](/en/ikbeginmeteitje?id=create-a-leave-request)	
+* [Accept a trade request](/en/ikbeginmeteitje?id=accept-a-trade-request)	
+* [Sync Apple Calendar](/en/ikbeginmeteitje?id=sync-apple-calendar)	
+* [Sync Google Calendar](/en/ikbeginmeteitje?id=sync-google-calendar)	
+* [Clock-in at eitjeopdevloer](/en/ikbeginmeteitje.md?id=clock-in-at-eitjeopdevloer)	
 
 
-## Je eigen shifts bekijken
+## See your own shifts
 
-Wanneer jij moet werken is natuurlijk één van de belangrijkste functies van eitje. Je kunt je eigen shifts daarom heel gemakkelijk vinden.
+When you have to work is of course one of the most important functions of breeze. You can therefore easily find your own shifts in the tab: **Shifts** on the bottom of the screen.
 
 <video controls
        muted 
@@ -28,9 +30,9 @@ Wanneer jij moet werken is natuurlijk één van de belangrijkste functies van ei
 ---
 
 
-## Het hele rooster bekijken
+## See the whole schedule
 
-Ook handig om te weten wie er allemaal met jou op het rooster staan. Daarom kun je makkelijk wisselen tussen je eigen shifts en het complete rooster.
+If you wish to see the complete schedule of the team you can easily switch between your own shifts and the complete schedule by clicking on **Schedule** in the navigation on the top of your screen.
 
 <video controls
        muted 
@@ -41,15 +43,15 @@ Ook handig om te weten wie er allemaal met jou op het rooster staan. Daarom kun 
 
 ---
 
-## Een shift ruilen
+## Trade a shift
 
-Ben jij ingeroosterd maar kun je toch niet werken? Geen nood, met eitje kun je gemakkelijk ruilen. Hiervoor zijn twee opties:
+Are you scheduled but are you unable to work? Don't worry, you can easily trade your shift with a teammeber. There are two options for this:
 
-* **Een vervanger zoeken:** Als jij wilt dat iemand jouw shift overneemt, kun je direct aan je teamleden vragen of zij jouw shift willen overnemen.
-* **Een shift ruilen:** Wil jij jouw shift met een andere shift van een teamlid ruilen? Selecteer dan de desbetreffende shift uit het rooster.
+* **Find a replacement:**  If you want someone to take over your shift, you can immediately ask your team members if they want to take over your shift.
+* **Trade your shift:** Do you want to trade your shift with another shift of a team member? Then select the relevant shift from the schedule.
 
 
-> Let op: Als jij en je collega beide het ruilverzoek hebben geaccepteerd, moet je manager nog wel goedkeuring geven. 
+> Note: If your colleague has accepted the trade request, your manager must still approve the trade before it will be put in effect. 
 
 <video controls
        muted 
@@ -61,16 +63,16 @@ Ben jij ingeroosterd maar kun je toch niet werken? Geen nood, met eitje kun je g
 ---
 
 
-## Je uren doorgeven
+## Update your timecard
 
-Aan het einde van je dienst je werktijden doorgeven doe je via de **Uren** tab. Hier kun je alle uren regels van jezelf vinden. Klik op de blauwe shift om je uren aan te passen. 
+At the end of your shift, you can report your hours via the **Hours** tab. Here you can find all hours of yourself. Click on the blue shifts to adjust your hours.
 
-**Wat betekenen de verschillende kleuren?**
-* **Blauw:** Je hebt je uren nog niet doorgegeven.
-* **Oranje:** Je hebt je uren doorgegeven, maar zijn nog niet goedgekeurd.
-* **Groen:**  Je uren zijn goedgekeurd en zullen worden uitbetaald.
-* **Paars:** Je hebt verlof opgenomen.
-* **Rood:**  Je bent ziek geweest of hebt bijzonder verlof gekregen.
+**What do the different colors mean?**
+* **Blue:** You haven't updated your timecard yet.
+* **Orange:** Your timecard is updated, but has not been approved by a manager.
+* **Green:** Your timecard is approved.
+* **Purple:** You have taken time off.
+* **Red:** You have been ill or have been on special leave.
 
 <video controls
        muted 
@@ -81,9 +83,11 @@ Aan het einde van je dienst je werktijden doorgeven doe je via de **Uren** tab. 
 
 ---
 
-## Beschikbaarheid doorgeven
+## Insert availability
 
-Je kunt in eitje ook je beschikbaarheid doorgeven. Hiermee kun je een voorkeur uitspreken voor de dagen dat je niet kunt werken.
+You can also share your availability with the planner through eitje. This allows you to express a preference for the days when you cannot work.
+
+> Note: If you really need to have a day off, it is advised to create a leave request.
 
 
 <video controls
@@ -95,9 +99,9 @@ Je kunt in eitje ook je beschikbaarheid doorgeven. Hiermee kun je een voorkeur u
 
 ---
 
-## Verlof verzoek indienen
+## Create a leave request
 
-Mocht je nu echt een dag/periode niet kunnen werken, is het slimmer om verlof aan te vragen. Zo weet je zeker dat als de manager dit accepteert jij ook echt vrij bent.
+If you really cannot work for a day / period, it is smarter to create a leave request. This way you can be sure that when the manager approves your request, you are really free.
 
 
 <video controls
@@ -109,9 +113,9 @@ Mocht je nu echt een dag/periode niet kunnen werken, is het slimmer om verlof aa
 
 ---
 
-## Accepteren van een inkomend ruilverzoek
+## Accept a trade requet
 
-Je kunt natuurlijk ook gevraagd worden om te ruilen. Alle verzoeken kun je terug vinden in je **Inbox** onder Menu > Verzoeken > Ruil overzicht. 
+You can also be asked to trade your shift. All requests can be found in your **Inbox** under **Menu> Requests > Trade overview**.
 
 <video controls
        muted 
@@ -122,11 +126,13 @@ Je kunt natuurlijk ook gevraagd worden om te ruilen. Alle verzoeken kun je terug
 
 ---
 
-## Synchroniseren met Apple Calendar
+## Sync Apple Calendar
 
-Wel zo makkelijk als je diensten ook direct in je agenda er bij worden geschreven. Je kunt je agenda synchroniseren via het **Menu > Instellingen > Synchroniseer met agenda**. Als je hier op klikt krijg je een kleine pop-up. Druk eerst op de eitje sync URL. Hiermee kopieer jij je eigen URL die je kunt gebruiken om je synchronisatie te starten. Vervolgens klik je op stap 2 om je browser te openen. Het enige wat je nu nog hoeft te doen is je zojuist gekopieerde URL in de browser balk te plakken. De browser zal vervolgens zelf vragen of je jouw Apple Calendar app wilt openen.
+Never forget when you need to work by adding your shifts directly into your personal calendar. You can synchronize your calendar via **Menu > Settings > Synchronise calendar**. If you click on this you will get a small pop-up. First press the eitje sync URL. With this you copy your own URL that you can use to start your synchronization. Then click on step 2 to open your browser. All you have to do is paste your recently copied URL into the browser bar. The browser will then ask if you want to open your Apple Calendar app.
 
-> Problemen met het starten van de synchronisatie, stuur de link naar jezelf en probeer het zelfde op je computer. 
+
+> Problems starting the synchronization from your mobile? Just send the link to yourself and try the same on your computer.
+
 
 <video controls
        muted 
@@ -139,10 +145,10 @@ Wel zo makkelijk als je diensten ook direct in je agenda er bij worden geschreve
 
 ---
 
-## Synchroniseren met Google Calendar
-Wel zo makkelijk als je diensten ook direct in je agenda er bij worden geschreven. Je kunt je agenda synchroniseren via het **Menu > Instellingen > Synchroniseer met agenda**. Als je hier op klikt krijg je een kleine pop-up. Druk eerst op de eitje sync URL. Hiermee kopieer jij je eigen URL die je kunt gebruiken om je synchronisatie te starten. Vervolgens klik je op stap 2 om je browser te openen. Het enige wat je nu nog hoeft te doen is je zojuist gekopieerde URL in te vullen in je Google Calendar.
+## Sync Google Calendar
+Never forget when you need to work by adding your shifts directly into your personal calendar. You can synchronize your calendar via **Menu > Settings > Synchronise calendar**. If you click on this you will get a small pop-up. First press the eitje sync URL. With this you copy your own URL that you can use to start your synchronization. Then click on step 2 to open your browser. All that's left to do is paste the recently copied URL into your Google Calendar.
 
-> Een iPhone koppelen aan Google Calendar? Selecteer je eitje sync URL en vul deze in op de [volgende link](https://calendar.google.com/calendar/r/settings/addbyurl ).
+> Wish to integrate your iPhone to your Google Calendar? Select the eitje sync URL and add this through the [following link](https://calendar.google.com/calendar/r/settings/addbyurl ).
 
 
 
@@ -150,14 +156,18 @@ Wel zo makkelijk als je diensten ook direct in je agenda er bij worden geschreve
 ---
 
 
-## Inklokken bij eitjeopdevloer
+## Clock-in at eitjeopdevloer
 
-Het kan zijn dat jouw bedrijf werkt met eitjeopdevloer. Dit is ons eigen kloksysteem en hiervoor heb jij een eigen unieke code. Deze kun je op twee plekken vinden:
+It may be that your company works with eitjeopdevloer. This is our own timeclock system which you can use by entering your own personal code. You can find this code in two places:
 
-* **App:** Open het menu. Hier zie jij helemaal onderaan je eigen unieke **VloerID**.
-* **Web:** Log in via onze website en ga naar teamleden. Open je eigen profiel en zie daar je **VloerID**.
+
+
+* **App:** Open the menu. on the bottom you will find your own **Timeclock Password**.
+* **Web:** Login through the website and go to **Teammembers**. Open your own profile and you will find your **Timeclock Password**.
 
 ---
 
 
-Kom je toch ergens niet uit en wat meer hulp nodig? Stuur dan even een berichtje via onze chat of mail naar support@eitje-app.nl
+We hope this manual helped you to get the most out of eitje. If you are looking for more information, need help with a bug, or have a great idea. Just send us a message via our chat or email to support@eitje-app.nl. We are happy to help!
+
+Highfive ✋

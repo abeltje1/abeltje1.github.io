@@ -1,5 +1,7 @@
 # Welkom bij eitje
 
+[**Switch to English** 🇺🇸](/en/ikbeginmeteitje)
+
 Mocht je net met eitje beginnen dan heb je natuurlijk een aantal vragen . In deze handleiding nemen wij je mee op een korte introductie door de meest gebruikte functionaliteiten van eitje.
 
 * [Je eigen shifts bekijken](ikbeginmeteitje?id=je-eigen-shifts-bekijken)	

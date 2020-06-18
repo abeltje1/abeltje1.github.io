@@ -6,6 +6,7 @@ Correctly keeping track of the overtime and leave hours for your teammembers can
 * [The fundamentals](/en/plusmin?id=the-fundamentals)
 * [Current balance](/en/plusmin?id=current-balance)
 * [Balance in a specific timeframe](/en/plusmin?id=balance-in-a-specific-timeframe)
+* [Apply adjustments](/en/plusmin?id=apply-adjustments)
 
 ---
 
