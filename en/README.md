@@ -6,7 +6,7 @@ Still need a little help? Don't worry, you can always email to [Support](mailto:
 
 
 * Starting with eitje - [Click here](/en/je-eerste-stappen)
-* Start time tracking - [Klik hier](/urenregistratie)
+* Start time tracking - [Click here](/urenregistratie)
 * Setting up your time clock - [Click here](/en/eitjeopdevloer)
 
 > **Using eitje as a employee?** 
