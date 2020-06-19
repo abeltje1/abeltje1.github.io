@@ -1,14 +1,21 @@
-# Arbeidsproductiviteit & Loonkosten
+# Financial report
+
+You can easily get insights into the current turnover(R), labor costs($) and labor productivity(LP). This way you ensure that you quickly know whether you have done well for the day or spent too much money on labor costs. Once you have worked with this functionality for a while, the analysis will also allow you to see much faster at which moments and days you are scheduled too broadly.
+
+In the **Schedule** and the **Overview** inside the hours will give insight into the financial report. However, you will see different numbers in both areas. The schedule is a forecast we expect on the amount of shifts and revenue from the past, while the overview will show you the realized result.
+
+**Jump to**
+* [Opening the financial report](en/loonkosten?id=opening-the-fiancial-report)
+* [Forecast in the schedule](en/loonkosten?id=forecast-in-the-schedule)
+* [Actuals in the overview](en/loonkosten?id=actuals-in-the-overview)
+* [Financial report in our app](en/loonkosten?id=financial-report-in-our-app)
 
 
-Je kunt in eitje heel gemakkelijk direct inzicht krijgen in de actuele omzet, loonkosten en arbeidsproductiviteit. Zo zorg jij ervoor dat je al heel snel weet of je op een dag goed hebt gedraaid of toch teveel geld aan loonkosten gaat uitgeven. Als je eenmaal een tijdje werkt met deze functionaliteit zal je door de analyse ook veel sneller inzien op welke momenten en dagen je te ruim staat ingeroosterd, waardoor je goed kunt gaan schakelen met de bezetting van je team.
-
-Zowel in de **planning** als in het **weekoverzicht** kan jij inzicht krijgen in de gemaakte loonkosten en arbeidsproductiviteit. Echter zul jij in beide onderdelen verschillende analyses te zien krijgen, zo zullen we in de planning een prognose maken en in het weekoverzicht zie je juist het gerealiseerde resultaat.
 
 ---
 
-## Het openen van het financiële overzicht
-Je kunt zowel in de planning als het weekoverzicht het **Financieel overzicht** openen. Dit doe je door op het pijltje rechtsbeneden te klikken. 
+## Opening the financial report
+You can open the **Financial report** on the schedule and in the overview. You can do this by simply clicking on the arrow at the bottom right.
 
 <video controls
        muted 
@@ -19,19 +26,22 @@ Je kunt zowel in de planning als het weekoverzicht het **Financieel overzicht** 
 
 ---
 
-## Prognose bekijken in de planning
-In de **planning** zie jij de situatie voor-calculatorisch. Dit betekent dat het gaat om de verwachting aan de hand van de planning (dit weergeeft dus niet de gerealiseerde situatie welke is te vinden onder het weekoverzicht). Om voor-calculatorisch de omzet te berekenen kijken wij naar het gemiddelde van de omzetcijfers van de afgelopen **4 weken**. Zo zie jij op een maandag de omzet van de afgelopen 4 maandagen bij elkaar opgeteld en deze weer gedeeld door vier. 
+## Forecast in the schedule
+On the schedule we will show you the budgetted situation. This means that we show you the calculated expectation based on the schedule. The forecast for your turnover is an avarage of the turnover for the past 4 weeks on the same day. For example: on a monday you will see the turnover as an avarage of the past four mondays.
 
 ---
 
-## Resultaat inzien in het weekoverzicht
-Onder het kopje **Uren > Weekoverzicht** zul jij de echt gerealiseerde cijfers inzien. In het weekoverzicht weten wij precies hoeveel uren er zijn gewerkt, door welk teamlid en in welk team. Zodoende kan jij door het invoeren van de omzet gelijk inzien of gisteren positief of negatief is afgesloten. De omzet die hier wordt weergegeven is natuurlijk de omzet die op deze dag is gedraaid. Dit kun je invoeren door rechtsbeneden op het **€** teken te klikken.
+## Actuals in the overview
+On the overview page you will see your actuals. We calculate the excact amount of cost by the timecards which have been approved or checked-in at that moment. The turnover that's shown on this page is the actual turnover (excluding taxes) for that specific day. You can enter the turnover by clicking on the € sign at the bottom right.
 
 ---
 
 
-## Financieel overzicht in de app
-Ook in onze app heb je direct inzicht in de cijfers. Je komt hier door via het Menu naar Financieel rapport te navigeren. Hier zie je precies per dag zowel de voorspelling als het resultaat. Ook kun je hier de omzet invoeren door op de knop met het **€** teken te klikken. 
+## Financial report in our app
+
+Even in our app you have direct insight into your financials. Simply open the Menu and click Financial report. By clicking on the € sign you will be able to enter your realised turnover.
+
+---
 
 
 
