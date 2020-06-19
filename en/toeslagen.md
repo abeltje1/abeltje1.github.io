@@ -1,17 +1,27 @@
-# Toeslagen 
+# Additional payments on shift
 
-Je kunt in eitje ook toeslagen toekennen aan de gewerkte uren. In eitje kennen wij drie typen toeslagen:
+You can add additional payments to your timecards in eitje. 
 
-* Functie toeslag: Zelf te benoemen toeslag. Denk bijv. aan een toeslag op een incidentele leidinggevende rol. Deze toeslag kun je na het aanmaken per shift toekennen via de urenregistratie.
-* Hapsnap toeslag: Een toeslag die automatisch wordt toegekend aan het tijdstip van werken. Denk bijv. aan een toeslag voor elk persoon die werkt op een zondag.
-* Feestdag toeslag: Deze toeslag wordt ook automatisch toegekend. Denk hierbij aan een toeslag voor iedereen die werkt op eerste kerstdag.
+**Jump to**
+* [Different types](en/toeslagen?id=different-types)
+* [Creating a allowance](en/toeslagen?id=creating-a-allowance)
+* [Linking your surcharge to Nmbrs](en/toeslagen?id=linking-your-surcharge-to-nmbrs)
 
+## Different types
 
-## Aanmaken van toeslag in eitje
+We offer three different types of surcharges:
 
-Je kunt een toeslag aanmaken via de instellingen onder Bedrijf. In het onderstaande filmpje maken wij een feestdagtoeslag aan, het principe van aanmaken geldt echter voor alle soort toeslagen hetzelfde. 
+* On a function: Consider an allowance for an incidental managerial role. This allowance can be granted on a timecard.
+* In a specific timeframe: A surcharge that is automatically assigned to the time of work. For example, consider an additional payment for each person who works on a Sunday.
+* On public holidays: This supplement is also automatically granted. Think of an allowance for everyone who works on Christmas Day.
 
-> Hierin is de 50% die wij toekennen een verhoging van 1,5 van het normale uurloon.
+---
+
+## Creating a allowance
+
+You can create a additional payment option by navigating towards **Settings > Company Settings > Financial**. In the video below we create a allowance for a public holiday, however the principle appliy for all types of allowances.
+
+> The inserted value of 50% will increase the hourly wage by a factor of 1.5.
 
 <video controls
        muted 
@@ -20,12 +30,11 @@ Je kunt een toeslag aanmaken via de instellingen onder Bedrijf. In het onderstaa
        height="384">
 </video>
 
+---
 
-## Koppelen van toeslag aan looncode in Nmbrs
+## Linking your surcharge to Nmbrs
 
-Helemaal gemakkelijk als de toeslagen direct doorkomen in je salarisadministratie. Dit is mogelijk met onze Nmbrs koppeling. Hieronder laten wij zien hoe je toeslagen koppelt aan de juiste looncode. 
-
-> Let op: dit kun je alleen doen als je al een actieve koppeling met Nmbrs hebt in eitje. 
+Automatically export your additional payments towards Nmbrs is possible by selecting the right **Wage code**. In the video below we will show you how to do this in eitje. 
 
 <video controls
        muted 
@@ -33,3 +42,5 @@ Helemaal gemakkelijk als de toeslagen direct doorkomen in je salarisadministrati
        width="683"
        height="384">
 </video>
+
+---

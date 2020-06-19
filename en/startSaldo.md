@@ -1,27 +1,34 @@
-# Startsaldo voor urenregistratie
-Het bijhouden van een plus/min & verlof registratie is niet het meest leuke werk. Gelukkig hebben wij in eitje zo veel mogelijk hulpmiddelen gemaakt, zodat zelfs dit klusje jou nog amper tijd kost. In deze handleiding leer jij hoe je eitje zo inricht dat het saldo netjes wordt bijgewerkt, maar ook hoe je  van iedereen het startsaldo invult. 
+# Starting the balance sheet
+Keeping track of the balancesheets of your employees, isn't the most fun part of your job. That's why we created our tools as convenient and easy as possbile, this way even this job barely takes your time. In this manual we will take a look at how you can easily setup your balance for the overtime and leave registration. 
 
-## Instellen van contract types
-Moet een nul uren contract wel of geen verlof opbouwen en hoeveel verlof wordt er per gewerkt uur nu precies opgebouwd? Om precies te weten voor welke teamleden er wat moet gebeuren is het belangrijk om je contract instellingen goed te zetten. Dit doe je onder **Instellingen > Vestiging instellingen > Contracten** Hier kun je voor zowel je Nul uren als teamleden met een Uren contract precies aangeven wat er moet gebeuren. 
+**Jump to**
+* [Contract settings](/en/startSaldo?id=contract-settings)
+* [Balance startdate](/en/startSaldo?id=balance-startdate)
+* [Insert startvalues](/en/startSaldo?id=insert-startvalues)
+* [Final check](/en/startSaldo?id=final-check)
 
-> Mocht jij twijfelen over het aantal vakantie uren per gewerkt uur, kun je het beste even contact opnemen met je administratie kantoor.
+
+## Contract settings
+Should a zero hour contract build up leave and if so, how much should it build per worked hour. It is very important that eitje has the right settings so it can calculate the right amount of leave for your teammembers. So which settings should you check and where can you find them?
+* Zero hour contracts 
+* Fixed hour contract
+
+> Both settings can be found by navigating towards **Settings > Company Settings > Contracts**
 
 
 ---
 
-## Start datum van saldo
-Het kan natuurlijk zo zijn dat jij midden in het jaar met eitje begint. Dan is er vast en zeker door je teamleden al verlof opgenomen en opgebouwd en zijn er bepaalde teamleden met plus of min uren. Om ervoor te zorgen dat je met de juiste data van start kunt gaan met eitje is het van belang om een startdatum van het saldo te selecteren. Dit zorgt ervoor dat er pas vanaf de door jou ingevulde datum saldo wordt opgebouwd of afgetrokken.
+## Balance startdate
+It is of course possible that you start with eitje in the middle of the year. This means all of your team members have already built up their leavebalance and probably have a negative/positive value on their overtime. To ensure that you can start with the correct numbers, it is important to select a start date for the balance. This ensures that the balance is only built up or deducted from the date you entered. 
 
-Het startsaldo kun je zowel in de instellingen als onder **Uren > Saldo** instellen. Dit doe je door te navigeren naar de Saldo pagina en rechtsboven te klikken op: **Beheer startsaldo**.
-
-> Moeite met het bedenken van je startdatum? Dit is eigenlijk altijd de datum waarop jij officieel bent begonnen met het registreren van de uren in eitje.
+**Note:** Having a hard time figuring out your startdate? This is 99 out of 100 times the date you officialy started timetracking in eitje. 
 
 ---
 
-## Start saldo van je teamleden invoeren
-Om ervoor te zorgen dat er vanaf jouw startdatum goed wordt doorgeteld moet je verder nog het start saldo voor je teamleden instellen. Je kunt in dit scherm gemakkelijk per persoon het plus/min en het verlof saldo instellen. In het onderstaande filmpje zie je hoe gemakkelijk je dit kunt instellen. Hierin hebben wij de startdatum van het saldo al op 01/09/2019 gezet en voor drie mensen het startsaldo ingevult. 
+## Insert start values
+In order to ensure that your teammembers start with the correct values, you should set their current values for the balance startdate. You can easily do this by navigating towards **Hours > Balance** and hitting the button that says **Start balance**. This opens up a modal where you can adjust the balance startdate and enter all of the start values for your teammembers.
 
-> Voor een negatief saldo selecteer je een '-' in het venster **Beheer startsaldo**.
+> Do make sure you have all of your teammembers contracts sorted. [More about contracts](/en/contracten)
 
 <video controls
        muted 
@@ -33,12 +40,12 @@ Om ervoor te zorgen dat er vanaf jouw startdatum goed wordt doorgeteld moet je v
 
 ---
 
-## En nu?
-Heb je:
-* De contract instellingen gedaan?
-* Een startdatum van saldo ingesteld?
-* Het startsaldo van je teamleden ingevuld?
+## Final check
+Have you
+* Updated the contract settings for zero hours and fixed hours?
+* Inserted a balance startdate?
+* Inserted all of your teammembers start values?
 
-Gefeliciteerd, eitje zal nu automatisch voor iedereen het saldo netjes bijhouden.  
+Congratulations, eitje will keep everyone balances in check.   
 
 ---

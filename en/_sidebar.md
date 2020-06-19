@@ -18,11 +18,11 @@
 
 	* [Update and approve](/en/urenregistratie.md)
 	* [Contracts](/en/contracten.md)
-	* [Export and Analysis](/en/exporteren.md)
+	* [Export your data](/en/exporteren.md)
 	* [Overtime and leave balance](/en/plusmin.md)
-	* [Starting balance](/en/startSaldo.md)
+	* [Starting the balance sheet](/en/startSaldo.md)
 	* [Leave requests](/en/verlof.md)
-	* [Toeslagen op shift](/en/toeslagen.md)
+	* [Additional payments on shift](/en/toeslagen.md)
 
 * Revenue registration
 	* [Financial report](/en/loonkosten.md)

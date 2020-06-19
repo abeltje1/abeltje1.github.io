@@ -29,8 +29,6 @@ Als een teamlid een verlofverzoek heeft gedaan zal je deze als manager nog moete
 
 > Saldo van vandaag - (de verlofopname van dit verzoek + alle al eerder goedgekeurde verzoeken in de toekomst) + de nog op te bouwen verlofuren volgens contract.
 
-* **Totaal opgenomen uur:** Het aantal al eerder toegekende verlofuren in de toekomst voor deze gebruiker. 
-
 In volgende video kijken wij naar een verlofverzoek voor nul uren contracten.
 
 <video controls
