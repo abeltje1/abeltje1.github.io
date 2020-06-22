@@ -1,38 +1,48 @@
 # Omzet instellingen
+When starting your revenue registration it is very important to make sure your settings are set. Otherwise, your data could be incomprehensive.  
 
-Om te starten met de omzetregistratie is het van belang dat er een aantal instellingen goed staan. Zonder deze instellingen is de data die je vanuit eitje zal ontvangen niet correct en zal je ook belangrijke inzichten gaan missen. 
-> Welke instellingen moet je allemaal doen? 
-	
-	* Verdeling van loonkosten
-	* Streefgetal loonkosten
-	* Omrekenfactor voor Nul uren / Uren / Payroll contracten
+**Jump to**
+* [Setting overview](en/omzet-instellingen?id=setting-overview)
+* [Laborcost distribution](en/omzet-instellingen?id=laborcost-distribution)
+* [Conversion factor for zero hours/hour/payroll contract](en/omzet-instellingen?id=conversion-factor-for-zero-hourshourpayroll-contract)
+* [Laborcosts target value](en/omzet-instellingen?id=laborcosts-target-value)
 
-**Verder is het van belang dat je teamleden allemaal voorzien zijn van een actief contract. Zonder deze informatie zal eitje geen loonkosten van een teamlid kunnen berekenen.**
+---
+
+## Setting overview
+There are three settings which you should implement before trusting on the calculations in eitje:	
+* Laborcost distribution
+* Conversion factor for zero hours/hour/payroll contract
+* Laborcosts target value 
+
+**Note: All of theses settings can be applied under Settings > Company settings**
+
+> Besides setting the three settings above, it is necessary to make sure that all of your teammembers have a active contract in their profile.
 
 
 
 ---
 
+## Laborcost distribution
 
-## Verdeling van loonkosten
+This will distirbute your laborcost over all of your revenuegroups. It is possible to update/create/delete revenuegroups on the bottom of the modal. In the end you should make sure that all of the sliders should present a value of 100%. This will assign all of the hours worked from the selected team to the concerned revenuegroup.
 
-Hiermee beheer je zowel je omzetgroepen als de verdeling. Je kunt onderaan de pop-up nieuwe omzetgroepen aanmaken, bestaande omzetgroepen aanpassen of zelfs verwijderen. Uiteindelijk is het de bedoeling dat je bovenin de pop-up alle sliders precies op 100% laat uitkomen. Zo zullen de gewerkte uren van het desbetreffende team voor de rekening komen van de gekoppelde omzetgroep (procentueel gezien).  
 
-> Als je Team: Bar voor 100% toewijst aan de omzetgroep: Bediening zorgt dit ervoor dat alle gewerkte uren van het Bar team worden doorgerekend in de omzetgroep Bediening. 
-
----
-
-## Streefgetal loonkosten
-
-Mochten de loonkosten boven het streefgetal komen zullen de loonkosten in procenten **rood** kleuren. Zo krijg jij gelijk visueel te zien als het wat minder liep en kun je snel actie ondernemen. 
-
-> Deze instelling is niet verplicht, maar wel erg handig.
+> **Example:** If team: Bar is set to 100% for the revenuegroup: Serivce, this will incorperate all of the hours from the Bar team and uses it for the calculation in the revenuegroup. 
 
 ---
 
-## Omrekenfactor voor contracten
 
-Teamleden hebben in hun contract een bruto salaris per uur. Als werkgever betaal je echter wel meer dan alleen het bruto salaris. Deze werkgeverslasten kun je meenemen door een omrekenfactor in te stellen. Deze omrekenfactor kun je per contracttype instellen.
 
-> Dit getal kun je instellen onder **Instellingen > Vestiging instellingen | Contracten**.
+## Conversion factor for zero hours/hour/payroll contract
+
+The gross salary of your teammembers isn't the amount it will cost you as employer. To include the employercharges you should update the conversion factor for all of the contract settings. 
+
+---
+
+## Laborcosts target value
+
+This setting is not mandatory for a correct calculation, but will help you nonetheless. It will color the laborcost sum in red when you have reached the treshold you have set. This will be a visual cue that you have spent more on laborcost then you wished.
+
+
 ---

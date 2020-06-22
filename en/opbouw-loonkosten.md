@@ -1,42 +1,53 @@
-# Uitleg van berekeningen
+# Zooming in on the calculations
+There are various calculations made in eitje. In this manual we will take a look at all the calculations, so you know excactly how we crunch the numbers.
 
-Zowel in de planning als bij uren kan jij inzicht krijgen in de gemaakte loonkosten en arbeidsproductiviteit. Echter zul jij in beide onderdelen verschillende analyses te zien krijgen. 
-Wel zijn de calculaties om de analyses te maken natuurlijk altijd hetzelfde: 
+**Jump to**
+* [Laborcost per teammember](en/opbouw-loonkosten?id=laborcost-per-teammember)
+* [Laborcost per teammember including allowances](en/opbouw-loonkosten?id=laborcost-per-teammember-including-allowances)
+* [Labor productivity](en/opbouw-loonkosten?id=labor-productivity)
+* [Laborcosts in percentages](en/opbouw-loonkosten?id=laborcosts-in-percentages)
 
-## Berekening loonkosten per teamlid
-* Loonkosten per uur = Brutoloon  X  Omrekenfactor X (1 + Verloffactor)
 
-Hieronder de uitleg wat dit precies inhoudt dan:
- * Brutoloon = Brutoloon van teamlid op contract
- * Omrekenfactor = Ingestelde omrekenfactor in contract instellingen
- * Verloffactor = Verlofuren opgebouwd per gewerkt uur
+
+## Laborcost per teammember
+* Laborcosts per hour = Gross salary  *  Conversion factor
+
+The terms explained
+ * **Gross salary** = The gross salary of teammember on their contract
+ * **Conversion factor** = The conversion factor on the contract type. This will factor in the employercharges to create a more realistic labor cost value.
  
+ ---
 
----
+## Laborcost per teammember including allowances
 
-## Berekening loonkosten per teamlid incl. toeslagen**
+In case of a specific allowance, the laborcost will inrease on those specific hours/days. This will change the calculation: **Laborcosts per hour = Gross salary  *  Conversion factor  *  Allowance factor**
 
->Het kan zijn dat jij ook toeslagen hebt geactiveerd in eitje om bijvoorbeeld op feestagen of specifieke uren een hoger bedrag te betalen. Dit heeft natuurlijk ook impact op de loonkosten. Mocht jij toeslagen hebben geactiveerd is de berekening als volgt:
-* Loonkosten per uur = Brutoloon  X  Omrekenfactor X Toeslagfactor X (1 + Verloffactor)
-
-Hieronder de uitleg wat de toeslagfactor inhoudt:
-* Toeslagfactor = Toeslagoverlap X Toeslaggewicht
-* Toeslagoverlap = Gedeelte v.d shift waarop toeslag van toepassing is (is 1 als 100% overlap)
-* Toeslaggewicht = Hoeveelheid toeslag (1.5 als 50%)
+Allowance factor is combined of the following data:
+* **Allowance factor** = Overlap  *  Allowance weight
+* **Overlap** = The amount of time the allowance is active on the shift (if overlap is 100% the overlap factor will be 1)
+* **Allowance weight** = The amount of allowance that is set in the settings (1.5 if setting is 50%)
 
 
 ---
 
-## Arbeidsproductiviteit **
-* Omzet / Aantal uren 
+## Labor productivity 
+The Labor productivity is used to define how much revenue is obtained for every hour worked. This is a simple calculation and will divide the revenue by the total amount of hours. 
+
+**Revenue / Amount of hours**
+
+> Example:
+On a day you had €2.000,- of revenue. In total your teammembers worked for 40 hours. This will result in a value of €50,- for your labor productivity (2000/40=50). 
+
+
 
 
 ---
 
-## Loonkosten in procenten **
-* Omzet / Loonkosten van alle teamleden x 100 
+## Laborcosts in percentages
+After calculating your laborcosts we can use that number to define the percentage of your laborcost in comparison to your revenue. 
+
+**Revenue / Laborcosts of all teammembers combined  * 100** 
 
 ---
 
-*** per omzetgroep wordt er nog gekeken naar de [Omzetverdeling](instellingen?id=omzet-verdeling-over-de-teams) per team.*
 

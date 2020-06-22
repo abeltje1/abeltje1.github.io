@@ -4,12 +4,11 @@ Zowel in de planning als bij uren kan jij inzicht krijgen in de gemaakte loonkos
 Wel zijn de calculaties om de analyses te maken natuurlijk altijd hetzelfde: 
 
 ## Berekening loonkosten per teamlid
-* Loonkosten per uur = Brutoloon  X  Omrekenfactor X (1 + Verloffactor)
+* Loonkosten per uur = Brutoloon  X  Omrekenfactor 
 
 Hieronder de uitleg wat dit precies inhoudt dan:
  * Brutoloon = Brutoloon van teamlid op contract
  * Omrekenfactor = Ingestelde omrekenfactor in contract instellingen
- * Verloffactor = Verlofuren opgebouwd per gewerkt uur
  
 
 ---
@@ -17,7 +16,7 @@ Hieronder de uitleg wat dit precies inhoudt dan:
 ## Berekening loonkosten per teamlid incl. toeslagen**
 
 >Het kan zijn dat jij ook toeslagen hebt geactiveerd in eitje om bijvoorbeeld op feestagen of specifieke uren een hoger bedrag te betalen. Dit heeft natuurlijk ook impact op de loonkosten. Mocht jij toeslagen hebben geactiveerd is de berekening als volgt:
-* Loonkosten per uur = Brutoloon  X  Omrekenfactor X Toeslagfactor X (1 + Verloffactor)
+* Loonkosten per uur = Brutoloon  X  Omrekenfactor X Toeslagfactor 
 
 Hieronder de uitleg wat de toeslagfactor inhoudt:
 * Toeslagfactor = Toeslagoverlap X Toeslaggewicht
