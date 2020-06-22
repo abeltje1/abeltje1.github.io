@@ -1,4 +1,4 @@
-# Tips voor de omzet registratie
+# Tips
 
 To further reduce the amount of work on your revenue registration we have created a few tips and trickes which could help your registration.
 
