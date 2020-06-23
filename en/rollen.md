@@ -45,34 +45,30 @@ This is the only role that will allow you to view, edit and update the contracts
 
 ## Approve hours
 
+Give your teammembers the power to approve and/or edit timecards. 
 
-Teamleden die de gewerkte uren mogen goedkeuren zijn bij eitje **Accordeerders**. Deze personen kunnen bij het kopje **Uren** ook de gewerkte uren van de andere teamleden zien en mogen deze dus aanpassen naar de status **Verwerkt** (ook wel groen). Daarnaast krijgen deze teamleden zo ook toegang tot de verlof en plus/min registratie.
-
-> Een teamlid met de rol **Uren Accorderen** kan uren aanpassen en goedkeuren in de urenregistratie, daarnaast geeft deze rol ook toegang tot de **Saldo** pagina. 
 
 ---
 
 ## Write teammember hours
 
-Soms heb jij teamleden die wel **Uren** mogen schrijven voor je teamleden, maar die niet de gehele uren registratie hoeven in te zien. Met deze rol zorg jij ervoor dat dit teamlid de uren van zijn collega's an schrijven (dus niet 'Accorderen'). De geschreven uren door dit teamlid worden dan ook **Oranje** in de urenregistratie en moeten dus nog worden verwerkt.
+Give teammembers the power to edit timecards.
 
-> Teamleden met de rol **Uren Schrijven** mogen uren schrijven voor andere, maar deze niet goedkeuren. Ook is financiële data voor deze persoon off-limits.
+> The timecards still need to be approved after this role updates a timecard.
 
 ---
 
 ## Financials
 
-Met het toekennen van de rol financieel krijgen teamleden toegang tot de **Details** pagina van de urenregistratie. Hiermee heeft een teamlid alle mogelijkheden van de urenregistratie. Zo kan deze analyses maken op basis van de data, of deze exporteren vanuit eitje. 
-
-> Deze rol geeft toegang tot de **Details** pagina van de urenregistratie.
+Export data and reveal the **Details** page. 
 
 
 ---
 
 ## Not on schedule
 
-Teamleden die wel in eitje zitten, maar nooit op het rooster staan? Dan is het handig om deze teamleden toe te voegen aan de rol **Onroosterbaar** Zo kunnen deze teamleden niet ingepland worden en worden zij niet meegenomen in ruilverzoeken en uitvragen voor open shifts.
+Working with eitje but don't want to appear on the schedule. Assign this role to exclude teammembers from the schedule.
 
-> De rol **Onroosterbaar** zorgt ervoor dat deze teamleden nooit op het rooster voorkomen.
+
 
 ---
