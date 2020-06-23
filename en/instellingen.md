@@ -1,112 +1,167 @@
-# Instellingen beheren
+# Your settings
 
-Om eitje zo goed mogelijk bij jouw team aan te laten sluiten is het mogelijk om het een en ander in te stellen. 
+eitje works very well in a standard setting, however if you want to get more out of your registration and team we advise you to take a good look at the different settings. 
 
-> De meeste instellingen hebben te maken met de **Urenregistratie**, mocht jij deze niet hebben geactiveerd is het ook niet nodig om deze instellingen aan te passen. De eerste drie onderwerpen (de beschikbaarheids instellingen) werken natuurlijk wel gewoon voor alle teams.
+**Jump to availability**
+* [Mandatory reason when unavailable](/en/instellingen?id=mandatory-reason-when-unavailable)
+* [Close availability for all teammembers](/en/instellingen?id=close-availability-for-all-teammembers)
+* [Close availability ahead in future](/en/instellingen?id=close-availability-ahead-in-future)
 
+**Jump to hour registration**
+* [Activate hour registration](/en/instellingen?id=activate-hour-registration)
+* [Write your own hours](/en/instellingen?id=write-your-own-hours)
+* [Update hours before](/en/instellingen?id=update-hours-before)
+* [Startdate of hour registration](/en/instellingen?id=startdate-of-hour-registration)
+* [Start new day](/en/instellingen?id=new-day-start)
+* [Meal allowance](/en/instellingen?id=meal-allowance)
+* [Activate HR integration](/en/instellingen?id=activate-hr-integration)
 
+**Jump to financial**
+* [Laborcost distribution](/en/instellingen?id=laborcost-distribution)
+* [Laborcosts target value](/en/instellingen?id=laborcosts-target-value)
+* [Startdate of hour balance](/en/instellingen?id=startdate-of-hour-balance)
+* [Time format when exporting files](/en/instellingen?id=time-format-when-exporting-files)
+* [Allowances](/en/instellingen?id=allowances)
+* [POS integration](/en/instellingen?id=pos-integration)
 
-## Reden verplicht voor beschikbaarheid
-Met deze instelling kun jij je werknemers verplichten om altijd een reden in te moeten vullen bij het afmelden voor een dag in de beschikbaarheid & vaste dagen.
+**Jump to contracts**
+* [Contract settings](/en/instellingen?id=contract-settings)
 
-
-
-## Beschikbaarheid altijd dicht
-Wil jij niet dat medewerkers hun beschikbaarheid kunnen invullen en beheer jij dit zelf voor hen? Geen probleem, je kunt met deze instelling de hele beschikbaarheid uit zetten voor je teamleden. Aleen de mensen met een rol **Manager** kunnen dan via het web-platform nog de beschikbaarheid aanpassen.
-
-
-
-## Dagen voor sluiten van beschikbaarheid
-Met dit veld geef jij aan hoeveel dagen van te voren de beschikbaarheid automatisch sluit. 
-
-> Voorbeeld: Vandaag is het 1 januari. Als je vervolgens 7 dagen instelt zal de beschikbaarheid automatisch dicht gaan tot & met 8 Januari 
-
-**Let op: De beschikbaarheid gaat automatisch dicht voor de dagen waarop jij een shift hebt gepubliceerd.**
-
-
-
-## Urenregistratie actief
-
-Wil jij urenregistreren met eitje? Zet deze instelling dan aan, anders hoef jij niks te doen. 
-
-
-
-## Eigen uren schrijven
-
-Deze instelling staat standaard aan met het activeren van de urenregistratie. Dit zorgt ervoor dat jouw teamleden zelf hun uren mogen schrijven via de app/webplatform. Als deze functie uitstaat zullen je teamleden zelf niet hun uren kunnen schrijven en kunnen alleen de mensen met de rol **Uren Schrijven** de uren mogen schrijven voor de teamleden. 
-
-> Dit gebeurd voornamelijk bij grote teams waar de shiftleaders/management aan het einde van de dag alle uren voor haar team schrijft.
-
-
-## Uren doorgeven binnen
-
-Hiermee stel jij in hoe lang je teamleden hun uren mogen invullen. Als deze tijd is verstreken kunnen de rollen **Accorderen & Admin** natuurlijk nog wel de uren aanpassen.
-
-## Met welke partij wil je koppelen?
-
-Mocht jij je uren doorzetten naar een salaris administratie pakket kun jij hier kijken met welke partijen wij allemaal koppelen. 
-
-> Neem altijd even contact op met onze support lijn voor het activeren van een koppeling. Het kan zijn dat er nog specifieke instellingen gedaan moeten worden om de koppeling functioneel te maken.
-
-
-## Maaltijdvergoeding
-
-Het bijhouden van de maaltijdvergoeding kan gemakkelijk via eitje. Het enige wat jij hoeft te doen is deze te activeren. Selecteer welke vergoeding jij wilt activeren en je kunt natuurlijk ook gewoon zelf een eigen vergoeding aanmaken mochten onze presets niet voldoen.
-Alle geactiveerde maaltijden komen in de planning & urenregistratie terug voor je teamleden. Vervolgens kun jij onder Uren > Details precies zien wie, wanneer de maaltijd heeft gekozen. 
-
-## Omzet verdeling over de teams
-
-Over het algemeen is eitje niet heel moeilijk, maar zelfs wij vinden het nogal lastig om deze functie gemakkelijk uit te leggen. In het kort komt het echter hier op neer:
-
-> Hiermee bepaal jij hoeveel procent van de gewerkte uren van een bepaald team toegekend worden aan de desbetreffende omzetgroep.
-
-Zo kun jij dus precies bepalen voor hoeveel procent de gewerkte uren van een bepaald team worden meegenomen in de berekeningen voor de arbeidsproductiviteit en loonkosten.
-
-Standaard zijn er twee omzetgroepen geactiveerd: Bediening & Keuken. Deze kun jij natuurlijk wel hernoemen mocht jij hier andere benamingen voor gebruiken. Daarnaast kun je ook nog omzetgroepen toevoegen en/of verwijderen. Denk hierbij bijvoorbeeld aan omzet voor Delivery, Tickets etc.
-
-
-## Streefgetal loonkosten
-
-Mochten de loonkosten boven het getal komen wat jij hier instelt zullen de cijfers **rood** worden. Zo krijg jij gelijk visueel te zien als het allemaal net wat minder loopt en kun je snel actie ondernemen.
-
-
-## Ingangsdatum van saldo
-
-Het kan natuurlijk zijn dat jij eitje al een tijdje gebruikt maar dat jij op een bepaald moment pas echt gaat werken met het bijhouden van het saldo in eitje. Vul de startdatum vanaf wanneer alle data in eitje correct is genoteerd via de correcties dan negeren wij alle gewerkte uren voor deze datum. In het kort zegt het ook wel dit:
-
-> De datum die jij hier instelt geeft aan vanaf welke datum het plus/min en verlofsaldo worden bijgehouden. 
-
-Voor meer informatie over het werken met de plus/min uren en verlof registratie klik [hier](plusmin.md)
-
-## Contract instellingen
-
-Om de loonkosten, verlof en alle andere berekening goed uit te kunnen voeren in het van belang dat de contract informatie goed is ingevoerd. Daarnaast zijn er nog een aantal instellingen die moeten gebeuren zodat eitje met de juiste cijfers kan rekenen. Hiervoor kun je voor de volgende drie contract types de instellingen aanpassen.
-
-* Nul uren contract
-* Uren contract
-* Payroll contract
+**Jump to information**
+* [Where are you located](/en/instellingen?id=where-are-you-located)
+* [Download personnel file](/en/instellingen?id=download-personnel-file)
 
 ---
 
-**Hoeveel uur is een full-time werkeek?**
-
-Maak een keuze uit 36, 38 of 40 om aan te geven uit hoeveel uur je werkweek bestaat. 
-*Het is in de horeca gebruikelijk om uit te gaan van een 38 uur.*
+## Mandatory reason when unavailable
+With this setting you can oblige your employees to always fill in a reason when updating their availability.
 
 ---
 
-**Verlofsaldo opbouwen voor contract type?**
+## Close availability for all teammembers
+Do you not want employees to be able to fill in their availability and do you manage this for them yourself? No problem, with this setting you can switch off the entire availability for your team members. Only the people with a Manager role can then adjust the availability via the web platform.
 
-Met deze slider geef jij aan of er ook verlof moet worden ogpebouwd voor dit contract type. Het aantal vakantie uren dat er per contract type wordt opgebouwd kun je in de volgende invoer instellen.
+If you do not wish to use our availability features. Simply swipe the switch off and they will disappear for your teammembers. 
+
+> Only teammembers with the role: **Manager** will still be able to change the availability for your teammembers on the website.
+
+---
+
+
+## Close availability ahead in future
+With this field you indicate how many days in advance the availability automatically closes.
+
+> Example: Today is January 1. If you set this setting at 7 days, the availability will automatically close until January 8th.
 
 ---
 
-**Hoeveel vakantie uren worden opgebouwd per gewerkt uur?**
+## Activate hour registration
 
-Als er verlofopgebouwd mag worden voor dit contract type kun jij met deze invoer bepalen hoeveel uren er dan per gewerkt uur opgebouwd moeten worden. 
-*In vele horecazaken wordt met 0.096 gerekend.*
+Do you want to activate time tracking in eitje? Turn on the switch and all the options will appear.
+
 
 ---
-**Wat is de omrekenfactor over het brutoloon?**
 
-Om het bruto loon van de teamleden om te rekenen naar de totale loonkosten inclusief sociale lasten en andere kosten kun jij gebruik maken van de omrekenfactor. Zo zullen de loonkosten een eerlijker beeld scheppen van de totale loonsom.
+## Write your own hours
+
+This setting is enabled by default when activating time tracking. This ensures that your teammembers can change their hours after their shift.. When turned off, your team will not be able to update their hours and only the teammembers with the role: **Write teammember hours/Approve hours** will be able to update the hours for the employees. 
+
+---
+
+## Update hours before
+
+If teammembers can update their time after their shift, this setting will determine the timeframe for this action. 
+
+---
+
+## Startdate of hour registration
+
+Define from which date you want to start creating timecards. 
+
+> This date should align with the startdate of your wage period.
+
+---
+
+## New day start
+
+Defines the time at which a new day starts. At this time we will automatically sign-out everyone who forgot to clock-out.
+
+---
+
+
+## Meal allowance
+
+Track the meals of your teammembers. You simply have to activate it. All activated meals are reflected in the schedule & time tracking for your teammembers. Under Hours> Details, you can see the amount of meals a teammember consumed in the given timeframe.
+
+---
+
+
+## Activate HR integration
+
+We offer various integrations with HR Partners. By integrating eitje with your HR partner you can create a simpler HR process. See our partner page on the website if we have an integration with your partner: https://eitje.app/partners.
+
+---
+
+## Laborcost distribution
+
+This will distirbute your laborcost over all of your revenuegroups. It is possible to update/create/delete revenuegroups on the bottom of the modal. In the end you should make sure that all of the sliders should present a value of 100%. This will assign all of the hours worked from the selected team to the concerned revenuegroup.
+
+
+> **Example:** If team: Bar is set to 100% for the revenuegroup: Serivce, this will incorperate all of the hours from the Bar team and uses it for the calculation in the revenuegroup. 
+
+---
+
+## Laborcosts target value
+
+This setting is not mandatory for a correct calculation, but will help you nonetheless. It will color the laborcost sum in red when you have reached the treshold you have set. This will be a visual cue that you have spent more on laborcost then you wished.
+
+---
+## Startdate of hour balance
+
+Defines the startdate of your balances. This will only count all of the data in eitje after this certain point. [More information about starting your balance](/en/startSaldo?id=balance-startdate)
+
+---
+
+
+## Time format when exporting files
+
+Will set the timeformat of your exports to: Hours or Hundreds.
+
+* **Hours:** 08:30
+* **Hundreds:** 8,5
+
+
+---
+
+
+## Allowances
+
+Add additional payments to your timecards in eitje. [Read more about Allowances over here](/en/toeslagen).
+
+---
+
+## POS integration
+
+Integrate eitje with your POS system and automatically receive updates on your revenue.
+
+---
+
+
+## Contract settings
+
+Each contract type has depending on their type different settings to set. Do make sure you have updated them all in a correct matter, otherwise eitje will calculate with incorrect data. If you have any doubts about your settings, don't hesitate to reach out to our support line.
+
+---
+
+## Where are you located
+
+Defines your location and sets the weather forecast in the schedule.
+
+---
+
+
+## Download personnel file
+
+Want to export your personnel file from the system; just hit the button.
+
+---

@@ -1,4 +1,4 @@
-# Omzet instellingen
+# Mandatory settings
 When starting your revenue registration it is very important to make sure your settings are set. Otherwise, your data could be incomprehensive.  
 
 **Jump to**

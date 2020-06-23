@@ -1,41 +1,50 @@
-# Rollen instellen
+# Roles explained
 
-Je hebt een vescheidenheid aan **Rollen** in eitje waarmee jij precies kan bepalen wie wat mag zien of kan uitvoeren. In dit hoofdstuk kijken wij naar de verschillende rollen en vertellen wij wat deze rol precies inhoudt.
+There is a variety of roles in eitje. By assigning roles to your teammember you will be handing out tremendous powers. It's a bit like playing god, so choose wisely. 
+
+**Jump to**
+* [Admin](/en/rollen?id=admin)
+* [Manager](/en/rollen?id=manager)
+* [Approve leave requests](/en/rollen?id=approve-leave-requests)
+* [Contracts](/en/rollen?id=contracts)
+* [Approve hours](/en/rollen?id=approve-hours)
+* [Write teammember hours](/en/rollen?id=write-teammember-hours)
+* [Financial](/en/rollen?id=financial)
+* [Not on schedule](rollen?id=not-on-schedule)
+
+---
 
 ## Admin
 
-Teamleden met de rollen admin mogen eigenlijk alles. Het enige wat een admin niet kunnen is jullie eitje omgeving verwijderen, want dat kunnen wij alleen. Wel is het handig om te weten dat alleen de **Admins** in het kopje **Bedrijf** kan komen. Dit zijn dan ook de enige teamleden die rollen kunnen aanpassen en de instellingen beheren. 
+Admin also known as: King eitje. Full control over everything and the only one who has access to all the settingpages.
 
-> Teamleden met de rol **Admin** hebben volledige controle over de omgeving.
+> Beware, you can't delete **Admins** from eitje. If you want to delete someone with this role, first de-activate the admin role for this teammember.
 
 ---
 
 ## Manager
 
-Teamleden die beschikken over de manager rol kunnen heel veel, maar net wat minder dan de admin. Zo zien zij niet het kopje **Bedrijf** in de header. Wel mogen zij teamleden uitnodigen, teams aanmaken, handboek informatie bewerken en natuurlijk de planning beheren. 
+A manager is the second best thing; it gives you the power to add/delete/edit teammembers and will give them control over the schedule and onboarding capabilities in eitje.
 
-> Een manager mag vrijwel alles zien in de omgeving behalve: **Contracten**, **Urenregistratie** & **Bedrijf**.
-
----
-
-## Verlof accorderen
-
-Teamleden met deze rol mogen verlofverzoeken goedkeuren. Deze zijn daarmee dan dus ook direct gerechtigd om uren op te nemen van het verlofsaldo. Denk eraan dat je ook de rol **Uren accorderen** toekent aan dit teamlid om optimaal gebruik te maken van deze rol.
-
-> Gebruik deze rol om de verlof verzoeken te laten managen.
+> Having **Manager** powers does not grant the right to do anything related to time tracking or contracts. We have seperate roles for these features.
 
 ---
 
-## Contracten
+## Approve leave requests
 
-Teamleden die beschikken over dit recht mogen de contracten inzien bij teamleden en deze aanmaken. Teamleden die deze rechten niet hebben zullen het contract dan ook niet kunnen inzien. Een teamlid kan natuurlijk wel altijd zijn eigen contract inzien.
+The name it quite self explainatory we believe.
 
-> Met de **Contracten** rol beheer je wie contracten mogen inzien en aanpassen.
+---
+
+## Contracts
+
+This is the only role that will allow you to view, edit and update the contracts of your teammembers.
 
 
 ---
 
-## Uren Accorderen
+## Approve hours
+
 
 Teamleden die de gewerkte uren mogen goedkeuren zijn bij eitje **Accordeerders**. Deze personen kunnen bij het kopje **Uren** ook de gewerkte uren van de andere teamleden zien en mogen deze dus aanpassen naar de status **Verwerkt** (ook wel groen). Daarnaast krijgen deze teamleden zo ook toegang tot de verlof en plus/min registratie.
 
@@ -43,7 +52,7 @@ Teamleden die de gewerkte uren mogen goedkeuren zijn bij eitje **Accordeerders**
 
 ---
 
-## Uren Schrijven
+## Write teammember hours
 
 Soms heb jij teamleden die wel **Uren** mogen schrijven voor je teamleden, maar die niet de gehele uren registratie hoeven in te zien. Met deze rol zorg jij ervoor dat dit teamlid de uren van zijn collega's an schrijven (dus niet 'Accorderen'). De geschreven uren door dit teamlid worden dan ook **Oranje** in de urenregistratie en moeten dus nog worden verwerkt.
 
@@ -51,7 +60,7 @@ Soms heb jij teamleden die wel **Uren** mogen schrijven voor je teamleden, maar 
 
 ---
 
-## Financieel
+## Financials
 
 Met het toekennen van de rol financieel krijgen teamleden toegang tot de **Details** pagina van de urenregistratie. Hiermee heeft een teamlid alle mogelijkheden van de urenregistratie. Zo kan deze analyses maken op basis van de data, of deze exporteren vanuit eitje. 
 
@@ -60,7 +69,7 @@ Met het toekennen van de rol financieel krijgen teamleden toegang tot de **Detai
 
 ---
 
-## Onroosterbaar
+## Not on schedule
 
 Teamleden die wel in eitje zitten, maar nooit op het rooster staan? Dan is het handig om deze teamleden toe te voegen aan de rol **Onroosterbaar** Zo kunnen deze teamleden niet ingepland worden en worden zij niet meegenomen in ruilverzoeken en uitvragen voor open shifts.
 

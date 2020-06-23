@@ -2,6 +2,20 @@
 
 Je hebt een vescheidenheid aan **Rollen** in eitje waarmee jij precies kan bepalen wie wat mag zien of kan uitvoeren. In dit hoofdstuk kijken wij naar de verschillende rollen en vertellen wij wat deze rol precies inhoudt.
 
+
+**Spring naar**
+* [Admin](rollen?id=admin)
+* [Manager](rollen?id=manager)
+* [Verlof accorderen](rollen?id=verlof-accorderen)
+* [Contracten](rollen?id=contracten)
+* [Uren accorderen](rollen?id=uren-accorderen)
+* [Uren schrijven](rollen?id=uren-schrijven)
+* [Financieel](rollen?id=financieel)
+* [Onroosterbaar](rollen?id=onroosterbaar)
+
+
+---
+
 ## Admin
 
 Teamleden met de rollen admin mogen eigenlijk alles. Het enige wat een admin niet kunnen is jullie eitje omgeving verwijderen, want dat kunnen wij alleen. Wel is het handig om te weten dat alleen de **Admins** in het kopje **Bedrijf** kan komen. Dit zijn dan ook de enige teamleden die rollen kunnen aanpassen en de instellingen beheren. 
