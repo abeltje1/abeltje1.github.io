@@ -1,15 +1,12 @@
-# Kassatellen integratie
+# Kassatellen integration
 
-Rechtstreeks elke avond de omzet in eitje binnenhalen vanuit je kassa zonder extra handelingen. Dat kan gemakkelijk door onze koppeling met Kassatellen. Je kunt deze koppeling activeren in je Kassatellen account. Hiervoor ga je in Kassatellen naar: 
+Working with Kassatellen.nl to automate your ledger. You can connect eitje to your Kassatellen account and simply send the data from Kassatellen to eitje. This way you'll never ever have to insert the revenue yourself.
 
-> Instellingen > Koppelingen > eitje
 
-Hier moet je vervolgens twee velden invullen. Deze kun je vinden in eitje onder:
+To activate the Kassatellen integration navigate towards: **Settings > Company settings > POS integration > Kassatellen**. You will find two datapoints which you can use in your Kassatellen dashboard.
 
-> Bedrijf > Financieel > Kassatellen 
+Open your Kassatellen account and navigate towards **Settings > Integrations > eitje**. Simply insert the data from your eitje account and your integration will be succesfull.
 
-Nadat je deze velden in Kassatellen hebt ingevuld is je koppeling geactiveerd. Je zult nu zien dat er in eitje een rood bolletje naast **Bedrijf** is gekomen. Dit betekend dat de koppeling is geactiveerd, maar dat de omzetgroepen uit je kassa nog verdeeld moeten worden uit de omzetgroepen in eitje. Dit doe je weer in hetzelfde kopje als waar je de beveiligde sleutel voor Kassatellen kon vinden.
-
-**LET OP: De koppeling zal pas werken als je alle omzetgroepen uit Kassatellen hebt verdeeld over de omzetgroepen in eitje**
+**Important: After the integration is succesfull you will need to navigate towards the POS integration pop-up one more time to hook your product categories to the revenuegroups in eitje. [More about working with revenuegroups and laborcost distribution](/en/instellingen?id=laborcost-distribution)**
 
 

@@ -1,15 +1,12 @@
-# Mplus Kassa integratie
+# MPlusKASSA integration
 
-Automatisch en zonder handelingen altijd inzicht in je omzet. Met de integratie tussen Mplus Kassa en eitje heb jij direct elke paar minuten een update van de omzet in eitje. Buiten het feit dat je nooit meer handmatig je omzet hoeft in te vullen, heb je zo ook direct **live** inzicht in de gemaakte loonkosten. 
+Automatically and with no sweat import your revenue data from MplusKASSA. Every thirty minutes eitje will fetch your actual revenue from your MPlus POS. By enabling this integration you will never ever have to insert revenue by hand and will be able to track your laborcosts during the day.
 
-Om de koppeling te activeren ga je naar: 
+To activate the Mplus integration navigate towards: **Settings > Company settings > POS integration > Mplus**. Simply login with your MPlus credentials and we will do the rest. 
 
-> Instellingen > Vestinging instellingen > Kassa koppeling > Mplus Kassa (selecteer in dropdown)
+> **Contact your POS distributor to find your credentials.**
 
-Het enige wat je hierna hoeft te doen is de gegevens van je Mplus Kassa in te vullen. Door deze integratie te activeren geef je eitje de rechten om je omzet gegevens binnen te krijgen.
-
-
-> **LET OP: Om ervoor te zorgen dat de omzet daadwerkelijk in de juiste omzetgroep terecht komt, zul je nog wel de omzetgroepen van Mplus Kassa moeten koppelen aan de omzetgroepen in eitje. Dit doe je nadat je de koppeling tot stand hebt gebracht in hetzelfde scherm als waar je de koppeling hebt geactiveerd.**
+**Important: After the integration is succesfull you will need to navigate towards the POS integration pop-up one more time to hook your product categories to the revenuegroups in eitje. [More about working with revenuegroups and laborcost distribution](/en/instellingen?id=laborcost-distribution)**
 
 
-*** Deze koppeling kost €10,- per maand.*
+> **This integration will add €10,- to your invoice on a monthly basis.**

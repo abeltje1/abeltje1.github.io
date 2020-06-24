@@ -1,20 +1,25 @@
-# Synchroniseren tussen eitje en NMBRS
+# Nmbrs integration
+By integrating your Nmbrs account with eitje you can easily share the data completely online between the two platforms. This integration has two upsides:
 
-Door je eitje account te koppelen aan je Nmbrs account zorg jij ervoor dat het verwerken van je personeelsgegevens en de gewerkte uren nog minder tijd kost en er ook nog eens minder fouten worden gemaakt. De koppeling met Nmbrs zorgt voor twee verschillende voordelen die wij beide hier apart behandelen. 
+* **Synchronize your workforce from Nmbrs to eitje**
+* **Export timecards from your flexible workforce to Nmbrs**
 
-> **Wat zijn de mogelijkheden door eitje met Nmbrs te koppelen?**
-* **Het synchroniseren van de persoonlijke informatie en contracten van je teamleden vanuit Nmbrs naar eitje**
-* **Het doorzetten van de gewerkte uren vanuit eitje naar Nmbrs**
+**Jump to**
+* [Activate Nmbrs integration](/en/nmbrs?id=activate-nmbrs-integration)
+* [Sync workforce](/en/nmbrs?id=sync-workforce)
+* [Setting up your wageperiod](/en/nmbrs?id=setting-up-your-wageperiod)
+* [Exporting timecards to Nmbrs](/en/nmbrs?id=monitor-your-export-in-eitje)
+* [Monitor your export](/en/nmbrs?id=monitor-your-export-in-nmbrs)
+ 
 
-Maar eerst zullen wij kort uitleggen hoe jij deze koppeling activeert. Hiervoor is het wel van belang dat jij een actieve Nmbrs omgeving hebt. 
+---
 
-# Nmbrs koppeling activeren in eitje
+# Activate Nmbrs integration
 
-Om je Nmbrs account aan eitje te koppelen moet jij in eitje twee velden invullen om de koppeling te authoriseren. Zorg ervoor dat jij deze alvast bij de hand hebt door in te loggen in je Nmbrs account en de volgende twee waardes op te zoeken:
-* API Token 
-* E-mailadres
+The only thing you'll need to do to activate this integration is adding the Nmbrs **API Token** and accessory **e-mail address** to your eitje account. You can do this by navigating towards: **Settings > Company settings > Activate HR Integration** and selecting **Nmbrs**.
 
-> Geen idee waar je dit kunt vinden? Bekijk dan onderstaand filmpje
+Use this video to locate this information in Nmbrs:
+<br/>**Having trouble locating this information in Nmbrs; contact your payroll provider.**
 
 <video controls
        muted 
@@ -24,7 +29,7 @@ Om je Nmbrs account aan eitje te koppelen moet jij in eitje twee velden invullen
 </video>
 
 
-Om de koppeling in eitje te activeren hoef je alleen maar de bovenstaande waardes in te vullen. Dit doe je onder de instellingen van de urenregistratie: 
+This video will show you excactly where and how to insert the information in eitje:
 
 <video controls
        muted 
@@ -36,9 +41,9 @@ Om de koppeling in eitje te activeren hoef je alleen maar de bovenstaande waarde
 ---
 
 
-# Teamleden synchroniseren
+# Sync workforce
 
-Na het activeren van de koppeling hoef je alleen nog maar op **synchroniseren** te klikken om de informatie van je teamleden te synchroniseren met de informatie uit Nmbrs.
+eitje can import your workforce information from your Nmbrs account. Simple press the button that says **Sync Nmbrs**. You can do this in the pop-up after integrating Nmbrs or on the **Teammember** page. 
 
 <video controls
        muted 
@@ -50,21 +55,25 @@ Na het activeren van de koppeling hoef je alleen nog maar op **synchroniseren** 
 
 ---
 
-# Instellen van verloningsperiode
+# Setting up your wageperiod
 
-Het doorzetten van de uren naar Nmbrs kan alleen als alle contractinstellingen goed staan afgesteld. Het gaat hier om de volgende twee contracttypes:
+It is very important to set your wageperiod in eitje. Otherwise we cannot export the timecards into the right wageperiod in Nmbrs. You will need to set the startingdate of your first wageperiod of the year. You can set your wageperiod by navigating towards **Settings > Company settings > Activate HR Integration**.
 
-* Nul uren contract
-* Uren contract
-
-Hiervoor is het van belang dat de periode van de verloning en de startdatum van je verloningsperiode bij beide staan ingesteld. Als deze instellingen niet zijn gedaan kan eitje niet bepalen welke periodes er zijn en dus ook niet de uren aan het eind van de periode doorzetten. 
+> Example: If your wageperiod is from 1 till 31 your wageperiod will be the first of january.
 
 
 ---
 
-# Uren doorzetten naar Nmbrs
+# Exporting timecards to Nmbrs
 
-Nu de koppeling is geactiveerd en alle instellingen juist staan afgesteld kan je aan het eind van de periode de uren van je teamleden en de bijbehorende maaltijden rechtstreeks inschieten in Nmbrs. Dit doe je als volgt:
+**Please do make sure you have checked all of the timecards from the wageperiod before exporting your data**
+
+Exporting your timecards to Nmbrs will save you enormous amounts of time. You can export all of the timecards from your part-time employees with the single-click of a button. Navigate towards **Uren > Details >** and hit the **Export** button. All of the **Green** colored timecards in the selected wageperiod will be exported.
+
+Besides exporting the hours, it is possible to export the: 
+* Amount of days worked
+* Amount of meal allowances
+* Additional payments on timecards
 
 <video controls
        muted 
@@ -76,14 +85,10 @@ Nu de koppeling is geactiveerd en alle instellingen juist staan afgesteld kan je
 
 ---
 
-# Controleren van je export naar NMBRS
+## Monitor your export in eitje
 
-> Het is natuurlijk altijd van belang om de uren uit eitje even te controleren met de data die binnenkomt in NMBRS. Zo voorkom je fouten en zorg jij ervoor dat je teamleden netjes en juist uitbetaald worden.
+After exporting the data to Nmbrs all of the exported timecards will have changed from the color Green to **White**. 
 
-
-**Controleer data in eitje**
-
-Ten eerste is het natuurlijk van belang om de uren in eitje allemaal even te controleren. Dit kun je zowel via **Uren** als **Details** doen. In het volgende filmpje laten wij zien hoe je via details de geselecteerde periode kunt controleren en kan doorzetten naar NMBRS.
 
 <video controls
        muted 
@@ -92,10 +97,12 @@ Ten eerste is het natuurlijk van belang om de uren in eitje allemaal even te con
        height="384">
 </video>
 
+---
 
-**Controleer data in NMBRS**
 
-Nadat de data in NMBRS is aangekomen kun je deze data gemakkelijk controleren met de data in eitje omdat alles netjes bij elkaar is opgeteld.
+## Monitor your export in Nmbrs
+
+After a succesfull export you should be able to see the data in Nmbrs. 
 
 <video controls
        muted 
@@ -105,4 +112,6 @@ Nadat de data in NMBRS is aangekomen kun je deze data gemakkelijk controleren me
 </video>
 
 
-> Om de export met NMBRS in te stellen is het van belang dat je een aantal instellingen hebt gedaan. Wij verwijzen je hiervoor graag naar [de volgende pagina](/koppelingen?id=nmbrs)
+---
+
+

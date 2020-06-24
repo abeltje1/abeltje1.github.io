@@ -1,15 +1,10 @@
-# Lightspeed integratie
+# Lightspeed integration
 
-Automatisch en zonder handelingen altijd inzicht in je omzet. Met de koppeling tussen Lightspeed en eitje heb jij direct elke paar minuten een update van de omzet in eitje. Buiten het feit dat je nooit meer handmatig je omzet hoeft in te vullen, heb je zo ook direct **live** inzicht in de gemaakte loonkosten. 
+Automatically and with no sweat import your revenue data from Lightspeed. Every thirty minutes eitje will fetch your actual revenue from your Lightspeed POS. By enabling this integration you will never ever have to insert revenue by hand and will be able to track your laborcosts during the day.
 
-Om de koppeling te activeren ga je naar: 
+To activate the Lightspeed integration navigate towards: **Settings > Company settings > POS integration > Lightspeed**. Simply login with your Lightspeed credentials and we will do the rest. 
 
-> Instellingen > Vestinging instellingen > Kassa koppeling > Lightspeed (selecteer in dropdown)
-
-Het enige wat je hierna hoeft te doen is in te loggen met je Lightspeed inloggegegevens. Door in te loggen bij Lightspeed geef je eitje de rechten om je omzet gegevens binnen te krijgen.
+**Important: After the integration is succesfull you will need to navigate towards the POS integration pop-up one more time to hook your LS floors to the revenuegroups in eitje. [More about working with revenuegroups and laborcost distribution](/en/instellingen?id=laborcost-distribution)**
 
 
-> **LET OP: Om ervoor te zorgen dat de omzet daadwerkelijk in de juiste omzetgroep terecht komt, zul je nog wel de vloeren van Lightspeed moeten koppelen aan de omzetgroepen in eitje. Dit doe je nadat je de koppeling tot stand hebt gebracht in hetzelfde scherm als waar je de koppeling hebt geactiveerd.**
-
-
-*** Deze koppeling kost €10,- per maand.*
+> **This integration will add €10,- to your invoice on a monthly basis.**

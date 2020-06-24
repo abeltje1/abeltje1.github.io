@@ -1,25 +1,20 @@
-# Nmbrs integration
-By integrating your Nmbrs account with eitje you can easily share the data completely online between the two platforms. This integration has two upsides:
+# Synchroniseren tussen eitje en NMBRS
 
-* **Synchronize your workforce from Nmbrs to eitje**
-* **Export timecards from your flexible workforce to Nmbrs**
+Door je eitje account te koppelen aan je Nmbrs account zorg jij ervoor dat het verwerken van je personeelsgegevens en de gewerkte uren nog minder tijd kost en er ook nog eens minder fouten worden gemaakt. De koppeling met Nmbrs zorgt voor twee verschillende voordelen die wij beide hier apart behandelen. 
 
-**Jump to**
-* [Activate Nmbrs integration](/en/nmbrs?id=)
-* [Sync teammembers](/en/nmbrs?id=)
-* [Setting up wageperiod](/en/nmbrs?id=)
-* [Exporting timecards to Nmbrs](/en/nmbrs?id=)
-* [Monitor your export](/en/nmbrs?id=)
- 
+> **Wat zijn de mogelijkheden door eitje met Nmbrs te koppelen?**
+* **Het synchroniseren van de persoonlijke informatie en contracten van je teamleden vanuit Nmbrs naar eitje**
+* **Het doorzetten van de gewerkte uren vanuit eitje naar Nmbrs**
 
----
+Maar eerst zullen wij kort uitleggen hoe jij deze koppeling activeert. Hiervoor is het wel van belang dat jij een actieve Nmbrs omgeving hebt. 
 
-# Activate Nmbrs integration
+# Nmbrs koppeling activeren in eitje
 
-The only thing you'll need to do to activate this integration is adding the Nmbrs **API Token** and accessory **e-mail address** to your eitje account. You can do this by navigating towards: **Settings > Company settings > Activate HR Integration** and selecting **Nmbrs**.
+Om je Nmbrs account aan eitje te koppelen moet jij in eitje twee velden invullen om de koppeling te authoriseren. Zorg ervoor dat jij deze alvast bij de hand hebt door in te loggen in je Nmbrs account en de volgende twee waardes op te zoeken:
+* API Token 
+* E-mailadres
 
-Use this video to locate this information in Nmbrs:
-<br/>**Having trouble locating this information in Nmbrs; contact your payroll provider.**
+> Geen idee waar je dit kunt vinden? Bekijk dan onderstaand filmpje
 
 <video controls
        muted 
@@ -29,7 +24,7 @@ Use this video to locate this information in Nmbrs:
 </video>
 
 
-This video will show you excactly where and how to insert the information in eitje:
+Om de koppeling in eitje te activeren hoef je alleen maar de bovenstaande waardes in te vullen. Dit doe je onder de instellingen van de urenregistratie: 
 
 <video controls
        muted 
@@ -41,9 +36,9 @@ This video will show you excactly where and how to insert the information in eit
 ---
 
 
-# Sync teammembers
+# Teamleden synchroniseren
 
-eitje can import your workforce information from your Nmbrs account. Simple press the button that says **Sync Nmbrs**. You can do this in the pop-up after integrating Nmbrs or on the **Teammember** page. 
+Na het activeren van de koppeling hoef je alleen nog maar op **synchroniseren** te klikken om de informatie van je teamleden te synchroniseren met de informatie uit Nmbrs.
 
 <video controls
        muted 
@@ -55,11 +50,14 @@ eitje can import your workforce information from your Nmbrs account. Simple pres
 
 ---
 
-# Setting up wageperiod
+# Instellen van verloningsperiode
 
-It is very important to set your wageperiod in eitje. Otherwise we cannot export the timecards into the right wageperiod in Nmbrs. You will need to set the startingdate of your first wageperiod of the year. You can set your wageperiod by navigating towards **Settings > Company settings > Activate HR Integration**.
+Het doorzetten van de uren naar Nmbrs kan alleen als alle contractinstellingen goed staan afgesteld. Het gaat hier om de volgende twee contracttypes:
 
-> Example: If your wageperiod is from 1 till 31 your wageperiod will be the first of january.
+* Nul uren contract
+* Uren contract
+
+Hiervoor is het van belang dat de periode van de verloning en de startdatum van je verloningsperiode bij beide staan ingesteld. Als deze instellingen niet zijn gedaan kan eitje niet bepalen welke periodes er zijn en dus ook niet de uren aan het eind van de periode doorzetten. 
 
 
 ---

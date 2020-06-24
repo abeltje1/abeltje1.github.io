@@ -1,12 +1,19 @@
-# Teamleden
+# Teammembers
 
-Om je teamleden zo gemakkelijk mogelijk aan te sturen hebben wij vele handige functies in eitje gestopt. Zo kun jij iedereen altijd up-to-date houden door middel van onze communcatieve functies. Hieronder leer jij meer over de verschillende mogelijkheden en hoe jij deze het best kunt inzetten voor je teamleden.
+To easily manage your workforce we've created many tools. In this tutorial we focus on getting all of your teammembers information in order.
 
-## Teamleden uitnodigen
+**Jump to**
+* [Invite teammember](/en/teamleden?id=invite-teammember)
+* [Add teammember to a team](/en/teamleden?id=add-teammember-to-a-team)
+* [Create contract](/en/teamleden?id=create-contract)
+* [Edit information](/en/teamleden?id=edit-information)
 
-Het enige wat jij nodig hebt om een teamlid toe te voegen is een e-mailadres. Klik bij de teamleden pagina rechtsboven op **Uitnodigen** om het scherm te openen.
 
-In deze pop-up kun jij alle e-mailadressen plakken die jij wilt toevoegen. Je kunt ook gewoon de e-mailadressen zelf typen. Hier kun jij ook direct de teamleden toevoegen aan de juiste teams.
+## Invite teammember
+
+Add teammembers by their own e-mailaddress. Just click on the **Invite** button  in the top right corner and add their e-mailaddresses. 
+
+> **Tip: directly add teammembers to their concerned teams, this will speed up your workflow.**
 
 
 <video controls
@@ -18,13 +25,9 @@ In deze pop-up kun jij alle e-mailadressen plakken die jij wilt toevoegen. Je ku
 
 ---
 
-## Teamlid toevoegen aan team
+## Add teammember to team
 
-Na het toevoegen van je teamleden is iedereen automatisch toegevoegd aan team **Algemeen**. Je hoeft nu alleen nog maar je teamleden over de andere teams te verdelen. 
-* Selecteer het team waar je teamleden aan wilt toevoegen.
-* Klik op **Beheer teamleden**. 
-* Kies de teamleden die je wilt toevoegen.
-* Klik op **Doorvoeren**.
+After adding a teammember you should add this person to a team. Otherwise this account will only be in the general team and won't be accessible in the schedule. You can add teammembers to a team by selecting the team on the right side and click the **Manage team** button on the right-hand bottom of the screen.
 
 <video controls
        muted 
@@ -36,9 +39,11 @@ Na het toevoegen van je teamleden is iedereen automatisch toegevoegd aan team **
 ---
 
 
-## Contract aanmaken voor teamlid
+## Create contract
 
-Je kunt een contract aanmaken voor een teamlid door het profiel van het desbetreffende teamlid te openen. Vervolgens volg je stap voor stap de keuze velden in het scherm.
+Navigate to the teammember by clicking on their name. This will bring you towards their personnel file. Click on **Contracts** and insert their contract information. 
+
+> [More info about contract types](/en/contracten)
 
 <video controls
        muted 
@@ -50,9 +55,9 @@ Je kunt een contract aanmaken voor een teamlid door het profiel van het desbetre
 
 ---
 
-## Informatie van teamlid bewerken
+## Edit information
 
-Via het profiel van een teamlid kun je als manager ook de persoonlijke informatie aanpassen. Bekijk hieronder in het filmpje hoe dit te werk gaat.
+In the personnel file you can also edit the information of the teammember. Just hit the **Information** tab and insert their info.
 
 <video controls
        muted 

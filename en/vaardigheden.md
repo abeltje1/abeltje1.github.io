@@ -1,4 +1,4 @@
-# Vaardigheden
+# Skills
 
 Om de training van je teamleden in goede banen te leiden is het handig om te werken met **Vaardigheden**. Op deze manier weet jij altijd precies wat je teamleden kunnen, maar ook wat ze nog moeten leren. Zo heb jij altijd 'The right person for the right job'. 
 

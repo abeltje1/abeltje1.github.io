@@ -1,10 +1,9 @@
-Maak jij loonstroken via horecalonen/loonstrookgigant? Dan kun je gemakkelijk de uren doorzetten vanuit eitje met onze koppeling. Je activeert deze onder: 
+# Horecalonen integration
+Managing your payroll with Horecalonen/Loonstrookgigant? Its very easy to export the timecards from eitje to a custom made .csv file to import in Horecalonen.
 
-> Bedrijf > Instellingen > Activeer koppeling > Horecalonen > OK
+Navigate towards **Company > Company settings > Activate HR integration** and select **Horecalonen** from the dropdown. After adding the integration to eitje you can export your data from: **Hours > Details >** and hit the **Export** button.
 
-Om uiteindelijk de uren vanuit eitje naar Horecalonen te krijgen voer je de volgende handeling uit in de urenregistratie: 
-
-**Let op: om de koppeling goed te laten werken is het van belang dat van alle teamleden het BSN nummer is ingevuld in eitje.**
+**IMPORTANT: for the integration to work it is neccessary to insert all of your teammembers their social security number.** 
 
 <video controls
        muted 
