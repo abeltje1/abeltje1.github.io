@@ -1,11 +1,22 @@
-# Handboek
+# Manual
 
-De tijd van het meegeven van handleidingen aan nieuwe teamleden is geweest. Vandaag de dag kan er veel informatie natuurlijk veel gemakkelijker worden gedeeld en dan vooral met eitje. Je kunt namelijk je complete handleidingen in eitje integreren om zo je teamleden gemakkelijk te voorzien van alle informatie. Denk hierbij aan de huisregels, productinformatie, schoonmaaklijsten en eigenlijk alles wat jij wilt.
+It's much easier and convenient to share your company manual in a digital format. Teammembers can easily access the information from anyplace in the world and are always working with the latest updated version. The only thing you'll need to do is create it, in this tutorial we will teach you the ins- and outs of creating manuals.
 
 
-## Nieuw artikel maken
+**Jump to**
+* [Create new item](/en/handboek?id=create-new-item)
+* [Change fontsize](/en/handboek?id=change-fontsize)
+* [Add images](/en/handboek?id=add-images)
+* [Add attachments](/en/handboek?id=add-attachments)
+* [Creating lists](/en/handboek?id=creating-lists)
+* [Embedding videos](/en/handboek?id=embedding-videos)
+* [Sorting your items](/en/handboek?id=sorting-your-items)
 
-Als jij voor het eerst het handboek opent zul jij automatisch al een nieuw handboek item gaan aanmaken, hiervoor hoef jij dus niets te doen. Vervolgens vul jij het onderwerp in en kies je het juiste team. Heb jij eenmaal alle informatie van dit onderwerp hier in gezet hoef jij alleen nog maar op **Opslaan** te klikken rechtsboven in het scherm.
+---
+
+## Create new item
+
+Select the **New item** button to start creating a manual item. It's mandatory to fill in a Name for the item, a team to whom it belongs and ofcourse it needs information. 
 
 <video controls
        muted 
@@ -17,9 +28,9 @@ Als jij voor het eerst het handboek opent zul jij automatisch al een nieuw handb
 
 ---
 
-## Lettergrote aanpassen
+## Change fontsize
 
-Om het makkelijk leesbaar te maken voor je teamleden is het natuurlijk fijn om de opmaak van de tekst aan te kunnen passen. In de tekst editor kun je kiezen uit verschillende font-sizes en je kunt de tekst natuurlijk **Bold** maken.
+By positioning your mouse on a particular line and selecting the second mark-up button you can add **paragraph styles**. This will enable you to create Bold or larger/smaller text.
 
 <video controls
        muted 
@@ -32,9 +43,10 @@ Om het makkelijk leesbaar te maken voor je teamleden is het natuurlijk fijn om d
 ---
 
 
-## Invoegen van foto's
+## Add images
 
-Natuurlijk kun je ook plaatjes toevoegen aan je handleiding. Hiervoor adviseren wij om altijd vierkante plaatjes te gebruiken. Zo zorg jij ervoor dat deze het best worden weergeven in de app. Mocht jij het lastig vinden om plaatjes vierkant bij te snijden, geen nood: met de meeste telefoon's kun jij tegenwoordig gewoon al standaard vierkante foto's maken. Mocht jij er echt niet uitkomen kun jij natuurlijk ook altijd contact opnemen met [eitje | Support](mailto:support@eitje-app.nl) 
+Adding images is fairly easy. Just hit the photo icon and select a photo from your computer.
+
 
 <video controls
        muted 
@@ -46,9 +58,9 @@ Natuurlijk kun je ook plaatjes toevoegen aan je handleiding. Hiervoor adviseren 
 
 ---
 
-## Invoegen van bijlagen
+## Add attachments
 
-Natuurlijk kun jij ook bijlagen toevoegen zodat je teamleden deze kunnen downloaden. Dit doe je net zoals met het uploaden van een foto, maar dan kies je simpelweg voor het uploaden van een **File**.
+Adding attachments is the same as uploading a photo. Just add some text as to where a teammember should click to ope the attchement.
 
 <video controls
        muted 
@@ -60,9 +72,9 @@ Natuurlijk kun jij ook bijlagen toevoegen zodat je teamleden deze kunnen downloa
 
 ---
 
-## Lijstjes maken
+## Creating lists
 
-Ook het maken van een lijstje gaat op dezelfde manier. Je kunt kiezen om een lijst met bullets te maken, of een lijstje geordend op nummer.
+By clicking the list icon in the header of the CMS you can create a orderlist or a unorderedlist. 
 
 <video controls
        muted 
@@ -73,26 +85,17 @@ Ook het maken van een lijstje gaat op dezelfde manier. Je kunt kiezen om een lij
 
 ---
 
+## Embedding videos
 
-## Items selecteren voor het inwerken
-
-Nu jij alle informatie voor je teamleden in eitje hebt gezet kun jij dit goed gebruiken om nieuwe teamleden mee in te werken. Hiervoor kun jij gebruik maken van onze inwerkitems. Je kiest aan de rechterkant van de pagina maximaal drie items die worden gebruikt bij het inwerken van nieuwe teamleden. 
-
-> Deze items worden als iemand haar account activeert of als dit teamlid het artikel nog nooit heeft gelezen aan het teamlid gepresenteerd als deze de app opent. Hiermee verzeker jij jezelf ervan dat iedereen altijd dit artikel tenminste één keer heeft moeten lezen.
-
-<video controls
-       muted 
-       src="/assets/inwerkItems.mov"
-       width="683"
-       height="384">
-</video>
+It's even possible to add videos from YouTube or Vimeo. Simply upload a video to your account on one of these platforms and you can paste the url of your video by clicking on the video icon in the header of the CMS.
 
 ---
 
 
-## Sorteren van handboek artikelen
 
-Het kan zo zijn dat jij het handboek eigenlijk liever op een andere volgorde wilt weergeven aan je teamleden. Hiervoor hebben wij een handige sorteer functie gemaakt. Je gebruikt deze door onder je artikelen aan de linkerkant op **Sorteer items** te klikken. In de pop-up kun je gemakkelijk de ordening bepalen door de verschillende artikelen van plek te verschuiven.
+## Sorting your items
+
+Created a lot of different items and want to change the order of the items. Scroll all the way down in your list of manual items and hit the **Sort** button.
 
 <video controls
        muted 

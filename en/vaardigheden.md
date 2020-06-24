@@ -1,26 +1,36 @@
 # Skills
 
-Om de training van je teamleden in goede banen te leiden is het handig om te werken met **Vaardigheden**. Op deze manier weet jij altijd precies wat je teamleden kunnen, maar ook wat ze nog moeten leren. Zo heb jij altijd 'The right person for the right job'. 
+To monitor the progress of your workforce it's possible to create **Functions** and administer their **Skills**. This way you have insight into each and everyone their skills and you can easily use the functions while scheduling.
 
-## Functies & Vaardigheden 
-Om te beginnen is het handig om te weten dat er een verschil is tussen functies en vaardigheden.
-
-* **Vaardigheden:** Teamleden kunnen beschikken over allemaal losse vaardigheden. Je kunt zoveel mogelijk vaardigheden aanmaken als je zelf wilt.
-* **Functies:** Vaardigheden kun je vervolgens weer koppelen aan een functie. Als het teamlid alle vaardigheden van die functie bezit zal hij automatisch ook de functie beheersen. Deze functies komen vervolgens ook weer terug in de planning.
-
+**Jump to**
+* [Functions and Skills](/en/vaardigheden?id=functions-and-skills)
+* [Creating skills and functions](/en/vaardigheden?id=creating-skills-and-functions)
+* [Assigning skills](/en/vaardigheden?id=assigning-skills)
+* [Function on schedule](/en/vaardigheden?id=function-on-schedule)
+* [Functions in the availability](/en/vaardigheden?id=functions-in-the-availability)
 
 
 ---
 
-## Aanmaken van Functies & Vaardigheden
 
-Vaardigheden aanmaken kun je aanmaken door op **Beheer vaardigheden** te klikken. Hier kun je vervolgens alles aanmaken:
+## Functions and Skills
+What is the difference between functions and skills:
 
-* **Kleur:** De kleur die deze functie op het rooster krijgt.
-* **Functie:** De naam van de functie. De eerste letter komt terug op het rooster.
-* **Vaardigheden:** Alle vaardigheden die vallen onder deze functie. 
+* **Skills:** Something a teammember can do, for instance: Drafting a beer.
+* **Function:** A set of mastered skills, for instance: Manager
 
-> Als een vaardigheid niet aan een functie wordt gekoppeld zal deze worden weergeven onder **Overige**.
+
+---
+
+## Creating skills and functions
+
+By hitting the **Manage skills** button on the top-right corner of the skills page a modal will open. You can define the following information:
+
+* **Color:** Select a color to appear alongside the function on the roster.
+* **Function:** Set a name for the function. The first letter will appear on the roster.
+* **Skills:** All skills that are assigned to the function. It's possible to add a certain skill to more functions.
+
+> If you have a certain skill that does not belong to a function, it will automatically appear in the column: Other.
 
 <video controls
        muted 
@@ -32,9 +42,9 @@ Vaardigheden aanmaken kun je aanmaken door op **Beheer vaardigheden** te klikken
 
 ---
 
-## Toekennen van vaardigheid
+## Assigning skills
 
-Het toekennen van een vaardigheid gaat simpelweg door het vinkje van de vaardigheid aan te klikken. Hierbij zal eitje altijd bijhouden wie deze vaardigheid heeft toegekend en op welk moment.
+By navigation towards a specific teammember you can just selecting the checkbox of the skill you want to add to this person.
 
 <video controls
        muted 
@@ -46,11 +56,11 @@ Het toekennen van een vaardigheid gaat simpelweg door het vinkje van de vaardigh
 
 ---
 
-## Functies in de planning
+## Functions on schedule
 
-Het kan voor jouw organisatie belangrijk zijn dat er elke dag iemand aanwezig is die over de juiste functie beschikt, daarom zijn de functies ook in de planning verwerkt. Je kunt hier op twee verschillende manieren gebruik van maken.
+By using the functions in the schedule you can easily see if someone is capable enough to work on a certain shift. You can use the functions in two different ways:
 
-* **1 -Functie toekennen aan een teamlid:** door een teamlid een specifieke vaardigheid mee te geven zullen alle shifts van dit teamlid automatisch de **functie badge** toegewezen krijgen.
+* **1 -Adding function to a teammmember:** at the skills page you can add a specific function to a teammber. By selecting the function the appropriate badge will automatically appear at all of the shifts of this teammember.
 
 <video controls
        muted 
@@ -60,7 +70,7 @@ Het kan voor jouw organisatie belangrijk zijn dat er elke dag iemand aanwezig is
 </video> 
 
 
-* **2- Functie toekennen aan een shift:** door een functie toe te kennen aan een shift zal er altijd een **functie badge** bij deze shift worden weergeven. Zo weet je dat er op deze shift minimaal iemand moet werken die beschikt over de desbetreffende functie.
+* **2- Adding function to a shift:** by opening a shift you can add a function to the shift. 
 
 <video controls
        muted 
@@ -73,8 +83,8 @@ Het kan voor jouw organisatie belangrijk zijn dat er elke dag iemand aanwezig is
 ---
 
 
-## Functies in de beschikbaarheid
+## Functions in the availability
 
-Eenmaal functies en vaardigheden aangemaakt zullen deze automatisch in de beschikbaarheid worden weergeven. Zo zie je bij het plannen precies wie er allemaal over de juiste functies beschikt. 
+After adding functions to eitje, the functions will automatically appear in the availability overview on the schedule. This way you'll instantly know who is capable of working on a specific shift.
 
 ---
