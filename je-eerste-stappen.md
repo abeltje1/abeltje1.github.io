@@ -2,16 +2,16 @@
 
 Het is niet lastig om te starten met eitje, maar een klein beetje hulp kan nooit kwaad. Daarom hebben wij hier stap voor stap uitgelegd hoe jij zo snel mogelijk met eitje kan beginnen. 
 
-Om te beginnen is het belangrijk om te weten dat alles in eitje draait om jouw team, alle teamleden zijn dan ook onderdeel van team **Algemeen**. Met dit team heb jij altijd een communicatie kanaal om iedereen te bereiken. Het is echter niet mogelijk om met team Algemeen te plannen. Hiervoor is het nodig om meerdere teams aan te maken, denk hierbij bijvoorbeeld aan: **Bediening**, **Keuken**, **Shiftleaders**. 
+**Spring naar**
+* [Teams aanmaken](/je-eerste-stappen?id=teams-aanmaken)
+* [Teamleden uitnodigen](/je-eerste-stappen?id=teamleden-uitnodigen)
+* [Teamleden toevoegen aan teams](/je-eerste-stappen?id=teamleden-toevoegen-aan-teams)
 
-*Er is geen limiet aan het aantal teams, dus je kunt dit precies inrichten naar jouw wensen.*
-
+---
 
 ## Teams aanmaken
 
-Het aanmaken van een team kun je doen onder het kopje **teamleden** in de header. Hier beheer je naast alle informatie van je teamleden ook je teams. Aan de rechterkant van het scherm kun je alle teams zien die op dit moment actief zijn. Door op **Start een nieuw team** te klikken kun jij een nieuw team beginnen. Het enige wat je hoeft te doen is een teamnaam in te voeren en aan te geven of jij een chatgroep wilt activeren voor dit team. 
-
-Bekijk de video hieronder om te zien hoe jij een nieuw team aanmaakt en dit later weer kan wijzigen/verwijderen.
+Om te beginnen is het belangrijk om te weten dat eitje compleet draait om jouw teams. Alle teamleden zullen automatisch worden toegevoegd aan team **Algemeen**,maar je kan natuurlijk zelf gemakkelijk nieuwe teams aanmaken. Het aanmaken van een team kun je doen onder het tabje **Teamleden** in de header. Door op **Start een nieuw team** te klikken kun jij een nieuw team beginnen. Het enige wat je hoeft te doen is een teamnaam in te voeren en aan te geven of jij een chatgroep wilt activeren voor dit team. 
 
 <video controls
        muted 
@@ -26,9 +26,9 @@ Bekijk de video hieronder om te zien hoe jij een nieuw team aanmaakt en dit late
 
 ## Teamleden uitnodigen
 
-Nu jij de teamstructuur in eitje hebt aangemaakt is het tijd om je teamleden uit te nodigen. Het enige wat jij hiervoor nodig hebt is een lijst met alle e-mailadressen. Klik op de teamleden pagina rechtsboven op **Uitnodigen** om het scherm te openen. Hier kun je ook direct de teamleden al toevoegen aan de juiste teams.
+Nu jij de teamstructuur in eitje hebt aangemaakt is het tijd om je teamleden uit te nodigen. Klik op de teamleden pagina rechtsboven op **Uitnodigen** om het scherm te openen. 
 
-> De e-mailadressen worden na het bevestigen onder de invoerbalk geplaatst. Je kunt alleen op uitnodigen klikken als alle ingevoerde e-mailadressen **correct** zijn.
+> Hier kun je ook direct nieuwe teamleden toevoegen aan de juiste teams door deze te selecteren in het veld naast het e-mailadres.
 
 <video controls
        muted 
@@ -42,7 +42,10 @@ Nu jij de teamstructuur in eitje hebt aangemaakt is het tijd om je teamleden uit
 
 ## Teamleden toevoegen aan teams
 
-Na het uitnodigen kun je nog steeds beheren welk teamleden allemaal tot het team behoren. Dit doe je door het team te selecteren en te klikken op **Beheer teamleden**. 
+Na het uitnodigen kun je nog steeds beheren welk teamleden allemaal tot het team behoren. Dit doe je als volgt:
+
+* 1. Selecteer het team dat je wilt beheren
+* 2. Klik op **Beheer teamleden**
 
 
 <video controls
@@ -54,6 +57,4 @@ Na het uitnodigen kun je nog steeds beheren welk teamleden allemaal tot het team
 
 ---
 
-Nu je teams & teamleden zijn aangemaakt kun jij gelijk gaan beginnen met plannen. 
-
-[Starten met plannen](/starten-met-plannen).
+Nice job! Je hebt wat frisse gezichten toegevoegd aan je eitje vestiging. [Nu ben je klaar om te starten met plannen](/starten-met-plannen).

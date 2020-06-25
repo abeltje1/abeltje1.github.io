@@ -1,10 +1,19 @@
 # Handige rooster functies
 
-Je hebt de basis van plannen met eitje ervaren, maar gelukkig zijn er nog veel meer handige hulpmiddelen die je helpen met snel en gemakkelijk plannen in eitje. Twijfel je toch nog een beetje over de basis? Geen probleem.
+Je hebt de basis van plannen met eitje ervaren, maar gelukkig zijn er nog veel meer handige hulpmiddelen die je helpen met snel en gemakkelijk plannen in eitje(🔥). Twijfel je toch nog een beetje over de basis? Geen probleem, [ga terug naar je eerste planning](/starten-met-plannen).
 
-*Je kunt natuurlijk altijd nog even kijken op: [Starten met plannen](/starten-met-plannen).*
+**Spring naar**
+* [Template opslaan](/handige-rooster-functies?id=template-opslaan)
+* [Template inladen](/handige-rooster-functies?id=template-inladen)
+* [Onbeschikbare teamleden inplannen](/handige-rooster-functies?id=onbeschikbare-teamleden-inplannen)
+* [Meer bedrijven in je planning](/handige-rooster-functies?id=meer-bedrijven-in-je-planning)
+* [Bijhouden van aantal shifts](/handige-rooster-functies?id=bijhouden-van-aantal-shifts)
+* [Open shifts publiceren](/handige-rooster-functies?id=open-shifts-publiceren)
+* [Week leegmaken](/handige-rooster-functies?id=week-leegmaken)
+* [Werken met het teampanel](/handige-rooster-functies?id=werken-met-het-teampanel)
+* [Events aanmaken](/handige-rooster-functies?id=events-aanmaken)
 
-
+---
 
 
 ## Template opslaan
@@ -44,7 +53,7 @@ Als er nog geen shifts in het desbetreffende team zijn aangemaakt kun je een tem
 
 
 
-## Onbeschikbare medewerkers inplannen
+## Onbeschikbare teamleden inplannen
 
 Je teamleden kunnen hun beschikbaarheid opgeven, maar dat wil natuurlijk niet zeggen dat ze nu niet meer ingepland kunnen worden. Door op de shift te klikken en bij **Uitgevoerd door** naar beneden te scrollen zie jij vanzelf alle mensen die onbeschikbaar zijn. Deze kun jij gewoon selecteren en inplannen. Als er sprake is van een conflict tussen de beschikbaarheid en de shift van een teamlid zal dit kaartje automatisch rood oplichten. 
 
@@ -59,7 +68,7 @@ Je teamleden kunnen hun beschikbaarheid opgeven, maar dat wil natuurlijk niet ze
 ---
 
 
-## Meer bedrijven in één overzicht
+## Meer bedrijven in je planning
 
 Ben jij onderdeel van meerdere bedrijven in een organisatie. Dan kun jij alle roosters ook weergeven in één overzicht. Dit doe je door alle gewenste vestigingen te selecteren in de planning. 
 
@@ -80,8 +89,8 @@ Ben jij onderdeel van meerdere bedrijven in een organisatie. Dan kun jij alle ro
 
 Bij het plannen worden er overal nummers weergeven bij je teamleden. Hierin kun je twee verschillende getallen zien:
 
-* Het nummer bij een ingeplande shift weergeeft het aantal keer dat dit teamlid is ingepland in de huidige week. 
-* Het nummer (tussenhaakjes) in het beschikbaarheids kaartje weergeeft het aantal shifts dat dit teamlid nog wilt werken in deze week. 
+* **In een shift:** Het nummer bij een ingeplande shift weergeeft het aantal keer dat dit teamlid is ingepland in de huidige week. 
+* **In beschikbaarheid:** Het nummer (tussenhaakjes) in het beschikbaarheids kaartje weergeeft het aantal shifts dat dit teamlid nog wilt werken in deze week. 
 
 > Het kan ook zijn dat je hier het aantal contract uren van een teamlid ziet. Dit krijg je door een contract voor het teamlid aan te maken onder teamleden. Zo zal het aantal shifts veranderen in het aantal uren volgens het contract.
 
@@ -98,7 +107,7 @@ Het makkelijke aan plannen met eitje is dat deze nummers continu up-to-date zijn
 
 Krijg jij niet alle shifts ingevuld? Geen nood, je kunt altijd nog gebruik maken van het uitvraag systeem in eitje. **Publiceer** simpelweg de open shift en deze zal in de app naar iedereen worden meegestuurd die onderdeel is van het team waarin deze shift is aangemaakt. Vanuit daar kunnen je teamleden zich op deze shift aanmelden en jij als manager hoeft dit simpelweg alleen nog maar te accorderen.
 
-Dit bevindt zich allemaal onder **Ruilen** in het menu in de app. 
+
 
 > Tip: Plaats een opmerking bij de shift om deze bij de uitvraag mee te sturen. Zo krijg je een hogere respons dan als je hier geen opmerking bij plaatst.
 
@@ -110,7 +119,7 @@ Dit bevindt zich allemaal onder **Ruilen** in het menu in de app.
 
 ## Week leegmaken
 
-Heb jij al een rooster ingeladen maar wil jij toch liever opnieuw beginnen? Je kunt de gehele week van een team met één druk op de knop leegmaken onder **Tools**. 
+Heb jij al een rooster ingeladen maar wil jij toch liever opnieuw beginnen? Je kunt de gehele week van een team leegmaken onder **Tools > Week leegmaken**. 
 
 <video controls
        muted 
@@ -127,8 +136,8 @@ Heb jij al een rooster ingeladen maar wil jij toch liever opnieuw beginnen? Je k
 
 In het teampanel heb je twee functionaliteiten:
 
-* 1: **Contract uren** - Weergeeft hoeveel uur iedereen is ingepland in de huidige week. Hierin kun je nog filteren op verschillende contract types, of gewoon iedereen weergeven.
-* 2: **Ziek** - Meldt je teamleden ziek. Dit zorgt ervoor dat je teamleden in het rooster worden weergeven met een ziek emoticon. Zo weet jij altijd dat er iemand ziek is.
+* **Contract uren:** Weergeeft hoeveel uur iedereen is ingepland in de huidige week. Hierin kun je nog filteren op verschillende contract types, of gewoon iedereen weergeven.
+* **Ziek:** Meldt je teamleden ziek. Dit zorgt ervoor dat je teamleden in het rooster worden weergeven met een ziek emoticon. Zo weet jij altijd dat er iemand ziek is.
 
 <video controls
        muted 

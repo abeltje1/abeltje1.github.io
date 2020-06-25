@@ -137,8 +137,8 @@ Want to start over? Just click **Tools > Clear Week**, you'll be asked which tea
 
 In the team panel you have two functionalities:
 
-* 1: **Contract hours** Displays how many hours everyone is scheduled in the current week. Here you can filter by different contract types, or just display everyone.
-* 2: **Sick** Report your team member sick. This will add a sick emoticon to the teammember.
+* **Contract hours** Displays how many hours everyone is scheduled in the current week. Here you can filter by different contract types, or just display everyone.
+* **Sick** Report your team member sick. This will add a sick emoticon to the teammember.
 
 <video controls
        muted 

@@ -1,8 +1,15 @@
 # Werken met beschikbaarheid
 
-Om het plannen zo snel en gemakkelijk mogelijk te maken kunnen je teamleden hun voorkeur doorgeven door middel van de beschikbaarheidsfuncties. In deze handleidingen kijken wij naar alle mogelijkheden. 
+Om het plannen zo snel en gemakkelijk mogelijk te maken kunnen je teamleden hun voorkeur doorgeven door middel van de beschikbaarheidsfuncties. Door de beschikbaarheid direct in eitje te beheren kun jij uiteindelijk veel sneller je roosters maken.
 
-*Voor verlof verzoeken verwijzen wij je graag naar de volgende handleiding: [Verlof verzoeken](/verlofAccorderen).*
+**Spring naar**
+* [Beschikbaarheid doorgeven](/werken-met-beschikbaarheid?id=beschikbaarheid-doorgeven)
+* [Werken met vaste dagen](/werken-met-beschikbaarheid?id=werken-met-vaste-dagen)
+* [Beschikbaarheid dichtzetten](/werken-met-beschikbaarheid?id=beschikbaarheid-dichtzetten)
+* [Automatisch slot op beschikbaarheid](/werken-met-beschikbaarheid?id=automatisch-slot-op-beschikbaarheid)
+* [De verschillende instellingen voor beschikbaarheid](werken-met-beschikbaarheid?id=de-verschillende-instellingen-voor-beschikbaarheid)
+
+---
 
 
 ## Beschikbaarheid doorgeven
