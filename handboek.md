@@ -2,6 +2,15 @@
 
 De tijd van het meegeven van handleidingen aan nieuwe teamleden is geweest. Vandaag de dag kan er veel informatie natuurlijk veel gemakkelijker worden gedeeld en dan vooral met eitje. Je kunt namelijk je complete handleidingen in eitje integreren om zo je teamleden gemakkelijk te voorzien van alle informatie. Denk hierbij aan de huisregels, productinformatie, schoonmaaklijsten en eigenlijk alles wat jij wilt.
 
+**Spring naar**
+* [Nieuw artikel maken](/handboek?id=nieuw-artikel-maken)
+* [Lettergrote aanpassen](/handboek?id=lettergrote-aanpassen)
+* [Invoegen van afbeeldingen](/handboek?id=invoegen-van-afbeeldingen)
+* [Invoegen van bijlagen](/handboek?id=invoegen-van-bijlagen)
+* [Lijstjes maken](/handboek?id=lijstjes-maken)
+* [Sorteren van handboek artikelen](/handboek?id=sorteren-van-handboek-artikelen)
+
+---
 
 ## Nieuw artikel maken
 
@@ -32,7 +41,7 @@ Om het makkelijk leesbaar te maken voor je teamleden is het natuurlijk fijn om d
 ---
 
 
-## Invoegen van foto's
+## Invoegen van afbeeldingen
 
 Natuurlijk kun je ook plaatjes toevoegen aan je handleiding. Hiervoor adviseren wij om altijd vierkante plaatjes te gebruiken. Zo zorg jij ervoor dat deze het best worden weergeven in de app. Mocht jij het lastig vinden om plaatjes vierkant bij te snijden, geen nood: met de meeste telefoon's kun jij tegenwoordig gewoon al standaard vierkante foto's maken. Mocht jij er echt niet uitkomen kun jij natuurlijk ook altijd contact opnemen met [eitje | Support](mailto:support@eitje-app.nl) 
 
@@ -73,21 +82,6 @@ Ook het maken van een lijstje gaat op dezelfde manier. Je kunt kiezen om een lij
 
 ---
 
-
-## Items selecteren voor het inwerken
-
-Nu jij alle informatie voor je teamleden in eitje hebt gezet kun jij dit goed gebruiken om nieuwe teamleden mee in te werken. Hiervoor kun jij gebruik maken van onze inwerkitems. Je kiest aan de rechterkant van de pagina maximaal drie items die worden gebruikt bij het inwerken van nieuwe teamleden. 
-
-> Deze items worden als iemand haar account activeert of als dit teamlid het artikel nog nooit heeft gelezen aan het teamlid gepresenteerd als deze de app opent. Hiermee verzeker jij jezelf ervan dat iedereen altijd dit artikel tenminste één keer heeft moeten lezen.
-
-<video controls
-       muted 
-       src="/assets/inwerkItems.mov"
-       width="683"
-       height="384">
-</video>
-
----
 
 
 ## Sorteren van handboek artikelen

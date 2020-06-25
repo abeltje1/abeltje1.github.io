@@ -2,6 +2,14 @@
 
 Om je teamleden zo gemakkelijk mogelijk aan te sturen hebben wij vele handige functies in eitje gestopt. Zo kun jij iedereen altijd up-to-date houden door middel van onze communcatieve functies. Hieronder leer jij meer over de verschillende mogelijkheden en hoe jij deze het best kunt inzetten voor je teamleden.
 
+**Spring naar**
+* [Teamleden uitnodigen](/teamleden?id=teamleden-uitnodigen)
+* [Teamlid toevoegen aan team](/teamleden?id=teamlid-toevoegen-aan-team)
+* [Contract aanmaken voor teamlid](/teamleden?id=contract-aanmaken-voor-teamlid)
+* [Informatie van teamlid bewerken](/teamleden?id=informatie-van-teamlid-bewerken)
+
+---
+
 ## Teamleden uitnodigen
 
 Het enige wat jij nodig hebt om een teamlid toe te voegen is een e-mailadres. Klik bij de teamleden pagina rechtsboven op **Uitnodigen** om het scherm te openen.

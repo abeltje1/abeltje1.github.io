@@ -2,6 +2,17 @@
 
 Om de training van je teamleden in goede banen te leiden is het handig om te werken met **Vaardigheden**. Op deze manier weet jij altijd precies wat je teamleden kunnen, maar ook wat ze nog moeten leren. Zo heb jij altijd 'The right person for the right job'. 
 
+**Spring naar**
+* [Functies & Vaardigheden ](/vaardigheden?id=functies-amp-vaardigheden)
+* [Aanmaken van Functies & Vaardigheden](/vaardigheden?id=aanmaken-van-functies-amp-vaardigheden)
+* [Toekennen van vaardigheden](/vaardigheden?id=toekennen-van-vaardigheden)
+* [Functies in de planning](/vaardigheden?id=functies-in-de-planning)
+* [Functies in de beschikbaarheid](/vaardigheden?id=functies-in-de-beschikbaarheid)
+
+
+---
+
+
 ## Functies & Vaardigheden 
 Om te beginnen is het handig om te weten dat er een verschil is tussen functies en vaardigheden.
 
@@ -32,7 +43,7 @@ Vaardigheden aanmaken kun je aanmaken door op **Beheer vaardigheden** te klikken
 
 ---
 
-## Toekennen van vaardigheid
+## Toekennen van vaardigheden
 
 Het toekennen van een vaardigheid gaat simpelweg door het vinkje van de vaardigheid aan te klikken. Hierbij zal eitje altijd bijhouden wie deze vaardigheid heeft toegekend en op welk moment.
 
