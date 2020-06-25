@@ -61,7 +61,7 @@ Het toekennen van een vaardigheid gaat simpelweg door het vinkje van de vaardigh
 
 Het kan voor jouw organisatie belangrijk zijn dat er elke dag iemand aanwezig is die over de juiste functie beschikt, daarom zijn de functies ook in de planning verwerkt. Je kunt hier op twee verschillende manieren gebruik van maken.
 
-* **1 -Functie toekennen aan een teamlid:** door een teamlid een specifieke vaardigheid mee te geven zullen alle shifts van dit teamlid automatisch de **functie badge** toegewezen krijgen.
+* **Functie toekennen aan een teamlid:** door een teamlid een specifieke vaardigheid mee te geven zullen alle shifts van dit teamlid automatisch de **functie badge** toegewezen krijgen.
 
 <video controls
        muted 
@@ -71,7 +71,7 @@ Het kan voor jouw organisatie belangrijk zijn dat er elke dag iemand aanwezig is
 </video> 
 
 
-* **2- Functie toekennen aan een shift:** door een functie toe te kennen aan een shift zal er altijd een **functie badge** bij deze shift worden weergeven. Zo weet je dat er op deze shift minimaal iemand moet werken die beschikt over de desbetreffende functie.
+* **Functie toekennen aan een shift:** door een functie toe te kennen aan een shift zal er altijd een **functie badge** bij deze shift worden weergeven. Zo weet je dat er op deze shift minimaal iemand moet werken die beschikt over de desbetreffende functie.
 
 <video controls
        muted 

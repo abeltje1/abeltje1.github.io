@@ -7,6 +7,7 @@ De tijd van het meegeven van handleidingen aan nieuwe teamleden is geweest. Vand
 * [Lettergrote aanpassen](/handboek?id=lettergrote-aanpassen)
 * [Invoegen van afbeeldingen](/handboek?id=invoegen-van-afbeeldingen)
 * [Invoegen van bijlagen](/handboek?id=invoegen-van-bijlagen)
+* [Invoegen van videos](/handboek?id=invoegen-van-videos)
 * [Lijstjes maken](/handboek?id=lijstjes-maken)
 * [Sorteren van handboek artikelen](/handboek?id=sorteren-van-handboek-artikelen)
 
@@ -65,6 +66,15 @@ Natuurlijk kun jij ook bijlagen toevoegen zodat je teamleden deze kunnen downloa
        width="683"
        height="384">
 </video>
+
+
+---
+
+## Invoegen van videos
+
+Je kunt vandaag de dag zelfs videos van **YouTube** en **Vimeo** toevoegen aan je handboek items. Zo zullen teamleden direct vanuit de app de videos kunnen bekijken. Het enige wat je hoeft te doen is de url van deze video te kopieren en deze te plakken in het CMS via het **Video Icoon**.
+
+
 
 
 ---

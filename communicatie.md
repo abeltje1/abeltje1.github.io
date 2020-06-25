@@ -37,8 +37,8 @@ Er gebeuren vaak genoeg dingen die erg belangrijk zijn voor je teamleden om te w
 
 Aangezien jij de app een stuk vaker zal openen dan het web-platform hebben wij nog een aantal leuke extra's in de app gestopt voor de managers. 
 
-* **Bekijken van statistieken:**Je kunt in de app precies zien wie een nieuwsbericht heeft gelezen door het bericht te openen en op de blauwe ronde knop te klikken. Deze button brengt jou naar de statistieken pagina.
+* **Bekijken van statistieken:** je kunt in de app precies zien wie een nieuwsbericht heeft gelezen door het bericht te openen en op de blauwe ronde knop te klikken. Deze button brengt jou naar de statistieken pagina.
 
-* **Versturen van leesherinneringen** Eenmaal aangekomen bij de statistieken zie jij precies wie en wanneer iemand het bericht heeft gelezen. Mocht deze nog niet zijn gelezen kun je via deze pagina ook lees herinneringen sturen naar je teamleden.
+* **Versturen van leesherinneringen:** eenmaal aangekomen bij de statistieken zie jij precies wie en wanneer iemand het bericht heeft gelezen. Mocht deze nog niet zijn gelezen kun je via deze pagina ook lees herinneringen sturen naar je teamleden.
 
 ---

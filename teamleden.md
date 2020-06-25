@@ -1,6 +1,6 @@
 # Teamleden
 
-Om je teamleden zo gemakkelijk mogelijk aan te sturen hebben wij vele handige functies in eitje gestopt. Zo kun jij iedereen altijd up-to-date houden door middel van onze communcatieve functies. Hieronder leer jij meer over de verschillende mogelijkheden en hoe jij deze het best kunt inzetten voor je teamleden.
+Om je teamleden zo gemakkelijk mogelijk aan te sturen hebben wij vele handige functies in eitje gestopt. Hieronder leer jij meer over de verschillende mogelijkheden en hoe jij deze het best kunt inzetten voor je teamleden.
 
 **Spring naar**
 * [Teamleden uitnodigen](/teamleden?id=teamleden-uitnodigen)
@@ -47,6 +47,8 @@ Na het toevoegen van je teamleden is iedereen automatisch toegevoegd aan team **
 ## Contract aanmaken voor teamlid
 
 Je kunt een contract aanmaken voor een teamlid door het profiel van het desbetreffende teamlid te openen. Vervolgens volg je stap voor stap de keuze velden in het scherm.
+
+> [Meer informatie over de contracttypes](/contracten)
 
 <video controls
        muted 
