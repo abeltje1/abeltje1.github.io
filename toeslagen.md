@@ -1,13 +1,26 @@
 # Toeslagen 
 
-Je kunt in eitje ook toeslagen toekennen aan de gewerkte uren. In eitje kennen wij drie typen toeslagen:
+Je kunt in eitje ook toeslagen toekennen aan de gewerkte uren. 
 
-* Functie toeslag: Zelf te benoemen toeslag. Denk bijv. aan een toeslag op een incidentele leidinggevende rol. Deze toeslag kun je na het aanmaken per shift toekennen via de urenregistratie.
-* Hapsnap toeslag: Een toeslag die automatisch wordt toegekend aan het tijdstip van werken. Denk bijv. aan een toeslag voor elk persoon die werkt op een zondag.
-* Feestdag toeslag: Deze toeslag wordt ook automatisch toegekend. Denk hierbij aan een toeslag voor iedereen die werkt op eerste kerstdag.
+**Spring naar**
+* [Type toeslagen](/toeslagen?id=type-toeslagen)
+* [Aanmaken van toeslag](/toeslagen?id=aanmaken-van-toeslag)
+* [Koppelen van toeslag aan looncode in Nmbrs](/toeslagen?id=koppelen-van-toeslag-aan-looncode-in-nmbrs)
 
 
-## Aanmaken van toeslag in eitje
+---
+
+## Type toeslagen
+In eitje kennen wij drie typen toeslagen:
+
+* **Functie toeslag:** zelf te benoemen toeslag. Denk bijv. aan een toeslag op een incidentele leidinggevende rol. Deze toeslag kun je na het aanmaken per shift toekennen via de urenregistratie.
+* **Hapsnap toeslag:** een toeslag die automatisch wordt toegekend aan het tijdstip van werken. Denk bijv. aan een toeslag voor elk persoon die werkt op een zondag.
+* **Feestdag toeslag:** deze toeslag wordt ook automatisch toegekend. Denk hierbij aan een toeslag voor iedereen die werkt op eerste kerstdag.
+
+---
+
+
+## Aanmaken van toeslag
 
 Je kunt een toeslag aanmaken via de instellingen onder Bedrijf. In het onderstaande filmpje maken wij een feestdagtoeslag aan, het principe van aanmaken geldt echter voor alle soort toeslagen hetzelfde. 
 
@@ -20,6 +33,7 @@ Je kunt een toeslag aanmaken via de instellingen onder Bedrijf. In het onderstaa
        height="384">
 </video>
 
+---
 
 ## Koppelen van toeslag aan looncode in Nmbrs
 
@@ -33,3 +47,5 @@ Helemaal gemakkelijk als de toeslagen direct doorkomen in je salarisadministrati
        width="683"
        height="384">
 </video>
+
+---

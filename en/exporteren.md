@@ -1,5 +1,5 @@
 # Export your data
-We thrive to show your data in the most comprehensive form inside the browser, though but we understand the need to export your data out of our system. 
+We thrive to show your data in the most comprehensive form inside the browser, but we also understand the need to export your data out of our system. 
 
 **Jump to**
 * [Export your timecards](/en/exporteren?id=export-your-timecards)

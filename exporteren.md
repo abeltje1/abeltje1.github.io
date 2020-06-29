@@ -1,15 +1,20 @@
-# Exporteren & Analyses
-Aangezien er veel informatie bekend is in eitje over de gewerkte uren, loonkosten en omzetten kunnen wij een aantal onderdelen erg gemakkelijk voor jou maken. In deze handleiding laten wij precies zien welke analyses en exports je allemaal met eitje kunt uitvoeren.
+# Je data exporteren
+We proberen alle data in eitje zo goed mogelijk te weergeven in je browser. We kunnen echter ook goed begrijpen dat je in sommige gevallen liever de data uit het systeem exporteert.
+
+**Spring naar**
+* [Exporteren van de gewerkte uren](/exporteren?id=exporteren-van-de-gewerkte-uren)
+* [Exporteren van de loonkosten](/exporteren?id=exporteren-van-de-loonkosten)
+* [Exporteer je teamleden](/exporteren?id=exporteer-je-teamleden)
 
 ## Exporteren van de gewerkte uren
-Als alle uren eenmaal zijn geaccordeerd (oftewel: in het groen of rood worden weergegeven) kun je de uren gemakkelijk uit eitje halen voor de verloning. Dit doe je door via Uren naar het Details scherm te navigeren. In het filmpje hieronder laten wij zien hoe jij de uren naar Excel exporteert.
+Na het goedkeuren van de uren regels kun je gemakkelijk de data exporteren uit eitje. Je doet dit door te navigeren naar **Uren > Details**. Er zijn verschillende opties om uit te kiezen:
 
-Je kunt de uren op twee verschillende manieren exporteren:
+* **per gebruiker:** dit geeft een uitgebreid inzicht in alle urenregels van je teamleden.
+* **per dag:** een simpele weergave van de urenregels per dag per gebruiker.
+* **per team:** een simpele weergave van de urenregels per team per dag.
+* **snel invoer:** een gemakkelijk overzicht voor alle data voor je salarisadministratie.
 
-* **per gebruiker**: Dit geeft een opsomming van de gewerkte uren/verlof/maaltijden per gebruiker onder elkaar 
-* **per dag**: Dit geeft een opsomming van de gewerkte uren / maaltijden per dag <br>*De export per dag wordt het meest gebruikt voor verwerking in de salarisadministratie*
-
-> Het is ook mogelijk om rechtstreeks te koppelen met jouw salarisadministratie pakket. Daarvoor verwijzen wij je graag naar onze handleiding m.b.t. [koppelingen](/koppelingen).
+> Het is ook mogelijk om rechtstreeks te koppelen met jouw salarisadministratie pakket. Daarvoor verwijzen wij je graag naar onze handleiding m.b.t. Koppelingen.
 
 <video controls
        muted 
@@ -23,12 +28,16 @@ Je kunt de uren op twee verschillende manieren exporteren:
 
 
 ## Exporteren van de loonkosten
-In het urenoverzicht zie jij altijd de gegevens van de geselecteerde week. Maar het kan natuurlijk zijn dat jij dit liever over de hele maand wilt berekenen. Hiervoor kun je gebruik maken van onze loonkosten export. De handeling hiervoor is precies hetzelfde als het filpmje hierboven. Je selecteert uiteindelijk alleen de optie: **Loonkosten** in plaats van uren. 
 
-Het fijne aan de loonkosten export is dat er ook nog onderscheid wordt gemaakt tussen vaste loonkosten en variabele kosten, waardoor jij met enkele klikken rechtstreeks beschikt over alle informatie die jij nodig hebt om succesvol je horecateam te sturen.
+Voor het exporteren van de loonkosten is de handeling precies hetzelfde als het voorbeeld hierboven. Je selecteert uiteindelijk alleen de optie: **Loonkosten** in plaats van uren. Daarna hoef je alleen nog een periode te selecteren en klaar is kees.
 
-> Het exporteren van loonkosten gaat hetzelfde als het exporteren van de uren hierboven. Het enige verschil is dat je de optie **Loonkosten** selecteert.
 
 
 ---
 
+
+## Exporteer je teamleden
+Een snelle blik met alle informatie van je teamleden in eitje? Ga naar **Instellingen > Vestiging instellingen** en scroll helemaal naar beneden. Je kunt hier met één druk op de knop alle data van je teamleden downloaden.
+
+
+---
