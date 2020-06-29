@@ -1,15 +1,16 @@
-# Mplus Kassa integratie
+# MplusKASSA integratie
 
-Automatisch en zonder handelingen altijd inzicht in je omzet. Met de integratie tussen Mplus Kassa en eitje heb jij direct elke paar minuten een update van de omzet in eitje. Buiten het feit dat je nooit meer handmatig je omzet hoeft in te vullen, heb je zo ook direct **live** inzicht in de gemaakte loonkosten. 
+Automatisch en zonder handelingen altijd inzicht in je omzet. Met de koppeling tussen MplusKASSA en eitje heb jij direct elke paar minuten een update van de omzet in eitje. Buiten het feit dat je nooit meer handmatig je omzet hoeft in te vullen, heb je zo ook direct live inzicht in de gemaakte loonkosten. 
 
-Om de koppeling te activeren ga je naar: 
+Om de koppeling te activeren ga je naar: **Instellingen > Vestinging instellingen > Kassa koppeling > MplusKASSA** Vul simpelweg je MplusKASSA gegevens in en wij doen de rest voor je.
 
-> Instellingen > Vestinging instellingen > Kassa koppeling > Mplus Kassa (selecteer in dropdown)
+> **Contact je kassa leverancier voor de juiste gegevens.**
 
-Het enige wat je hierna hoeft te doen is de gegevens van je Mplus Kassa in te vullen. Door deze integratie te activeren geef je eitje de rechten om je omzet gegevens binnen te krijgen.
+Het enige wat je hierna hoeft te doen is in te loggen met je MplusKASSA inloggegegevens. Door in te loggen bij MplusKASSA geef je eitje de rechten om je omzet gegevens binnen te krijgen.
+
+**LET OP: Om de integratie succesvol af te ronden moet je nogmaals het Kassa koppel scherm openen in de instellingen. Dit om de omzetgroepen uit MplusKASSA te koppelen aan de omzetgroepen aan eitje. [Meer over werken met omzetgroepen en de verdeling van loonkosten](instellingen?id=verdeling-van-loonkosten)**
+
+> **Deze koppeling kost €10,- per maand.**
 
 
-> **LET OP: Om ervoor te zorgen dat de omzet daadwerkelijk in de juiste omzetgroep terecht komt, zul je nog wel de omzetgroepen van Mplus Kassa moeten koppelen aan de omzetgroepen in eitje. Dit doe je nadat je de koppeling tot stand hebt gebracht in hetzelfde scherm als waar je de koppeling hebt geactiveerd.**
-
-
-*** Deze koppeling kost €10,- per maand.*
+---

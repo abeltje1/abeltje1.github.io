@@ -5,33 +5,33 @@ Om eitje zo goed mogelijk bij jouw team aan te laten sluiten is het mogelijk om 
 > De meeste instellingen hebben te maken met de **Urenregistratie**, mocht jij deze niet hebben geactiveerd is het ook niet nodig om deze instellingen aan te passen. De eerste drie onderwerpen (de beschikbaarheids instellingen) werken natuurlijk wel gewoon voor alle teams.
 
 **Spring naar beschikbaarheid**
-* [Reden verplicht voor beschikbaarheid](instellingen?id=)
-* [Beschikbaarheid altijd dicht](instellingen?id=)
-* [Dagen voor sluiten van beschikbaarheid](instellingen?id=)
+* [Reden verplicht voor beschikbaarheid](instellingen?id=reden-verplicht-voor-beschikbaarheid)
+* [Beschikbaarheid altijd dicht](instellingen?id=beschikbaarheid-altijd-dicht)
+* [Dagen voor sluiten van beschikbaarheid](instellingen?id=dagen-voor-sluiten-van-beschikbaarheid)
 
 **Spring naar urenregistratie**
-* [Urenregistratie actief](instellingen?id=)
-* [Eigen uren schrijven](instellingen?id=)
-* [Uren doorgeven binnen](instellingen?id=)
-* [Vanaf welke datum wil je urenregistreren](instellingen?id=)
-* [Wanneer begint de nieuwe dag](instellingen?id=)
-* [Maaltijdvergoeding](instellingen?id=)
-* [Activeer HR Koppeling](instellingen?id=)
+* [Urenregistratie actief](instellingen?id=urenregistratie-actief)
+* [Eigen uren schrijven](instellingen?id=eigen-uren-schrijven)
+* [Uren doorgeven binnen](instellingen?id=uren-doorgeven-binnen)
+* [Vanaf welke datum wil je urenregistreren](instellingen?id=vanaf-welke-datum-wil-je-urenregistreren)
+* [Wanneer begint de nieuwe dag](instellingen?id=wanneer-begint-de-nieuwe-dag)
+* [Maaltijdvergoeding](instellingen?id=maaltijdvergoeding)
+* [Activeer HR Koppeling](instellingen?id=activeer-hr-koppeling)
 
 **Spring naar financieel**
-* [Verdeling van loonkosten](instellingen?id=)
-* [Streefgetal loonkosten](instellingen?id=)
-* [Ingangsdatum van saldo](instellingen?id=)
-* [Tijdsnotatie voor opmaak van exportbestanden](instellingen?id=)
-* [Toeslagen](instellingen?id=)
-* [Kassa koppeling](instellingen?id=)
+* [Verdeling van loonkosten](instellingen?id=verdeling-van-loonkosten)
+* [Streefgetal loonkosten](instellingen?id=streefgetal-loonkosten)
+* [Ingangsdatum van saldo](instellingen?id=ingangsdatum-van-saldo)
+* [Tijdsnotatie voor opmaak van exportbestanden](instellingen?id=tijdsnotatie-voor-opmaak-van-exportbestanden)
+* [Toeslagen](instellingen?id=toeslagen)
+* [Kassa koppeling](instellingen?id=kassa-koppeling)
 
 **Spring naar contracten**
-* [Contract instellingen](instellingen?id=)
+* [Contract instellingen](instellingen?id=contract-instellingen)
 
 **Spring naar informatie**
-* [Waar zijn jullie gevestigd](instellingen?id=)
-* [Download de informatie van je teamleden](instellingen?id=)
+* [Waar zijn jullie gevestigd](instellingen?id=waar-zijn-jullie-gevestigd)
+* [Download de informatie van je teamleden](instellingen?id=download-de-informatie-van-je-teamleden)
 
 ---
 

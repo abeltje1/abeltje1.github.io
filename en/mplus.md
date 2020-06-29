@@ -10,3 +10,5 @@ To activate the Mplus integration navigate towards: **Settings > Company setting
 
 
 > **This integration will add €10,- to your invoice on a monthly basis.**
+
+---

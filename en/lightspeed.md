@@ -8,3 +8,5 @@ To activate the Lightspeed integration navigate towards: **Settings > Company se
 
 
 > **This integration will add €10,- to your invoice on a monthly basis.**
+
+---

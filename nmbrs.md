@@ -1,20 +1,26 @@
 # Synchroniseren tussen eitje en NMBRS
 
-Door je eitje account te koppelen aan je Nmbrs account zorg jij ervoor dat het verwerken van je personeelsgegevens en de gewerkte uren nog minder tijd kost en er ook nog eens minder fouten worden gemaakt. De koppeling met Nmbrs zorgt voor twee verschillende voordelen die wij beide hier apart behandelen. 
+Door je eitje account te koppelen aan je Nmbrs account zorg jij ervoor dat het verwerken van je personeelsgegevens en de gewerkte uren nog minder tijd kost. De koppeling met Nmbrs zorgt voor twee verschillende voordelen die wij beide hier apart behandelen:
 
-> **Wat zijn de mogelijkheden door eitje met Nmbrs te koppelen?**
 * **Het synchroniseren van de persoonlijke informatie en contracten van je teamleden vanuit Nmbrs naar eitje**
 * **Het doorzetten van de gewerkte uren vanuit eitje naar Nmbrs**
 
-Maar eerst zullen wij kort uitleggen hoe jij deze koppeling activeert. Hiervoor is het wel van belang dat jij een actieve Nmbrs omgeving hebt. 
+**Spring naar**
+* [Nmbrs koppeling activeren](nmbrs?id=nmbrs-koppeling-activeren)      
+* [Teamleden synchroniseren](nmbrs?id=teamleden-synchroniseren)      
+* [Instellen van verloningsperiode](nmbrs?id=instellen-van-verloningsperiode)      
+* [Uren doorzetten naar Nmbrs](nmbrs?id=uren-doorzetten-naar-nmbrs)      
+* [Controleer data in eitje](nmbrs?id=controleer-data-in-eitje)      
+* [Controleer data in Nmbrs](nmbrs?id=controleer-data-in-nmbrs)      
+  
 
-# Nmbrs koppeling activeren in eitje
+---
 
-Om je Nmbrs account aan eitje te koppelen moet jij in eitje twee velden invullen om de koppeling te authoriseren. Zorg ervoor dat jij deze alvast bij de hand hebt door in te loggen in je Nmbrs account en de volgende twee waardes op te zoeken:
-* API Token 
-* E-mailadres
+# Nmbrs koppeling activeren
+Om je Nmbrs account aan eitje te koppelen moet jij in eitje het **API token** en bijbehorend **e-mailadres** invullen. Je kunt dit doen onder **Instellingen > Vestiging instellingen > Activeer HR koppeling** en de optie te selecteren voor **Nmbrs**. 
 
-> Geen idee waar je dit kunt vinden? Bekijk dan onderstaand filmpje
+Gebruik onderstaande video om de plek in Nmbrs te vinden waar je dit vandaan kunt halen
+**Problemen met het vinden van de twee waardes. Neem dan contact op met je salarisadministrateur**
 
 <video controls
        muted 
@@ -24,7 +30,7 @@ Om je Nmbrs account aan eitje te koppelen moet jij in eitje twee velden invullen
 </video>
 
 
-Om de koppeling in eitje te activeren hoef je alleen maar de bovenstaande waardes in te vullen. Dit doe je onder de instellingen van de urenregistratie: 
+De volgende video laat zien hoe je de koppeling in eitje tot stand brengt:
 
 <video controls
        muted 
@@ -52,19 +58,22 @@ Na het activeren van de koppeling hoef je alleen nog maar op **synchroniseren** 
 
 # Instellen van verloningsperiode
 
-Het doorzetten van de uren naar Nmbrs kan alleen als alle contractinstellingen goed staan afgesteld. Het gaat hier om de volgende twee contracttypes:
+Het is van groot belang dat je de verloningsperiode goed instelt. Als dit niet goed staat ingesteld zal eitje niet automatisch de juiste uren in de juiste periode doorzetten. Je kunt dit instellen door terug te gaan naar het scherm waar je Nmbrs hebt gekoppeld onder: **Instellingne > Vestiging instellingen > Activeer HR koppeling.
 
-* Nul uren contract
-* Uren contract
-
-Hiervoor is het van belang dat de periode van de verloning en de startdatum van je verloningsperiode bij beide staan ingesteld. Als deze instellingen niet zijn gedaan kan eitje niet bepalen welke periodes er zijn en dus ook niet de uren aan het eind van de periode doorzetten. 
+> Voorbeeld: Als je loonperiode loopt van de 1ste tot de 31ste zal je de loonperiode van Nmbrs moeten instellen op de 1 januari. 
 
 
 ---
 
 # Uren doorzetten naar Nmbrs
+**Vergeet niet om alle uren nog eenmaals te controleren voordat je de uren doorzet naar Nmbrs.**
 
-Nu de koppeling is geactiveerd en alle instellingen juist staan afgesteld kan je aan het eind van de periode de uren van je teamleden en de bijbehorende maaltijden rechtstreeks inschieten in Nmbrs. Dit doe je als volgt:
+Het exporteren van de data naar Nmbrs scheelt je heel veel tijd. Je kunt alle urenregels van je nul uren contracten in één keer doorzetten. Je kunt door naar **Uren > Details** te navigeren de uren exporteren via de knop **Exporteren**. Alle groene urenregels in de geselecteerde periode zullen dan worden doorgezet naar Nmbrs.
+
+Naast de gewerkte uren kun je ook de volgende informatie doorzetten:
+* Aantal werkdagen
+* Aantal maaltijden
+* Toeslagen op de uren
 
 <video controls
        muted 
@@ -76,14 +85,12 @@ Nu de koppeling is geactiveerd en alle instellingen juist staan afgesteld kan je
 
 ---
 
-# Controleren van je export naar NMBRS
-
-> Het is natuurlijk altijd van belang om de uren uit eitje even te controleren met de data die binnenkomt in NMBRS. Zo voorkom je fouten en zorg jij ervoor dat je teamleden netjes en juist uitbetaald worden.
 
 
-**Controleer data in eitje**
 
-Ten eerste is het natuurlijk van belang om de uren in eitje allemaal even te controleren. Dit kun je zowel via **Uren** als **Details** doen. In het volgende filmpje laten wij zien hoe je via details de geselecteerde periode kunt controleren en kan doorzetten naar NMBRS.
+## Controleer data in eitje
+
+Na het succesvol exporteren van je data zullen alle doorgezette urenregels wit zijn gekleurd. 
 
 <video controls
        muted 
@@ -92,10 +99,11 @@ Ten eerste is het natuurlijk van belang om de uren in eitje allemaal even te con
        height="384">
 </video>
 
+---
 
-**Controleer data in NMBRS**
+## Controleer data in NMBRS
 
-Nadat de data in NMBRS is aangekomen kun je deze data gemakkelijk controleren met de data in eitje omdat alles netjes bij elkaar is opgeteld.
+Nadat de data in NMBRS is aangekomen kun je deze data gemakkelijk controleren door in te loggen in je Nmbrs omgeving.
 
 <video controls
        muted 
@@ -104,5 +112,4 @@ Nadat de data in NMBRS is aangekomen kun je deze data gemakkelijk controleren me
        height="384">
 </video>
 
-
-> Om de export met NMBRS in te stellen is het van belang dat je een aantal instellingen hebt gedaan. Wij verwijzen je hiervoor graag naar [de volgende pagina](/koppelingen?id=nmbrs)
+---
