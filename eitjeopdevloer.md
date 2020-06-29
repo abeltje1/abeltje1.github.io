@@ -1,28 +1,33 @@
 # eitjeopdevloer
 
-Door het gebruik van eitjeopdevloer kun je gemakkelijk je eigen kloksysteem opzetten. Dit is een aparte app van eitje en zorgt ervoor dat je personeelsleden via een tablet kunnen inklokken. 
-
-> Om ervoor te zorgen dat je teamleden kunnen inklokken moet je eerst eitjeopdevloer koppelen aan je eitje omgeving. 
+Door het gebruik van eitjeopdevloer kun je gemakkelijk je eigen kloksysteem opzetten. Dit is een aparte app van eitje op je **iPad** en/of **Google Tablet** en zorgt ervoor dat je personeelsleden kunnen inklokken. 
 
 
-## Download eitjeopdevloer
-Je kunt op een tablet zowel via de <a href="https://play.google.com/store/apps/details?id=com.eitjeopdevloer" target="blank">Google PlayStore</a> als de <a href="https://itunes.apple.com/nl/app/eitjeopdevloer/id1446451276?mt=8" target="blank">Apple Store</a> eitjeopdevloer downloaden.
+**Spring naar**
+* [Je kloksysteem opzetten](eitjeopdevloer?id=je-kloksysteem-koppelen)
+* [Verschillende instellingen](eitjeopdevloer?id=verschillende-instellingen)
+* [Extra device koppelen](eitjeopdevloer?id=extra-device-koppelen)
 
-## eitjeopdevloer koppelen aan je eitje omgeving
-Als je de app opstart zal deze vragen om een keyID en een secretID. Deze kun je aanmaken via je eitje omgeving en zal ervoor zorgen dat de geklokte uren van je teamleden in eitje er worden bijgeschreven. Om dit te doen ga je via de webversie van eitje naar Bedrijf en kies je in de linker navigatie op: eitjeopdevloer.
+---
 
-In dit scherm kun jij je eerste connectionKey genereren. Deze codes kun je vervolgens gebruiken in de eitjeopdevloer app om de koppeling tot stand te brengen.
+## Je kloksysteem opzetten
 
-## Afrondingsinstellingen
-Je kunt ervoor kiezen om de geklokte tijden af te laten ronden. Hiervoor heb je verschillende mogelijkheden, zo kun je de uren gemiddeld/naar boven/naar beneden afronden. Per instelling zijn er ook verschillende tijdseenheden te kiezen.
+* **Stap 1:** start met het downloaden van eitjeopdevloer uit de <a href="https://play.google.com/store/apps/details?id=com.eitjeopdevloer" target="blank">Google PlayStore</a> of de <a href="https://itunes.apple.com/nl/app/eitjeopdevloer/id1446451276?mt=8" target="blank">Apple Store</a>.
+* **Stap 2:** bij het openen van eitjeopdevloer zal deze vragen om een **KeyID** en een **SecretID**. Beide worden gevonden door in het webplatform van eitje te navigeren naar **Instellingen > eitjeopdevloer > Device instellingen**.
 
-## Automatisch pauze schrijven
-Via deze instelling kun jij teamleden automatisch pauze laten schrijven als zij een X aantal uur hebben gewerkt. Je kunt maximaal twee regels toekennen. 
+---
 
-> Als teamleden tussendoor zelf pauze opnemen door uit te klokken en later weer in te klokken vervalt het automatisch pauze schrijven. Deze regel wordt alleen gehanteerd als de ingestelde tijd aaneengesloten is gewerkt.
+## Verschillende instellingen
+
+* **Afrondingsinstellingen:** rond de kloktijden naar boven of beneden af met 5/10/15 minuten.
+* **Automatisch pauze schrijven:** ken automatisch tot wel 3 pauzes toe na een X aan werktijd. 
+
+---
 
 
 ## Een extra device koppelen
-Is je zaak erg groot en heb je liever een extra klokpunt, je kunt gewoon een tweede connectionKey genereren en deze op de tweede tablet activeren. 
+Is je zaak erg groot en heb je liever een extra klokpunt, je kunt gewoon een tweede device koppelen door nog een device key te genereren
 
 > Hier zijn geen extra kosten aan verbonden dus voel je vrij om meerdere devices te koppelen.
+
+---
