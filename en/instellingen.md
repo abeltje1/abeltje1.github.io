@@ -78,7 +78,7 @@ If teammembers can update their time after their shift, this setting will determ
 
 Define from which date you want to start creating timecards. 
 
-> This date should align with the startdate of your wage period.
+
 
 ---
 
@@ -99,6 +99,11 @@ Track the meals of your teammembers. You simply have to activate it. All activat
 ## Activate HR integration
 
 We offer various integrations with HR Partners. By integrating eitje with your HR partner you can create a simpler HR process. See our partner page on the website if we have an integration with your partner: https://eitje.app/partners.
+
+We offer integrations with: 
+* Nmbrs
+* Horecalonen
+* Connexie
 
 ---
 
@@ -143,6 +148,11 @@ Add additional payments to your timecards in eitje. [Read more about Allowances 
 ## POS integration
 
 Integrate eitje with your POS system and automatically receive updates on your revenue.
+
+We offer integrations with: 
+* Lightspeed
+* MplusKASSA
+* Kassatellen
 
 ---
 

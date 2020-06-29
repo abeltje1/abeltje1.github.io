@@ -65,7 +65,7 @@ Wil jij urenregistreren met eitje? Zet deze instelling dan aan, anders hoef jij 
 
 Deze instelling staat standaard aan met het activeren van de urenregistratie. Dit zorgt ervoor dat jouw teamleden zelf hun uren mogen schrijven via de app/webplatform. Als deze functie uitstaat zullen je teamleden zelf niet hun uren kunnen schrijven en kunnen alleen de mensen met de rol **Uren Schrijven** de uren mogen schrijven voor de teamleden. 
 
-> Dit gebeurd voornamelijk bij grote teams waar de shiftleaders/management aan het einde van de dag alle uren voor haar team schrijft.
+
 ---
 
 ## Uren doorgeven binnen
@@ -76,9 +76,15 @@ Hiermee stel jij in hoe lang je teamleden hun uren mogen invullen. Als deze tijd
 
 ## Vanaf welke datum wil je urenregistreren
 
+Bepaal vanaf welke datum eitje urenregels mag aanmaken.
+
+
+
 ---
 
 ## Wanneer begint de nieuwe dag
+
+Geeft aan op welk tijdstip een nieuwe dag aanbreekt in eitje. Dit moment gebruiken wij ook om alle check-ins automatisch uit te klokken als ze dit zijn vergeten.
 
 ---
 
@@ -97,17 +103,19 @@ Mocht jij je uren doorzetten naar een salaris administratie pakket kun jij hier 
 
 > Neem altijd even contact op met onze support lijn voor het activeren van een koppeling. Het kan zijn dat er nog specifieke instellingen gedaan moeten worden om de koppeling functioneel te maken.
 
+Er zijn koppelingen met: 
+* Nmbrs
+* Connexie
+* Horecalonen
+
 ---
 
 ## Verdeling van loonkosten
 
-Over het algemeen is eitje niet heel moeilijk, maar zelfs wij vinden het nogal lastig om deze functie gemakkelijk uit te leggen. In het kort komt het echter hier op neer:
+Verdeel de loonkosten over verschillende omzetgroepen. Het is mogelijk om omzetgroepen aan te passen/aan te maken/ verwijderen aan de onderkant van de pop-up. Als je deze allemaal goed hebt gezet kun je met de schuifjes de verdeling maken. Zorg ervoor dat de waarde van elke schuif op 100% neerkomt. Dit zorgt ervoor dat de gewerkte uren van het desbetreffende team worden gerekent voor de betreffende omzetgroep.
 
-> Hiermee bepaal jij hoeveel procent van de gewerkte uren van een bepaald team toegekend worden aan de desbetreffende omzetgroep.
+> **Voorbeeld:** Als team: Bar voor 100% is toegekent aan de omzetgroep: Bediening, zal dit ervoor zorgen dat alle uren in de calculatie van de bediening omzetgroepen wordt meegenomen.
 
-Zo kun jij dus precies bepalen voor hoeveel procent de gewerkte uren van een bepaald team worden meegenomen in de berekeningen voor de arbeidsproductiviteit en loonkosten.
-
-Standaard zijn er twee omzetgroepen geactiveerd: Bediening & Keuken. Deze kun jij natuurlijk wel hernoemen mocht jij hier andere benamingen voor gebruiken. Daarnaast kun je ook nog omzetgroepen toevoegen en/of verwijderen. Denk hierbij bijvoorbeeld aan omzet voor Delivery, Tickets etc.
 
 ---
 
@@ -128,59 +136,46 @@ Voor meer informatie over het werken met de plus/min uren en verlof registratie 
 
 
 ## Tijdsnotatie voor opmaak van exportbestanden
+Bepaald de notatie voor je exportbestanden: 
 
+* **Uren:** 08:30
+* **Hondertallen:** 8,5
 
 ---
 
 
 ## Toeslagen
 
+Voeg toeslagen toe op bepaalde urenregels van een shift. [Meer over toeslagen](/toeslagen)
+
 ---
 
 ## Kassa koppeling
+
+Integreer je Kassa aan eitje zodat je automatisch de omzetten binnenkrijgt in eitje. 
+
+Er zijn koppelingen met: 
+* Lightspeed
+* MplusKASSA
+* Kassatellen
 
 ---
 
 
 ## Contract instellingen
+Elk contract type heeft een verschillende set met instellingen. Zorg ervoor dat je deze correct isntelt, anders zal eitje met de verkeerde data gaan rekenen. Bij twijfel, schroom niet om contact op te nemen met onze support desk.
 
-Om de loonkosten, verlof en alle andere berekening goed uit te kunnen voeren in het van belang dat de contract informatie goed is ingevoerd. Daarnaast zijn er nog een aantal instellingen die moeten gebeuren zodat eitje met de juiste cijfers kan rekenen. Hiervoor kun je voor de volgende drie contract types de instellingen aanpassen.
-
-* Nul uren contract
-* Uren contract
-* Payroll contract
-
----
-
-**Hoeveel uur is een full-time werkeek?**
-
-Maak een keuze uit 36, 38 of 40 om aan te geven uit hoeveel uur je werkweek bestaat. 
-*Het is in de horeca gebruikelijk om uit te gaan van een 38 uur.*
-
----
-
-**Verlofsaldo opbouwen voor contract type?**
-
-Met deze slider geef jij aan of er ook verlof moet worden ogpebouwd voor dit contract type. Het aantal vakantie uren dat er per contract type wordt opgebouwd kun je in de volgende invoer instellen.
-
----
-
-**Hoeveel vakantie uren worden opgebouwd per gewerkt uur?**
-
-Als er verlofopgebouwd mag worden voor dit contract type kun jij met deze invoer bepalen hoeveel uren er dan per gewerkt uur opgebouwd moeten worden. 
-*In vele horecazaken wordt met 0.096 gerekend.*
-
----
-**Wat is de omrekenfactor over het brutoloon?**
-
-Om het bruto loon van de teamleden om te rekenen naar de totale loonkosten inclusief sociale lasten en andere kosten kun jij gebruik maken van de omrekenfactor. Zo zullen de loonkosten een eerlijker beeld scheppen van de totale loonsom.
 
 
 ## Waar zijn jullie gevestigd
+
+Wil je lokale weersvoorspelling? Vul dan de adresgegevens in van jouw locatie.
 
 ---
 
 
 ## Download de informatie van je teamleden
+
+Wil je je teamleden hun data exporteren, klik op de knop en voila!
 
 ---

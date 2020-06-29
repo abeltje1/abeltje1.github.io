@@ -1,6 +1,6 @@
 # Rollen instellen
 
-Je hebt een vescheidenheid aan **Rollen** in eitje waarmee jij precies kan bepalen wie wat mag zien of kan uitvoeren. In dit hoofdstuk kijken wij naar de verschillende rollen en vertellen wij wat deze rol precies inhoudt.
+Er is een verscheidenheid aan rollen in eitje. Door rollen toe te kennen aan je teamleden geef je ze inmens veel krachten. Het is een beetje als god spelen, dus kies voorzichtig.
 
 
 **Spring naar**

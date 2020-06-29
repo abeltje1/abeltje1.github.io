@@ -1,5 +1,4 @@
 # Lightspeed integratie
-
 Automatisch en zonder handelingen altijd inzicht in je omzet. Met de koppeling tussen Lightspeed en eitje heb jij direct elke paar minuten een update van de omzet in eitje. Buiten het feit dat je nooit meer handmatig je omzet hoeft in te vullen, heb je zo ook direct live inzicht in de gemaakte loonkosten. 
 
 Om de koppeling te activeren ga je naar: **Instellingen > Vestinging instellingen > Kassa koppeling > Lightspeed** Vul simpelweg je Lightspeed gegevens in en wij doen de rest voor je.
