@@ -5,6 +5,13 @@ Je kunt in eitje heel gemakkelijk direct inzicht krijgen in de actuele omzet, lo
 
 Zowel in de **planning** als in het **weekoverzicht** kan jij inzicht krijgen in de gemaakte loonkosten en arbeidsproductiviteit. Echter zul jij in beide onderdelen verschillende analyses te zien krijgen, zo zullen we in de planning een prognose maken en in het weekoverzicht zie je juist het gerealiseerde resultaat.
 
+**Spring naar**
+* [Het openen van het financiële overzicht](loonkosten?id=het-openen-van-het-financiële-overzicht) 
+* [Prognose bekijken in de planning](loonkosten?id=prognose-bekijken-in-de-planning)
+* [Resultaat inzien in het weekoverzicht](loonkosten?id=resultaat-inzien-in-het-weekoverzicht)
+* [Financieel overzicht in de app](loonkosten?id=financieel-overzicht-in-de-app)
+
+
 ---
 
 ## Het openen van het financiële overzicht

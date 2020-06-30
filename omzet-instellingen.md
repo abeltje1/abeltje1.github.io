@@ -1,13 +1,24 @@
 # Omzet instellingen
 
 Om te starten met de omzetregistratie is het van belang dat er een aantal instellingen goed staan. Zonder deze instellingen is de data die je vanuit eitje zal ontvangen niet correct en zal je ook belangrijke inzichten gaan missen. 
-> Welke instellingen moet je allemaal doen? 
-	
-	* Verdeling van loonkosten
-	* Streefgetal loonkosten
-	* Omrekenfactor voor Nul uren / Uren / Payroll contracten
 
-**Verder is het van belang dat je teamleden allemaal voorzien zijn van een actief contract. Zonder deze informatie zal eitje geen loonkosten van een teamlid kunnen berekenen.**
+**Spring naar**
+* [Benodigde instellingen](omzet-instellingen?id=benodigde-instellingen)
+* [Verdeling van loonkosten](omzet-instellingen?id=verdeling-van-loonkosten)
+* [Omrekenfactor voor contracten](omzet-instellingen?id=omrekenfactor-voor-contracten)
+* [Streefgetal loonkosten](omzet-instellingen?id=streefgetal-loonkosten)
+
+---
+
+## Benodigde instellingen
+
+Je moet er in ieder geval voor zorgen dat de volgende drie instellingen goed zijn ingesteld onder: **Instellingen > Vestiging instellingen**:
+
+* Verdeling van loonkosten
+* Streefgetal loonkosten
+* Omrekenfactor voor Nul uren / Uren / Payroll contracten
+
+> **Verder is het van belang dat je teamleden allemaal voorzien zijn van een actief contract. Zonder deze informatie zal eitje geen loonkosten van een teamlid kunnen berekenen.**
 
 
 
@@ -22,6 +33,14 @@ Hiermee beheer je zowel je omzetgroepen als de verdeling. Je kunt onderaan de po
 
 ---
 
+## Omrekenfactor voor contracten
+
+Teamleden hebben in hun contract een bruto salaris per uur. Als werkgever betaal je echter wel meer dan alleen het bruto salaris. Deze werkgeverslasten kun je meenemen door een omrekenfactor in te stellen. Deze omrekenfactor kun je per contracttype instellen.
+
+
+---
+
+
 ## Streefgetal loonkosten
 
 Mochten de loonkosten boven het streefgetal komen zullen de loonkosten in procenten **rood** kleuren. Zo krijg jij gelijk visueel te zien als het wat minder liep en kun je snel actie ondernemen. 
@@ -30,9 +49,4 @@ Mochten de loonkosten boven het streefgetal komen zullen de loonkosten in procen
 
 ---
 
-## Omrekenfactor voor contracten
 
-Teamleden hebben in hun contract een bruto salaris per uur. Als werkgever betaal je echter wel meer dan alleen het bruto salaris. Deze werkgeverslasten kun je meenemen door een omrekenfactor in te stellen. Deze omrekenfactor kun je per contracttype instellen.
-
-> Dit getal kun je instellen onder **Instellingen > Vestiging instellingen | Contracten**.
----
