@@ -6,6 +6,7 @@
 	* [Starten met plannen](starten-met-plannen.md)
 	* [Handige rooster functies](handige-rooster-functies.md)
 	* [Werken met beschikbaarheid](werken-met-beschikbaarheid.md)
+	* [Inrichtingsmodus](inrichtingsmodus.md)
 
 * Je team aansturen
 

@@ -6,6 +6,7 @@
 	* [Start scheduling](/en/starten-met-plannen.md)
 	* [Master your schedule](/en/handige-rooster-functies.md)
 	* [Working with availability](/en/werken-met-beschikbaarheid.md)
+	* [Stealth Mode](/en/inrichtingsmodus.md)
 
 * Focus on your team
 
