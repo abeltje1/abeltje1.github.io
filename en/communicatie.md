@@ -3,13 +3,22 @@
 To make it as easy as possible to manage your teammembers, we have created many useful functions inside eitje. This way you can always keep everyone up-to-date through our communication functions. Below you will learn more about the different options and how you can best use them for your team members.
 
 **Jump to**
-* [Teamchat](en/communicatie?id=teamchat)
+* [Chat messages](en/communicatie?id=chat-messages)
 * [News updates](en/communicatie?id=news-updates)
 * [Extra features inside our app](en/communicatie?id=extra-features-inside-our-app)
 
 ---
 
-## Teamchat
+## Chat messages
+
+eitje offers a complete chat experience in the app and web platform. Take a look at the video below to get a quick tour of our chat functionality.
+
+<video controls
+       muted 
+       src="/assets/chatMovie.mov"
+       width="683"
+       height="384">
+</video>
 
 eitje offers teamchat directly inside our app. This is often used for passing on short updates for the transfer of shifts, reporting certain issues and short questions.
 

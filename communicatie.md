@@ -3,7 +3,7 @@
 Om je teamleden zo gemakkelijk mogelijk aan te sturen hebben wij vele handige functies in eitje gestopt. Zo kun jij iedereen altijd up-to-date houden door middel van onze communcatieve functies. Hieronder leer jij meer over de verschillende mogelijkheden en hoe jij deze het best kunt inzetten voor je teamleden.
 
 **Spring naar**
-* [Teamchat](/communicatie?id=teamchat)
+* [Chat berichten](/communicatie?id=chat-berichten)
 * [Nieuws update plaatsen](/communicatie?id=nieuws-update-plaatsen)
 * [Extra functionaliteiten in de app](/communicatie?id=extra-functionaliteiten-in-de-app)
 
@@ -11,10 +11,19 @@ Om je teamleden zo gemakkelijk mogelijk aan te sturen hebben wij vele handige fu
 ---
 
 
-## Teamchat
+## Chat berichten
 
-Met eitje kun jij gemakkelijk chatten met alle teamleden van het desbetreffende team. Dit wordt veelvuldig gebruikt voor het doorgeven van korte updates voor de overdracht van de shifts, het melden van bepaalde zaken en korte vragen. 
+In eitje kun jij gemakkelijk chatten met al je teamleden rechtstreeks vanuit onze web-versie of de app. Bekijk onderstaande video voor een korte demonstratie van de functionaliteiten:
 
+<video controls
+       muted 
+       src="/assets/chatMovie.mov"
+       width="683"
+       height="384">
+</video>
+
+
+	
 
 ---
 

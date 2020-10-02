@@ -10,7 +10,7 @@ Het enige wat je hierna hoeft te doen is in te loggen met je MplusKASSA inloggeg
 
 **LET OP: Om de integratie succesvol af te ronden moet je nogmaals het Kassa koppel scherm openen in de instellingen. Dit om de omzetgroepen uit MplusKASSA te koppelen aan de omzetgroepen aan eitje. [Meer over werken met omzetgroepen en de verdeling van loonkosten](instellingen?id=verdeling-van-loonkosten)**
 
-> **Deze koppeling kost €10,- per maand.**
+
 
 
 ---
