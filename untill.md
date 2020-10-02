@@ -8,7 +8,7 @@ Om de koppeling te activeren ga je naar: **Instellingen > Vestinging instellinge
 
 Door in te loggen bij unTill geef je eitje de rechten om je omzet gegevens binnen te krijgen.
 
-**LET OP: Om de integratie succesvol af te ronden moet je nogmaals het Kassa koppel scherm openen in de instellingen. Dit om de omzetgroepen uit unTill te koppelen aan de omzetgroepen aan eitje. [Meer over werken met omzetgroepen en de verdeling van loonkosten](instellingen?id=verdeling-van-loonkosten)**
+**LET OP: Om de integratie succesvol af te ronden moet je nogmaals het kassa koppel scherm openen in de instellingen. Zoi kun je omzetgroepen uit unTill koppelen aan de omzetgroepen aan eitje. [Meer over werken met omzetgroepen en de verdeling van loonkosten](instellingen?id=verdeling-van-loonkosten)**
 
 
 
