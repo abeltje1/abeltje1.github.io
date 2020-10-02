@@ -1,4 +1,4 @@
-# unTill integratie
+# unTill integratie activeren
 
 Automatisch en zonder handelingen altijd inzicht in je omzet. Met de koppeling tussen unTill en eitje heb jij direct elke paar minuten een update van de omzet in eitje. Buiten het feit dat je nooit meer handmatig je omzet hoeft in te vullen, heb je zo ook direct live inzicht in de gemaakte loonkosten. 
 
