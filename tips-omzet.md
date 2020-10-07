@@ -13,6 +13,7 @@ Om de omzetregistratie nog makkelijker te maken hebben wij hier nog een paar han
 Het is natuurlijk al heel erg handig als je elke avond direct je cijfers kunt inzien, maar door te werken met onze integraties zul je zelfs elk half uur live je omzet en loonkosten kunnen inzien. Zo kun je dus al direct op de dag zelf je team aansturen.
 
 * [Lightspeed](lightspeed.md)	
+* [unTill](untill.md)	
 * [Mplus Kassa](mplus.md)	
 * [Kassatellen](kassatellen.md)	
 
