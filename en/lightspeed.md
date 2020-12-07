@@ -7,6 +7,5 @@ To activate the Lightspeed integration navigate towards: **Settings > Company se
 **Important: After the integration is succesfull you will need to navigate towards the POS integration pop-up one more time to hook your LS floors to the revenuegroups in eitje. [More about working with revenuegroups and laborcost distribution](/en/instellingen?id=laborcost-distribution)**
 
 
-> **This integration will add €10,- to your invoice on a monthly basis.**
 
 ---
