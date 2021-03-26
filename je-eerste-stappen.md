@@ -11,7 +11,7 @@ Het is niet lastig om te starten met eitje, maar een klein beetje hulp kan nooit
 
 ## Teams aanmaken
 
-Om te beginnen is het belangrijk om te weten dat eitje compleet draait om jouw teams. Alle teamleden zullen automatisch worden toegevoegd aan team **Algemeen**,maar je kan natuurlijk zelf gemakkelijk nieuwe teams aanmaken. Het aanmaken van een team kun je doen onder het tabje **Teamleden** in de header. Door op **Start een nieuw team** te klikken kun jij een nieuw team beginnen. Het enige wat je hoeft te doen is een teamnaam in te voeren en aan te geven of jij een chatgroep wilt activeren voor dit team. 
+Om te beginnen is het belangrijk om te weten dat eitje compleet draait om jouw teams. Alle teamleden zullen automatisch worden toegevoegd aan team **Algemeen**,maar je kan natuurlijk zelf gemakkelijk nieuwe teams aanmaken. Het aanmaken van een team kun je doen onder het tabje **Team** in de header. Door op **Team toevoegen** te klikken kun jij een nieuw team beginnen. Het enige wat je hoeft te doen is een teamnaam in te voeren en aan te geven of jij een chatgroep wilt activeren voor dit team. 
 
 <video controls
        muted 
@@ -40,12 +40,13 @@ Nu jij de teamstructuur in eitje hebt aangemaakt is het tijd om je teamleden uit
 ---
 
 
-## Teamleden toevoegen aan teams
+## Teamleden toevoegen/verwijderen aan een team
 
-Na het uitnodigen kun je nog steeds beheren welk teamleden allemaal tot het team behoren. Dit doe je als volgt:
+Na het uitnodigen kun je natuurlijk nog steeds beheren welk teamleden allemaal tot het team behoren. Dit doe je als volgt:
 
 * 1. Selecteer het team dat je wilt beheren
-* 2. Klik op **Beheer teamleden**
+* 2. Klik op **Aaan team toevoegen / Uit team verwijderen** 
+* 3. Selecteer de teamleden die je wilt toevoegen/verwijderen en klik op doorvoeren.
 
 
 <video controls
@@ -56,5 +57,6 @@ Na het uitnodigen kun je nog steeds beheren welk teamleden allemaal tot het team
 </video>
 
 ---
+
 
 Nice job! Je hebt wat frisse gezichten toegevoegd aan je eitje vestiging. [Nu ben je klaar om te starten met plannen](/starten-met-plannen).

@@ -29,10 +29,9 @@ In deze pop-up kun jij alle e-mailadressen plakken die jij wilt toevoegen. Je ku
 ## Teamlid toevoegen aan team
 
 Na het toevoegen van je teamleden is iedereen automatisch toegevoegd aan team **Algemeen**. Je hoeft nu alleen nog maar je teamleden over de andere teams te verdelen. 
-* Selecteer het team waar je teamleden aan wilt toevoegen.
-* Klik op **Beheer teamleden**. 
-* Kies de teamleden die je wilt toevoegen.
-* Klik op **Doorvoeren**.
+* 1. Selecteer het team dat je wilt beheren
+* 2. Klik op **Aaan team toevoegen / Uit team verwijderen** 
+* 3. Selecteer de teamleden die je wilt toevoegen/verwijderen en klik op doorvoeren.
 
 <video controls
        muted 

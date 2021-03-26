@@ -5,6 +5,7 @@ Om je HR zaken netjes en overzichtelijk te houden, kun je in eitje gemakkelijk d
 **Spring naar**
 * [Contract types](/contracten?id=contract-types)
 * [Contract aanmaken](/contracten?id=contract-aanmaken)
+* [Contract mutatie maken](/contracten?id=contract-mutatie-maken)
 
 ---
 
@@ -28,6 +29,22 @@ Je kunt een contract aanmaken voor een teamlid door het profiel van het desbetre
 <video controls
        muted 
        src="/assets/contractAanmaken.mov"
+       width="683"
+       height="384">
+</video>
+
+---
+
+
+## Contract mutatie maken
+
+Zijn er wijzigingen in het huidige contract? Geen probleem, je maakt eenvoudig een mutatie. In dit voorbeeld maken wij een salaris mutatie, maar je kunt bijvoorbeeld ook types muteren of de werkweek.
+
+> Door de Nmbrs integratie te activeren kun je automatisch de mutaties van teamleden binnenhalen.
+
+<video controls
+       muted 
+       src="/assets/contractMutatieAanmaken.mov"
        width="683"
        height="384">
 </video>

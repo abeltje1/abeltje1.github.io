@@ -12,7 +12,7 @@ In Dutch besides eitje being a delicious egg, it's a way to say that something i
 ## Creating teams
 For starters; it's necessary to understand that eitje is all about your team. All your teammembers are automatically added to the **General** Team, but you can easily create more teams. In the following tutorial we will show you how to create a new team. 
 
-Creating a new team is done under the tab **Teammembers**. On the bottom right side of panel you can click the button that says **Start new Team**. Just make sure you enter a name and decide if you would like to have a chatgroup with it.
+Creating a new team is done under the tab **Team**. On the bottom you can click the button that says **Add Team**. Just make sure you enter a name and decide if you would like to automatically create a chatgroup with it.
 
 <video controls
        muted 
@@ -46,7 +46,8 @@ After creating the teams it is time to add some teammembers to eitje. On the rig
 Forgot to add your new teammembers to a team? Don't worry; you can easily manage your team.
 
 * 1. Select the team
-* 2. Click **Manage teammembers** 
+* 2. Click **Add to team / Remove from team**
+* 3. Select the teammembers you would like to add/remove from team and select OK. 
 
 
 

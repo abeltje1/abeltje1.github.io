@@ -5,6 +5,7 @@ You can easily manage the contracts of your teammembers. This way you always kno
 **Jump to**
 * [Contract types](/en/contracten?id=contract-types)
 * [Creating a contract](/en/contracten?id=creating-a-contract)
+* [Contract mutations](/en/contracten?id=contract-mutations)
 
 ---
 
@@ -30,3 +31,19 @@ By navigating to the profile of your teammember you can easily create a contract
        width="683"
        height="384">
 </video>
+
+
+## Contract mutations
+
+Any changes in a active contract? No problem at all, you can easily create mutations from a specific date on a contract. In this video we show you how to create a salary mutation, but works just the same for the contract type or specific hours in the workweek.
+
+> By integrating Nmbrs to eitje, you can automatically fetch the contracts from your teammembers.
+
+<video controls
+       muted 
+       src="/assets/contractMutatieAanmaken.mov"
+       width="683"
+       height="384">
+</video>
+
+---
