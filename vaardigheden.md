@@ -4,8 +4,9 @@ Om de training van je teamleden in goede banen te leiden is het handig om te wer
 
 **Spring naar**
 * [Functies & Vaardigheden ](/vaardigheden?id=functies-amp-vaardigheden)
-* [Aanmaken van Functies & Vaardigheden](/vaardigheden?id=aanmaken-van-functies-amp-vaardigheden)
-* [Toekennen van vaardigheden](/vaardigheden?id=toekennen-van-vaardigheden)
+* [Aanmaken van functie](/vaardigheden?id=aanmaken-van-functie)
+* [Aanmaken van vaardigheid](/vaardigheden?id=aanmaken-van-vaardigheid)
+* [Toekennen van vaardigheid aan functie](/vaardigheden?id=toekennen-van-vaardigheid-aan-functie)
 * [Functies in de planning](/vaardigheden?id=functies-in-de-planning)
 * [Functies in de beschikbaarheid](/vaardigheden?id=functies-in-de-beschikbaarheid)
 
@@ -16,22 +17,39 @@ Om de training van je teamleden in goede banen te leiden is het handig om te wer
 ## Functies & Vaardigheden 
 Om te beginnen is het handig om te weten dat er een verschil is tussen functies en vaardigheden.
 
-* **Vaardigheden:** Teamleden kunnen beschikken over allemaal losse vaardigheden. Je kunt zoveel mogelijk vaardigheden aanmaken als je zelf wilt.
 * **Functies:** Vaardigheden kun je vervolgens weer koppelen aan een functie. Als het teamlid alle vaardigheden van die functie bezit zal hij automatisch ook de functie beheersen. Deze functies komen vervolgens ook weer terug in de planning.
+* **Vaardigheden:** Teamleden kunnen beschikken over allemaal losse vaardigheden. Je kunt zoveel mogelijk vaardigheden aanmaken als je zelf wilt.
+
 
 
 
 ---
 
-## Aanmaken van Functies & Vaardigheden
+## Aanmaken van functies
 
-Vaardigheden aanmaken kun je aanmaken door op **Beheer vaardigheden** te klikken. Hier kun je vervolgens alles aanmaken:
+Functies maak je aan door op **Maak nieuwe functie** te klikken. Hier kun je vervolgens alle velden invullen:
 
 * **Kleur:** De kleur die deze functie op het rooster krijgt.
 * **Functie:** De naam van de functie. De eerste letter komt terug op het rooster.
-* **Vaardigheden:** Alle vaardigheden die vallen onder deze functie. 
+* **Team:** Geef aan voor welk team deze functie relevant is.
+* **Actief op rooster:**  Zorgt ervoor dat functie op het rooster weergegeven wordt.
 
-> Als een vaardigheid niet aan een functie wordt gekoppeld zal deze worden weergeven onder **Overige**.
+
+
+<video controls
+       muted 
+       src="/assets/aanmakenFunctie.mov"
+       width="683"
+       height="384">
+</video> 
+
+
+---
+
+## Aanmaken van vaardigheid
+
+Vaardigheden maak je simpelweg aan door bij **Vaardigheid aanmaken** de naam van de vaardigheid in te vullen en vervolgens met je muis buiten het invoerveld te klikken.
+
 
 <video controls
        muted 
@@ -43,9 +61,11 @@ Vaardigheden aanmaken kun je aanmaken door op **Beheer vaardigheden** te klikken
 
 ---
 
-## Toekennen van vaardigheden
 
-Het toekennen van een vaardigheid gaat simpelweg door het vinkje van de vaardigheid aan te klikken. Hierbij zal eitje altijd bijhouden wie deze vaardigheid heeft toegekend en op welk moment.
+
+## Toekennen van vaardigheden aan functie
+
+Het toekennen van een vaardigheid gaat simpelweg door het vinkje van de vaardigheid aan te klikken. 
 
 <video controls
        muted 
@@ -56,6 +76,8 @@ Het toekennen van een vaardigheid gaat simpelweg door het vinkje van de vaardigh
 
 
 ---
+
+
 
 ## Functies in de planning
 
