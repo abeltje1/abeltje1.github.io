@@ -3,18 +3,18 @@
 De tijd van het meegeven van handleidingen aan nieuwe teamleden is geweest. Vandaag de dag kan er veel informatie natuurlijk veel gemakkelijker worden gedeeld en dan vooral met eitje. Je kunt namelijk complete trainingen in eitje integreren om zo je teamleden gemakkelijk op de hoogte te brengen van alle informatie. 
 
 **Spring naar**
-* [Nieuw topic maken](/handboek?id=nieuw-topic-maken)
-* [Nieuw artikel aanmaken](/handboek?id=nieuw-artikel-aanmaken)
-* [Het toevoegen van artikelen aan een topic](/handboek?id=invoegen-van-afbeeldingen)
-* [Een kort rondje door de artikel editor](/handboek?id=lijstjes-maken)
-* [Het gebruiken van PDF bestanden als artikel](/handboek?id=sorteren-van-handboek-artikelen)
-* [Het aanmaken van quizvragen](/handboek?id=invoegen-van-bijlagen)
-* [Publiceren en een Test run](/handboek?id=publiceren-en-een-test-run)
+* [Nieuw topic maken](/training?id=nieuw-topic-maken)
+* [Nieuw artikel aanmaken](/training?id=nieuw-artikel-aanmaken)
+* [Het toevoegen van artikelen aan een topic](/training?id=het-toevoegen-van-artikelen-aan-een-topic)
+* [Een kort rondje door de artikel editor](/training?id=een-kort-rondje-door-de-artikel-editor)
+* [Het gebruiken van PDF bestanden als artikel](/training?id=het-gebruiken-van-pdf-bestanden-als-artikel)
+* [Het aanmaken van quizvragen](/training?id=het-aanmaken-van-quizvragen)
+* [Publiceren en een Test run](/training?id=publiceren-en-een-test-run)
 
 
-* [Activeer een training bij een topic](/handboek?id=activeer-een-training-bij-een-topic)
-* [Start training voor een specifiek teamlid](/handboek?id=start-training-voor-een-specifiek-teamlid)
-* [Analytics bekijken van je topic](/handboek?id=analytics-bekijken-van-je-topic)
+* [Activeer een training bij een topic](/training?id=activeer-een-training-bij-een-topic)
+* [Start training voor een specifiek teamlid](/training?id=start-training-voor-een-specifiek-teamlid)
+* [Analytics bekijken van je topic](/training?id=analytics-bekijken-van-je-topic)
 
 
 ---

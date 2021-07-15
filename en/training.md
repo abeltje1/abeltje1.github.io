@@ -4,18 +4,18 @@ It's much easier and convenient to share your companies training and knowledge i
 
 
 **Jump to**
-* [Start a topic](/handboek?id=start-a-topic)
-* [Create a article](/handboek?id=create-a-article)
-* [Adding articles to a topic](/handboek?id=adding-articles-to-a-topic)
-* [A short walk through the editor](/handboek?id=a-short-walk-through-the-editor)
-* [Use PDF file as article](/handboek?id=use-pdf-file-as-article)
-* [Adding quizzes](/handboek?id=adding-quizzes)
-* [Publishing and doing a test run](/handboek?id=publishing-and-doing-a-test-run)
+* [Start a topic](/en/training?id=start-a-topic)
+* [Create a article](/en/training?id=create-a-article)
+* [Adding articles to a topic](/en/training?id=adding-articles-to-a-topic)
+* [A short walk through the editor](/en/training?id=a-short-walk-through-the-editor)
+* [Use PDF file as article](/en/training?id=use-pdf-file-as-article)
+* [Adding quizzes](/en/training?id=adding-quizzes)
+* [Publishing and doing a test run](/en/training?id=publishing-and-doing-a-test-run)
 
 
-* [Activate your training](/handboek?id=activeer-een-training-bij-een-topic)
-* [Prompt the training for a specific teammember](/handboek?id=start-training-voor-een-specifiek-teamlid)
-* [View analytics for your training](/handboek?id=analytics-bekijken-van-je-topic)
+* [Activate your training](/en/training?id=activeer-een-training-bij-een-topic)
+* [Prompt the training for a specific teammember](/en/training?id=start-training-voor-een-specifiek-teamlid)
+* [View analytics for your training](/en/training?id=analytics-bekijken-van-je-topic)
 
 
 ---
