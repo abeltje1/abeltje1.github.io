@@ -11,7 +11,7 @@
 * Focus on your team
 
 	* [Communication](/en/communicatie.md)
-	* [Manual](/en/handboek.md)
+	* [Training](/en/training.md)
 	* [Skills](/en/vaardigheden.md)
 	* [Teammembers](/en/teamleden.md)
 

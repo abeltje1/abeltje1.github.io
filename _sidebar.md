@@ -11,7 +11,7 @@
 * Je team aansturen
 
 	* [Communicatie](communicatie.md)
-	* [Handboek](handboek.md)
+	* [Training](training.md)
 	* [Vaardigheden](vaardigheden.md)
 	* [Teamleden](teamleden.md)
 
