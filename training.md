@@ -30,7 +30,6 @@ Om te beginnen is het goed om te weten dat je trainingen kunt bouwen door artike
        height="384">
 </video>
 
-
 ---
 
 ## Nieuw artikel aanmaken
