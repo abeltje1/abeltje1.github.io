@@ -6,7 +6,7 @@ Als je net begint met eitje staat je account altijd op inrichtingsmodus. Dit hou
 **Spring naar**
 * [Wat is deze modus](inrichtingsmodus?id=wat-is-deze-modus)
 * [Je eitje omgeving inrichten](inrichtingsmodus?id=je-eitje-omgeving-inrichten)
-* [Inrichtingsmodus deactiveren](inrichtingsmodus?id=inrichtingsmodus-deactivereniterm)
+* [Inrichtingsmodus deactiveren](inrichtingsmodus?id=inrichtingsmodus-deactiveren)
 
 ---
 
