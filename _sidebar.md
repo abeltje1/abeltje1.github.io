@@ -42,6 +42,7 @@
 * Koppelingen
 
 	* [NMBRS](nmbrs.md)
+	* [Loket](loket.md)
 	* [Horecalonen](horecalonen.md)
 	* [Connexie](connexie.md)
 	* [Lightspeed](lightspeed.md)

@@ -42,6 +42,7 @@
 * Integrations
 
 	* [NMBRS](/en/nmbrs.md)
+	* [Loket](/en/loket.md)
 	* [Horecalonen](/en/horecalonen.md)
 	* [Connexie](/en/connexie.md)
 	* [Lightspeed](/en/lightspeed.md)
