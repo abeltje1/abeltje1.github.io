@@ -7,6 +7,7 @@ You have experienced the basics of scheduling with eitje, but luckily there are 
 * [Saving a template](en/handige-rooster-functies?id=saving-a-template)
 * [Loading a template](en/handige-rooster-functies?id=loading-a-template)
 * [Schedule unavailabe teammembers](en/handige-rooster-functies?id=schedule-unavailabe-teammembers)
+* [Exporting the schedule](en/handige-rooster-functies?id=exporting-the-schedule)
 * [More companies in one overview](en/handige-rooster-functies?id=more-companies-in-one-overview)
 * [Tracking the number of shifts](en/handige-rooster-functies?id=tracking-the-number-of-shifts)
 * [Publish your open shifts](en/handige-rooster-functies?id=publish-your-open-shifts)
@@ -70,6 +71,23 @@ Your team members can indicate their availability, but that does not mean that t
 
 
 ---
+
+
+
+## Exporting the schedule
+
+Did you knew that you can easily export the schedule to a Excel file. This enables you to print the schedule with just a few clicks. You can export the schedule in two different views.
+
+* **Table view**:  Show all shifts with the days on top and the teammembers on the left side. This gives you all of the shifts of one teammembers side by side.
+* **List view**: Show all shifts on a day underneath eachother sorted on time. This export also includes a little bit more information like the note that's added to a shift.
+
+<video controls
+       muted 
+       src="/assets/exportSchedule.mov"
+       width="683"
+       height="384">
+</video> 
+
 
 
 ## More companies in one overview

@@ -6,6 +6,7 @@ Je hebt de basis van plannen met eitje ervaren, maar gelukkig zijn er nog veel m
 * [Template opslaan](/handige-rooster-functies?id=template-opslaan)
 * [Template inladen](/handige-rooster-functies?id=template-inladen)
 * [Onbeschikbare teamleden inplannen](/handige-rooster-functies?id=onbeschikbare-teamleden-inplannen)
+* [Exporteren van het rooster](/handige-rooster-functies?id=exporteren-van-het-rooster)
 * [Meer bedrijven in je planning](/handige-rooster-functies?id=meer-bedrijven-in-je-planning)
 * [Bijhouden van aantal shifts](/handige-rooster-functies?id=bijhouden-van-aantal-shifts)
 * [Open shifts publiceren](/handige-rooster-functies?id=open-shifts-publiceren)
@@ -60,6 +61,26 @@ Je teamleden kunnen hun beschikbaarheid opgeven, maar dat wil natuurlijk niet ze
 <video controls
        muted 
        src="/assets/onbeschikbaarInplannenV2.mov"
+       width="683"
+       height="384">
+</video> 
+
+
+---
+
+
+
+## Exporteren van het rooster
+
+Wist je dat je heel eenvoudig het rooster kon exporteren naar een Excel bestand. Zo heb je met enkele klikken het rooster uitgeprint zodat je dit ook in de zaak kan ophangen. Je kunt het rooster op verschillende manieren uitprinten. 
+
+* **In een tabel**:  Weergeef alle shifts met de dagen bovenaan en de teamleden aan de linkerkant. Zo heb je in één overzicht 
+direct zicht hoeveel shifts je in de week werkt.
+* **In een lijst**: Weergeef alle shifts van een dag onder elkaar gesorteerd op tijd. Deze export bevat iets meer informatie zoals bijvoorbeeld ook een veld met de opmerking die zijn toegevoegd aan een shift.
+
+<video controls
+       muted 
+       src="/assets/exportSchedule.mov"
        width="683"
        height="384">
 </video> 
